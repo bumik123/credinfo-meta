@@ -1,0 +1,53 @@
+{
+  "variant": "core",
+  "joining_fee": "₹2,499 + GST",
+  "renewal_fee": "₹2,499 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "24 Reward Points for every Rs. 200 spent online. 12 Reward Points for every Rs. 200 spent on offline shopping and 6 RPs on select categories"
+    ],
+    "Reward Redemption": [
+      "Reward Points Can be Redeemed on the YesRewardz Portal Against Multiple Options"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "12 Domestic Lounge Visits Every Year (3 Per Quarter) on Spending ₹1 Lakh or More in the Previous Quarter"
+    ],
+    "International Lounge Access": [
+      "6 Lounge Visits Outside India Each Year"
+    ],
+    "Golf": [
+      "4 Complimentary Rounds of Golf With Green Fee Waived and 1 Complimentary Golf Lesson Per Year"
+    ],
+    "Insurance Benefits": [
+      "Insurance coverage is worth Rs. 3 crore if the cardholder's life is lost due to an air accident, and medical insurance is worth Rs. 50 lakh in case of emergency overseas hospitalization and a Credit Shield cover (up to Rs. 10 lakh) against outstanding card dues in the unfortunate event of the primary cardholder's death."
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The Joining Fee is Waived on Spending Rs. 40,000 Within 30 Days of Card Issuance. and the Renewal Fee is Waived on Annual Spends of Rs. 3 Lakh or More.",
+    "Rewards Redemption Fee": "Rs. 100 + GST",
+    "Foreign Currency Markup": "1.75% (plus applicable taxes)",
+    "Interest Rates": "2.99% per month (35.88% annually)",
+    "Fuel Surcharge": "1% fuel surcharge is waived on all fuel purchases at all fuel stations across India for transactions between Rs. 400 and Rs. 5000 (waiver capped at Rs. 1000 per month).",
+    "Cash Advance Charges": "2.5% Or Rs. 500 (Whichever is Higher)"
+  },
+  "product_details": [
+    "24 Reward Points for every ₹200 spent on online shopping.",
+    "12 Reward Points for every ₹200 spent offline.",
+    "6 Reward Points on every spend of ₹200 on select categories like insurance, education, government, and wallet payments."
+  ],
+  "status": "ok"
+}

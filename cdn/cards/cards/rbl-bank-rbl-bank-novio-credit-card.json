@@ -1,0 +1,53 @@
+{
+  "variant": "core",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "2,000 Reward Points when you make purchases of ₹5,000 within 30 days of card issuance, a clear sign that you're valued as a customer.",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "2 Reward Points per ₹100 for all your online spends, 1 Reward Point per ₹100 for all other spends (exclusions may apply)."
+    ],
+    "Reward Redemption": [
+      "N/A"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.99% per month (47.88% annually)",
+    "Fuel Surcharge": "1% or ₹10, whichever is higher",
+    "Cash Advance Charges": "2.5% of the Cash Amount (min. ₹500)"
+  },
+  "product_details": [
+    "RBL Bank Novio Credit Card is Credilio’s co-branded credit card with RBL.",
+    "₹500 + GST, making it a budget-friendly option for everyday spending.",
+    "It supports UPI and is available on the RuPay Select network for added ease of use.",
+    "2 Reward Points for every ₹100 spent online and 1 Reward Point for every ₹100 spent offline."
+  ],
+  "status": "ok"
+}

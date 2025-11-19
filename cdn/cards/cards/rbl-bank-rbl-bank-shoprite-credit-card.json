@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "Lifetime Free",
+  "renewal_fee": "Lifetime Free",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "2,000 Reward Points",
+  "benefits": {
+    "Movie & Dining": [
+      "Get a 10% discount (up to Rs. 100) on movies through Bookmyshow 15 times a year."
+    ],
+    "Rewards Rate": [
+      "1 Reward Point for every Rs. 100 spent on retail spends, and 20 reward points on grocery purchases."
+    ],
+    "Reward Redemption": [
+      "Redeem Rewards at RBL Rewards. 1 RP = ₹0.25."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "Up to 3.99% per month",
+    "Fuel Surcharge": "1% fuel surcharge waiver on transactions between Rs. 400 and Rs. 5,000.",
+    "Cash Advance Charges": "2.5% of the Cash Withdrawn or ₹500 (Whichever is Higher)"
+  },
+  "product_details": [
+    "2,000 bonus Reward Points as a Welcome Benefit.",
+    "This is a lifetime free credit card.",
+    "For every ₹100 spent on retail purchases, you will 1 Reward Point.",
+    "For every ₹100 spent on groceries, you will get 20 Reward Points.",
+    "10% discount on movies through Bookmyshow.",
+    "Fuel surcharge waiver of 1%."
+  ],
+  "status": "ok"
+}

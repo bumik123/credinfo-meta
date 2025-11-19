@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "₹2,999 + GST",
+  "renewal_fee": "₹2,999 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "12,000 Reward Points",
+  "benefits": {
+    "Movie & Dining": [
+      "BOGO offer on movie tickets via BookMyShow"
+    ],
+    "Rewards Rate": [
+      "2 RP for every ₹100 spent online"
+    ],
+    "Reward Redemption": [
+      "1 RP = ₹0.25"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "2 complimentary visits to domestic airport lounges"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.99% monthly or 47.88% annually",
+    "Fuel Surcharge": "1% waiver on fuel transactions up to ₹150 between ₹500 and ₹4,000",
+    "Cash Advance Charges": "2.5% or ₹500"
+  },
+  "product_details": [
+    "Get 12,000 Reward Points after spending ₹2,000 within the first 30 days.",
+    "Enjoy a BOGO movie ticket offer via BookMyShow.",
+    "Access to domestic airport lounges with up to 2 complimentary visits each quarter.",
+    "The card has a spending milestone benefit where spending ₹1.5 lakh in a year earns you 10,000 additional Reward Points.",
+    "Spend over ₹3.5 lakh annually to earn an extra 10,000 Reward Points.",
+    "A 1% fuel surcharge waiver on fuel transactions."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,50 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Travel",
+    "Dining",
+    "Shopping"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "500 delight points on spending Rs 1500 or above in the first 30 days of issuance of the card and  300 delight points on the spending of Rs 1500 or above in 31 to 90 days of the issuance of the card.",
+  "benefits": {
+    "Movie & Dining": [
+      "NA"
+    ],
+    "Rewards Rate": [
+      "2 Delight points for every Rs 150 spent on shopping, dining, traveling"
+    ],
+    "Reward Redemption": [
+      "The delight points can be redeemed for a wide array of gifts vouchers providing you with lifestyle benefits. The points accumulated can be redeemed for cashback"
+    ],
+    "Travel": [
+      "NA"
+    ],
+    "Domestic Lounge Access": [
+      "NA"
+    ],
+    "International Lounge Access": [
+      "NA"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "NA"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "NA",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% on the conversion amount",
+    "Interest Rates": "2.9% per month (34.8% per annum)",
+    "Fuel Surcharge": "1% surcharge waiver on fuel transactions between Rs 400 to Rs 4000",
+    "Cash Advance Charges": "2.5% on the withdrawal amount subject to minimum of Rs 500"
+  },
+  "product_details": [],
+  "status": "ok"
+}

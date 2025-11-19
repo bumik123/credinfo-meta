@@ -1,0 +1,54 @@
+{
+  "variant": "core",
+  "joining_fee": "₹30,000 + GST",
+  "renewal_fee": "₹10,000 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Free Taj Epicure, EazyDiner Prime, and Moneycontrol Pro Membership. 5,000 Reward Points on Spending Rs. 1 Lakh Within 30 Days of Card Issuance",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "1 RP on Each Spend of Rs. 100. 0.70 RPs on Select Spends of Insurance, Utilities, Education and Rental Payments"
+    ],
+    "Reward Redemption": [
+      "Cash Credit 1 Reward Point = ₹ 0.50 or Partner Airmiles - 5 Reward Points = 4 AirMiles"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "4 Free Visits Each Quarter"
+    ],
+    "International Lounge Access": [
+      "4 Free Visits Each Quarter"
+    ],
+    "Golf": [
+      "12 Complimentary Green Fee Waivers and Golf Lessons at Top Golf Courses in India"
+    ],
+    "Insurance Benefits": [
+      "Travel Insurance is Provided"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Fee Waiver on Spends of ₹10 Lakh in a Card Anniversary Year",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "Zero Charge",
+    "Interest Rates": "3.83% Monthly and 46% Annually",
+    "Fuel Surcharge": "1% Fuel Surcharge Waiver",
+    "Cash Advance Charges": "2.5% or a Minimum Charge of Rs. 300"
+  },
+  "product_details": [
+    "This is a premium credit card.",
+    "The joining fee is Rs. 30,000 but annual charges are Rs. 10,000 from the second year.",
+    "This card carries zero forex charges.",
+    "Get free Moneycontrol Pro, EazyDiner, and Taj Epicure Memberships."
+  ],
+  "status": "ok"
+}

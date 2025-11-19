@@ -1,0 +1,62 @@
+{
+  "variant": "core",
+  "joining_fee": "₹25,000 + GST",
+  "renewal_fee": "₹5,000 + GST",
+  "best_suited_for": [
+    "Movies",
+    "Travel"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Vouchers Worth ₹25,000",
+  "benefits": {
+    "Movie & Dining": [
+      "Get a 20% discount on movies and buy 1 get 1 free offer (BOGO) on movie tickets through BookMyShow. You get a complimentary EazyDiner Prime membership."
+    ],
+    "Rewards Rate": [
+      "1 Reward Point for every Rs. 100 you spend on domestic purchases. 3 Reward Points for every Rs. 100 you spend on international purchases."
+    ],
+    "Reward Redemption": [
+      "Redeem Points for Airmiles 1 RP = 1 Airmile. For Cash 1 RP = ₹0.75"
+    ],
+    "Travel": [
+      "Get complimentary airport lounge visits"
+    ],
+    "Domestic Lounge Access": [
+      "Unlimited Free Domestic Airport Lounge Access"
+    ],
+    "International Lounge Access": [
+      "2 complimentary international lounge access per quarter"
+    ],
+    "Golf": [
+      "3 Complimentary Golf Games & Golf Lessons Each Month"
+    ],
+    "Insurance Benefits": [
+      "You get insurance coverage for an air accident, lost/delayed baggage, lost passport/ticket, missed connection, etc."
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The renewal fee is waived off on spending Rs. 10 lakhs or more in the last year.",
+    "Rewards Redemption Fee": "₹100 + GST",
+    "Foreign Currency Markup": "3.5% on all foreign currency spends",
+    "Interest Rates": "2.99% per month",
+    "Fuel Surcharge": "1% fuel surcharge waiver across all fuel stations.",
+    "Cash Advance Charges": "2.5% of the cash withdrawn or Rs. 300 (whichever is higher)"
+  },
+  "product_details": [
+    "Get up to 3 Reward Points per ₹100 spent using your IndusInd Bank Celesta Credit Card.",
+    "Reward Points redeemable against Cash credit.",
+    "Vouchers worth ₹25,000 each from Oberoi Hotels & Montblanc as a welcome gift.",
+    "20% discount on movies at BookMyShow.",
+    "Buy 1 get 1 free (BOGO) offer on movie tickets.",
+    "Complimentary EazyDiner membership.",
+    "Unlimited complimentary domestic airport lounge access and 2 international lounge access per quarter with the Priority Pass membership",
+    "Complimentary Tablet Plus membership with access to VIP privileges and benefits",
+    "Spend-based renewal fee waiver.",
+    "Complimentary golf lessons and golf games every month.",
+    "Insurance coverage against several categories.",
+    "1% waiver on fuel surcharge."
+  ],
+  "status": "ok"
+}

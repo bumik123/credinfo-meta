@@ -1,0 +1,54 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Travel"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "500 Reward Points",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "5 RPs/₹200 Spent on Train Bookings and 2 RPs/₹200 Spent on Hotel/Flights/Cruise Bookings (All Bookings to be Made With IRCTC). 1 RP/₹200 Spent on Other Eligible Purchases"
+    ],
+    "Reward Redemption": [
+      "Redeem RPs at the IRCTC Website/Mobile App. 1 RP = ₹1"
+    ],
+    "Travel": [
+      "2 Complimentary Railway Lounge Visits Each Quarter (8 Each Year)"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Insurance Cover for Train Cancellation Upto ₹5,000"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "2.5% to 3.99% Per Month",
+    "Fuel Surcharge": "1% Surcharge Waiver",
+    "Cash Advance Charges": "2.5% of the Cash Amount or a Minimum of ₹500"
+  },
+  "product_details": [
+    "The IRCTC RBL Bank Credit Card offers 5 Reward Points/₹200 spent on train ticket bookings with IRCTC.",
+    "This is a co-branded credit card offered by RBL Bank and IRCTC.",
+    "Eight complimentary railway lounge accesses are available each year with this card.",
+    "Train cancellation cover upto ₹5,000 is offered along with the IRCTC RBL Credit Card.",
+    "Make quick and easy payments via UPI using the IRCTC RBL RuPay Credit Card."
+  ],
+  "status": "ok"
+}

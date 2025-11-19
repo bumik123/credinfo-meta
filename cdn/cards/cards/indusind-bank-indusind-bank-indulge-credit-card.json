@@ -1,0 +1,63 @@
+{
+  "variant": "core",
+  "joining_fee": "₹75,000 + GST",
+  "renewal_fee": "₹10,000 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Dining",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "Buy One Get One Offer on BookMyShow (Capped at ₹700). ₹3,000 Voucher from EazyDiner (Twice Each Year)"
+    ],
+    "Rewards Rate": [
+      "1.5 Reward Points for every Rs. 100 spent using the card"
+    ],
+    "Reward Redemption": [
+      "Reward Points Redeemable Against Cash Credit, IndusMoments, or KrisFlyer Miles"
+    ],
+    "Travel": [
+      "Complimentary Priority Pass"
+    ],
+    "Domestic Lounge Access": [
+      "6 complimentary domestic lounge access per quarter under the Visa Lounge program"
+    ],
+    "International Lounge Access": [
+      "Four Complimentary International Lounge Access Using Priority Pass"
+    ],
+    "Golf": [
+      "Unlimited Golf Games at Regular Clubs and 4 Free Golf Games (Per Month) at Premium Clubs"
+    ],
+    "Insurance Benefits": [
+      "Personal air-accident insurance worth Rs. 2.5 crores"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Fee Waiver on Spends of ₹10 Lakh Each Year",
+    "Rewards Redemption Fee": "Rs. 100",
+    "Foreign Currency Markup": "1.8% + GST",
+    "Interest Rates": "1.79% per month (or 21.48% annually)",
+    "Fuel Surcharge": "1% fuel surcharge is waived for transactions between Rs. 400 and Rs, 4,000.",
+    "Cash Advance Charges": "Wavied"
+  },
+  "product_details": [
+    "First credit card in Indian sub-continent with pure 22K gold inlay.",
+    "No pre-set credit limit.",
+    "1.5 Reward Points for every Rs. 100 spent using the card.",
+    "Reward Points redeemable against Airmiles, cash credit, or IndusMoments.",
+    "Complimentary domestic and international lounge access.",
+    "Complimentary Priority Pass membership.",
+    "Buy One Get One offer on movie tickets & discount on non-movie tickets on BookMyShow.",
+    "Unlimited complimentary access to golf games at selected golf courses.",
+    "A lower interest rate of 1.79% per month.",
+    "Personal air accident cover worth Rs. 2.5 crores.",
+    "Lost card liability protection from up to 48 hours prior to the time of reporting the loss of card.",
+    "24×7 concierge service."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,54 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "₹499 + GST",
+  "best_suited_for": [
+    "Shopping",
+    "UPI"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "5 CRED Points/₹100 for E-commerce Transactions, CRED UPI, and Transactions at CRED Store, CRED Travel, and CRED Pay"
+    ],
+    "Reward Redemption": [
+      "1 CRED Point = ₹1 for Flight and Hotel Bookings Via CRED, CRED Store, and at Various CRED Merchants. 1 CRED Point = ₹0.50 for Bill Payments Via CRED"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "Monthly - 3.95%. Annual - 47.40%",
+    "Fuel Surcharge": "1% Fuel Surcharge Waiver for Transactions Between ₹500 and ₹5,000",
+    "Cash Advance Charges": "2.5% (Minimum ₹300)"
+  },
+  "product_details": [
+    "The CRED IndusInd Bank RuPay Credit Card is the first co-branded offering by CRED, a popular credit card bill payment platform.",
+    "This card is most suited for e-commerce and UPI transactions.",
+    "Cardholders shall earn 5 CRED Points/₹100 spent for e-commerce transactions, CRED UPI, CRED Store, CRED Pay, and CRED Travel.",
+    "Even utilities and insurance will be eligible to earn 1 CRED Point for every ₹100 spent."
+  ],
+  "status": "ok"
+}

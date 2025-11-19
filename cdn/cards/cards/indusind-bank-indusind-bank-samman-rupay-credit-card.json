@@ -1,0 +1,52 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Rs. 199",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Cashback"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "One Free Movie Ticket Every Six Months"
+    ],
+    "Rewards Rate": [
+      "1% Cashback on Spends of Rs. 20,000 in a Statement Cycle (Max Rs. 200)"
+    ],
+    "Reward Redemption": [
+      "N/A"
+    ],
+    "Travel": [
+      "1% Surcharge Waiver on Railway Transactions"
+    ],
+    "Domestic Lounge Access": [
+      "RuPay Exclusive Lounge Access at DEL T3 Terminal (Once Each Month)"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Travel Insurance"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "On Spends of Rs. 75,000 in a Year",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.95%Monthly (47.40%Yearly)",
+    "Fuel Surcharge": "1% Fuel Surcharge on Transactions Between Rs. 400 to Rs. 4,000",
+    "Cash Advance Charges": "Nil"
+  },
+  "product_details": [
+    "You can earn 1% cashback each month.",
+    "Earn two complimentary movie tickets each year.",
+    "This card can be linked to UPI applications."
+  ],
+  "status": "ok"
+}

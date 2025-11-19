@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "₹20,000 + GST",
+  "renewal_fee": "₹20,000 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "₹10,000 EaseMyTrip Hotel Voucher, ₹10,000 Onevasco & More Visa Services, ₹3,000 Toni & Guy Voucher and Zomato Gold Membership",
+  "benefits": {
+    "Movie & Dining": [
+      "Free Delivery and Dining Privileges With Zomato Gold Membership"
+    ],
+    "Rewards Rate": [
+      "2.5% RPs on International Spends and 2% RPs on Domestic Spends"
+    ],
+    "Reward Redemption": [
+      "Redeem Reward Points for Airmiles, Cash, and More"
+    ],
+    "Travel": [
+      "Low Forex Charges, Luxury Airport Transfers and More"
+    ],
+    "Domestic Lounge Access": [
+      "Unlimited Domestic Airport Lounge Access"
+    ],
+    "International Lounge Access": [
+      "Unlimited Complimentary Lounge Access at International Airports"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Comprehensive Insurance Cover"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Fee Waiver on Spends of ₹25 Lakhs in a Year",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "1.49%",
+    "Interest Rates": "3.75% (Monthly)",
+    "Fuel Surcharge": "1% Fuel Surcharge Waiver (Up to ₹1,000 Each Statement Cycle)",
+    "Cash Advance Charges": "No Cash Withdrawal Charges"
+  },
+  "product_details": [
+    "Times Black ICICI Bank Credit Card is a premium card offering specially designed for ultra-high-net individuals. This card offers privileges and benefits that are beneficial to those who want the best.",
+    "This card comes at a joining and annual cost of ₹20,000.",
+    "Cardholders shall get 24/7 domestic and international concierge services.",
+    "Upto 35% discount on luxury and chauffeur-driven rental cards with Avis.",
+    "Enjoy complimentary international and domestic airport lounge access with this card."
+  ],
+  "status": "ok"
+}

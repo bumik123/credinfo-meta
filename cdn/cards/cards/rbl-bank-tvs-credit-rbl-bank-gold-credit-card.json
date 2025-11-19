@@ -1,0 +1,52 @@
+{
+  "variant": "core",
+  "joining_fee": "₹1,500 + GST",
+  "renewal_fee": "₹1,500 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "6,000 bonus RP on the first transaction within 30 days from card issuance",
+  "benefits": {
+    "Movie & Dining": [
+      "5% cashback upto ₹250 on EazyDiner."
+    ],
+    "Rewards Rate": [
+      "10 RP for every ₹100 spent on international purchases; 2 RP for every ₹100 spent on everyday transactions"
+    ],
+    "Reward Redemption": [
+      "All the RP can be redeemed for vouchers and gift cards on the RBL Rewards Portal; 1 RP = ₹0.25"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "1 complimentary domestic airport lounge access every quarter"
+    ],
+    "International Lounge Access": [
+      "1 complimentary international airport lounge access every quarter"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.99% per month or 47.88% per annum",
+    "Fuel Surcharge": "1% waiver up to ₹100 on transactions between ₹400 to ₹5,000",
+    "Cash Advance Charges": "2.5% of the cash amount or a minimum of ₹500"
+  },
+  "product_details": [
+    "Complimentary lounge access per quarter for domestic and international lounges.",
+    "This card offers NCMC benefits along with easy payments through UPI linking.",
+    "Milestone benefits are also included with this card, along with a fuel surcharge waiver."
+  ],
+  "status": "ok"
+}

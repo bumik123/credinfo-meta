@@ -1,0 +1,54 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "BOGO on Movie Ticket Bookings Up to ₹200 (Once Each Month)"
+    ],
+    "Rewards Rate": [
+      "1 Reward Point/₹100 for Spends on Weekdays (~0.50%) and 2 Reward Points/₹100 for Spends on Weekends (~1%)"
+    ],
+    "Reward Redemption": [
+      "1 RP = ₹0.50 for Redemption Against Cash Credit"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Complimentary Lost Baggage Insurance of ₹1 Lakh and Other Travel Covers"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "For Cash Redemption - ₹149 + GST",
+    "Foreign Currency Markup": "1.8% + GST",
+    "Interest Rates": "3.95% Per Month (47.40% Per Annum)",
+    "Fuel Surcharge": "1% Fuel Surcharge Waiver",
+    "Cash Advance Charges": "2.5% of the Transaction Amount (Minimum Charge of ₹300)"
+  },
+  "product_details": [
+    "Buy 1 Get 1 Free (BOGO) offer on movie tickets via BookMyShow.",
+    "3,000 bonus Reward Points under the milestone benefits.",
+    "Lower foreign currency markup fee of 1.8%.",
+    "Get 1 Reward Point per ₹100 you spend on weekdays.",
+    "You get 2 Reward Points per ₹100 you spend on weekends."
+  ],
+  "status": "ok"
+}

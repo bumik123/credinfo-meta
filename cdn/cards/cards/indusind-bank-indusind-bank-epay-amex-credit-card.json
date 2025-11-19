@@ -1,0 +1,52 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Free 3-Month Zomato Gold Membership",
+  "benefits": {
+    "Movie & Dining": [
+      "3 Month Zomato Gold Membership"
+    ],
+    "Rewards Rate": [
+      "4 RPs from 1st to 4th Transaction, 8 RPs from 5th to 10th Transaction and After That 10 RPs for Each Transaction"
+    ],
+    "Reward Redemption": [
+      "RPs Can Be Redeemed for Cash Credit, AirMiles or at IndusMoments"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Air Accident Cover up to Rs. 1 Lakh"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "3.5% of the Transaction Amount",
+    "Interest Rates": "3.95% Per Month (47.40% Per Annum)",
+    "Fuel Surcharge": "N/A",
+    "Cash Advance Charges": "N/A"
+  },
+  "product_details": [
+    "This is a virtual credit card.",
+    "You will get a Zomato Gold 3-Month membership as a welcome benefit with this card.",
+    "You earn increasing Reward Points after a set of transactions, and after the 10th transaction in a statement cycle, you get 10 RPs on each transaction."
+  ],
+  "status": "ok"
+}

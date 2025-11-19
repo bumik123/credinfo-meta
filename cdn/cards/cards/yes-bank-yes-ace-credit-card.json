@@ -1,0 +1,54 @@
+{
+  "variant": "core",
+  "joining_fee": "₹499 + GST",
+  "renewal_fee": "₹499 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "For Online Spends of Rs. 200, You Get 8 Reward Points and for Offline Spends you Would Get 4 RPs. Also, Earn 2 Reward Points on Select Categories"
+    ],
+    "Reward Redemption": [
+      "The reward points can be redeemed against a variety of products and vouchers available on the website."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Purchase Protection is Provided"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Waiver of joining and renewal fee on the basis of the amount spent using the credit card.",
+    "Rewards Redemption Fee": "Rs. 100 on every redemption request.",
+    "Foreign Currency Markup": "2.75% of the transaction amount",
+    "Interest Rates": "3.8% per month",
+    "Fuel Surcharge": "1% fuel surcharge is waived off across all fuel stations in India.",
+    "Cash Advance Charges": "2.5% or Rs. 300 (whichever is higher)"
+  },
+  "product_details": [
+    "For every ₹200 spent on online purchases, you will get 8 Reward Points.",
+    "4 Reward Points on every ₹200 spent offline.",
+    "2 Reward Points per ₹200 spent on select categories like rent, insurance, etc.",
+    "Spend-based waiver of joining and renewal fee.",
+    "You can avail of great offers on dining, shopping, travel, wellness, etc."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,53 @@
+{
+  "variant": "core",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "2,000 bonus RP on the first transaction within 30 days from card issuance",
+  "benefits": {
+    "Movie & Dining": [
+      "BOGO offer on movie tickets up to ₹200 via BookMyShow"
+    ],
+    "Rewards Rate": [
+      "2 RP for every ₹100 spent online; 1 RP for every ₹100 spent on in-store purchases"
+    ],
+    "Reward Redemption": [
+      "All the RP can be redeemed for vouchers and gift cards on RBL Rewards Portal; 1 RP = ₹0.25"
+    ],
+    "Travel": [
+      "Complimentary railway lounge access once every quarter"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.99% per month or 47.88% per annum",
+    "Fuel Surcharge": "1% waiver up to ₹100 on transactions between ₹400 to ₹5,000",
+    "Cash Advance Charges": "2.5% of the cash amount or a minimum of ₹500"
+  },
+  "product_details": [
+    "Buy-one-get-one-free offer on movie tickets via BookMyShow.",
+    "NCMC features quick payments at metro stations and bus terminals.",
+    "This card can be easily linked with UPI for easy transactions.",
+    "Milestone benefits worth 2,000 Reward Points are included with this card."
+  ],
+  "status": "ok"
+}

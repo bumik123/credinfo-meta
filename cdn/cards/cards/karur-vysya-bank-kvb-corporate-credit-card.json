@@ -1,0 +1,53 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Travel"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "NA",
+  "benefits": {
+    "Movie & Dining": [
+      "NA"
+    ],
+    "Rewards Rate": [
+      "2 Reward Points on every Rs 100 spent using this KVB credit card."
+    ],
+    "Reward Redemption": [
+      "You can redeem your reward points by calling the customer care number at 1800 419 6500/022-404 260 31. The customers can log in to your internet banking or mobile banking"
+    ],
+    "Travel": [
+      "NA"
+    ],
+    "Domestic Lounge Access": [
+      "2 complimentary domestic lounge access"
+    ],
+    "International Lounge Access": [
+      "NA"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "NA"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "NA",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "NA",
+    "Interest Rates": "2.95% per month ( 35.40 p.a.)",
+    "Fuel Surcharge": "2% fuel surcharge waiver on fuel transactions per month 300 for transactions of Rs 400 to Rs 4000.",
+    "Cash Advance Charges": "2% on the withdrawal amount or Rs 100 whichever is higher"
+  },
+  "product_details": [
+    "No Joining Fee Charged",
+    "2 Complimentary Lounge Access in India",
+    "2 Reward Points on every Rs 100 spent",
+    "1% fuel surcharge waiver on transactions per month 300 for transactions of Rs 400 to Rs 4000."
+  ],
+  "status": "ok"
+}

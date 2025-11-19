@@ -1,0 +1,54 @@
+{
+  "variant": "core",
+  "joining_fee": "₹2,999 + GST",
+  "renewal_fee": "₹2,999 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Up to 7,500 Reward Points",
+  "benefits": {
+    "Movie & Dining": [
+      "BOGO on Movie Ticket Bookings Upto ₹400 With District by Zomato, Twice Each Month (Annual Benefit - ₹9,600)"
+    ],
+    "Rewards Rate": [
+      "10X Reward Points/₹150 on Incremental Spends Above ₹20,000 Per Statement Cycle. 5X Reward Points/₹150 on Spends Upto ₹20,000. 3X RPs Are Also Awarded for Rent, Wallet Load, Education, and Government Transactions"
+    ],
+    "Reward Redemption": [
+      "Redeem for Vouchers/Cash Against Statement or Pay With Points. 1 RP = ₹0.25"
+    ],
+    "Travel": [
+      "4 Complimentary Railway Lounge Access Each Quarter, 16 Each Year (For Both Primary and Add-On Cardholders)"
+    ],
+    "Domestic Lounge Access": [
+      "4 Complimentary Lounge Access Each Quarter"
+    ],
+    "International Lounge Access": [
+      "2 Complimentary Lounge Access Each Quarter"
+    ],
+    "Golf": [
+      "2 Free Golf Rounds/Lessons on Spends of ₹20,000 Each in a Statement Cycle"
+    ],
+    "Insurance Benefits": [
+      "Purchase Protection, Personal Accident Cover, Free Trip Cancellation Protection, Travel Insurance and Credit Shield"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99 +GST",
+    "Foreign Currency Markup": "1% on International Transactions",
+    "Interest Rates": "Up to 46.2% Annually",
+    "Fuel Surcharge": "1% Waiver on Fuel Surcharge Upto ₹300",
+    "Cash Advance Charges": "₹199"
+  },
+  "product_details": [
+    "Ashva Credit Card is a rewarding card from IDFC First Bank. It is available in the metal variant.",
+    "Free movie tickets worth ₹400 are offered on bookings made with District by Zomato. This benefit is available twice each month.",
+    "Primary and add-on cardholders are offered free domestic and international airport lounge access with the Ashva Card.",
+    "Spend-based golfing privileges are available with this card."
+  ],
+  "status": "ok"
+}

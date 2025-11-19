@@ -1,0 +1,58 @@
+{
+  "variant": "core",
+  "joining_fee": "₹10,000 + GST",
+  "renewal_fee": "₹5,000 + GST",
+  "best_suited_for": [
+    "Travel"
+  ],
+  "reward_type": [
+    "Air Miles"
+  ],
+  "welcome_benefits": "20,000 Bonus Avios",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "6X Avios/₹200 at Preferred Destinations (POS Only), 5X Avios/₹200 for Spends on Qatar/British Airways Website, 3X Avios/₹200 for Online Spends at Preferred Destinations and 1X Avios/₹200 for Spends on Utilities, Insurance and Government Services"
+    ],
+    "Reward Redemption": [
+      "Avios earned can be redeemed against a host of different options at the Qatar Airways or British Airways website"
+    ],
+    "Travel": [
+      "Airport meet and greet, complimentary domestic and international lounge access, 10% discount on Qatar Airways flights from India"
+    ],
+    "Domestic Lounge Access": [
+      "2 domestic lounge access per quarter"
+    ],
+    "International Lounge Access": [
+      "2 international lounge access per quarter with Priority Pass"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Travel Insurance, Air Accident Cover, and International Travel Health Insurance"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "1.5% at Preferred International Destinations and 3.5% Everywhere Else",
+    "Interest Rates": "3% Per Month and 36% Per Annum",
+    "Fuel Surcharge": "1% Waiver for Fuel Spends Between ₹500 and ₹10,000",
+    "Cash Advance Charges": "Nil"
+  },
+  "product_details": [
+    "Bonus 20,000 Avios as a welcome benefit.",
+    "2x Avios per Rs. 200 spent on Qatar or British Airways website and 1x Avios on other domestic and international spends.",
+    "5x Avios per Rs. 200 spent at preferred international destinations.",
+    "Low forex markup fee of 1.5% at preferred international destinations.",
+    "Up to 36,000 Avios as a milestone benefit on reaching the target spend.",
+    "Bonus 5000 Avios as a renewal benefit.",
+    "2 International lounge access per quarter with Priority Pass membership and 2 domestic lounge access per quarter.",
+    "Airport meet and greet service and personal concierge service.",
+    "Travel-related insurance benefits and 1% fuel surcharge waiver."
+  ],
+  "status": "ok"
+}
