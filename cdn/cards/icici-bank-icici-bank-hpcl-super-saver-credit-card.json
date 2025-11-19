@@ -1,0 +1,61 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Fuel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "2,000 bonus Reward Points on paying the membership fee within 2 months and spending at least Rs. 5,000 within the first 45 days of card issuance; Rs. 100 cashback on HP Pay app on the first fuel purchase of Rs. 1,000 or more.",
+  "benefits": {
+    "Movie & Dining": [
+      "25% discount (max Rs. 100 per transaction) on movie tickets booked on BookMyShow and Inox movies individually, dining benefits under the ICICI Bank Culinary Treats Program"
+    ],
+    "Rewards Rate": [
+      "4% cashback on fuel spends at HPCL pumps, 5% cashback as RPs on departmental store spends & utility purchases, 2 Reward points per Rs. 100 spent for all other domestic and international transactions."
+    ],
+    "Reward Redemption": [
+      "1 Reward Point = ₹0.25"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "1 Complimentary Lounge Access Every Quarter on Spends of ₹75,000 in the Previous Quarter"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Spend ₹1.5 Lakh Each Year to Waive Annual Charges",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month (45% Per Year)",
+    "Fuel Surcharge": "1% fuel surcharge waived at all fuel stations across India",
+    "Cash Advance Charges": "2.5% of the Cash Amount or a Minimum of ₹500"
+  },
+  "product_details": [
+    "Welcome benefit of 2,000 Reward points, provided the card’s joining fee is paid within two months of card setup and a minimum spend of Rs. 5,000 is achieved within the first 45 days.",
+    "Cashback of Rs. 100 on the HPPay wallet on the first purchase made via the app.",
+    "5% savings (4% cashback + 1% fuel surcharge waiver) on fuel purchases at HPCL stations (4% cashback capped at Rs. 200 per month).",
+    "1.5% additional cashback on fuel purchases on HPCL outlets when you use HP Pay app.",
+    "Fuel surcharge waiver of 1% applicable over and above the aforementioned 4% cashback.",
+    "5% cashback as Reward points on utilities, groceries, and departmental store purchases.",
+    "2 Reward Points per Rs. 100 spent on all other purchases.",
+    "Complimentary 24×7 Road Assistance Service (RAS).",
+    "Complimentary domestic airport lounge access.",
+    "25% off on movie tickets on BookMyShow and Inox movies. Maximum discount capped at Rs. 100 per transaction.",
+    "Discount at partnered restaurants with the ICICI Bank’s exclusive Culinary Treats Program."
+  ],
+  "status": "ok"
+}

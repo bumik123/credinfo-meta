@@ -1,0 +1,55 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "Rs. 500 + GST",
+  "renewal_fee": "Rs. 500 + GST",
+  "best_suited_for": [
+    "Travel"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Amazon Voucher Worth ₹500",
+  "benefits": {
+    "Movie & Dining": [
+      "NA"
+    ],
+    "Rewards Rate": [
+      "5X Reward Points/₹100 for IRCTC Bookings and 1 Reward Point/₹100 for Other Valid Spends. An Additional 5% Cashback Can Be Earned for Rail Bookings Via SmartBuy"
+    ],
+    "Reward Redemption": [
+      "The earned Cash Points can be redeemed against travel bookings via IRCTC and several other options. 1 Cash Point = up to Re. 1."
+    ],
+    "Travel": [
+      "8 Complimentary Access to IRCTC Executive Lounges (Maximum Two Each Quarter)"
+    ],
+    "Domestic Lounge Access": [
+      "NA"
+    ],
+    "International Lounge Access": [
+      "NA"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "NA"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The renewal fee is waived on spending Rs. 1.5 lakhs or more in the previous year.",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month (45% Annually)",
+    "Fuel Surcharge": "1% Fuel Surcharge Waiver Up to ₹250 Each Statement Cycle",
+    "Cash Advance Charges": "2.5% of the cash amount or Rs. 500 (whichever is higher)"
+  },
+  "product_details": [
+    "Amazon voucher worth ₹500 as a welcome benefit.",
+    "1 Reward Point for every ₹100 spent on retail purchases.",
+    "5X Reward Points on IRCTC spends.",
+    "Complimentary railway lounge access every year.",
+    "Spend-based waiver of the renewal fee.",
+    "1% fuel surcharge waiver."
+  ],
+  "status": "ok"
+}

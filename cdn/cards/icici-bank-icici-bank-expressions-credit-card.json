@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 500 + GST",
+  "renewal_fee": "Rs. 500 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "25% discount (up to Rs. 100) on movie ticket bookings on BookMyShow on booking a minimum of 2 tickets in a single transaction. Offer can be availed maximum twice in a month."
+    ],
+    "Rewards Rate": [
+      "3 Reward Points per Rs. 100 spent with the card (except fuel, utility and insurance spends), 2 Reward Points per Rs. 100 on utility payments"
+    ],
+    "Reward Redemption": [
+      "The earned Reward Points can be redeemed against gifts or the card's outstanding balance at a rate of 1 Reward Point = Rs. 0.25."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "1 complimentary access to domestic airport lounges per quarter."
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The renewal fee is waived off on expenditure of Rs. 1.5 lakh in the previous year.",
+    "Rewards Redemption Fee": "Rs. 99 (plus applicable taxes) per redemption request",
+    "Foreign Currency Markup": "3.50% of the conversion amount",
+    "Interest Rates": "3.40% p.m. (or 40.8% annually)",
+    "Fuel Surcharge": "1% fuel surcharge waived off at HPCL filling station across India on transactions of not more than Rs. 4,000",
+    "Cash Advance Charges": "2.50% of the withdrawn amount, subject to a minimum charge of Rs. 300"
+  },
+  "product_details": [
+    "You can personalize the credit card design and look and make it unique as per your liking. You can choose from the given designs on the bank’s website or you can even have your own picture on your credit card.",
+    "3 Reward Points per Rs. 100 spent with the card (except fuel, utilities and insurance spends)",
+    "1 Reward Point on utilities and insurance spends.",
+    "25% discount up to Rs. 100 on movie tickets (minimum 2 tickets in a single transaction) on BookMyShow twice a month.",
+    "1 complimentary domestic airport lounge access per quarter.",
+    "Exclusive dining offers under ICICI Bank Culinary Treats Program."
+  ],
+  "status": "ok"
+}

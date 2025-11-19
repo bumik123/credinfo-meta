@@ -1,0 +1,54 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 99 + GST",
+  "renewal_fee": "Rs. 99 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "3% Cashpoints on Dining spends"
+    ],
+    "Rewards Rate": [
+      "3% Cashpoints on groceries, dining, and supermarket spends. 2% Cashpoints on utility spends. 1% Cashpoints on other spends, with some exclusions"
+    ],
+    "Reward Redemption": [
+      "The Cashpoints can be redeemed against card statement balance, hotel and flight ticket bookings, on the Smartbuy rewards portal, where 1 Cashpoints = Rs. 0.25"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal Fee is Waived on Annual Spends of ₹25,000",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5% of the transactions amount",
+    "Interest Rates": "3.6% per month or 43.2% per annum",
+    "Fuel Surcharge": "N/A",
+    "Cash Advance Charges": "2.5% of the withdrawal amount or Rs. 500, whichever is higher"
+  },
+  "product_details": [
+    "3% Cashpoints on supermarket, dining, grocery, and PayZapp spends",
+    "2% Cashpoints on Utility spends",
+    "1% Cashpoints on other spends excluding some spend categories",
+    "Up to 50 days of interest-free credit period",
+    "Renewal fee waiver on spending Rs. 25000 or more in the previous year"
+  ],
+  "status": "ok"
+}

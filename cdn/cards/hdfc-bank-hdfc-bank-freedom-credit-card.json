@@ -1,0 +1,53 @@
+{
+  "variant": "core",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "500 CashPoints",
+  "benefits": {
+    "Movie & Dining": [
+      "₹200 Off With Swiggy Dineout (Twice Each Month)"
+    ],
+    "Rewards Rate": [
+      "10x CashPoints on Big Basket, Swiggy, BookMyShow, Oyo, and Uber and 1 CashPoint/₹150 Spent on All Other Purchases"
+    ],
+    "Reward Redemption": [
+      "1 CashPoint = ₹0.15 for Various Redemption Options"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Rs. 50,000 spent in the previous year",
+    "Rewards Redemption Fee": "Rs. 99 per redemption request (plus applicable taxes)",
+    "Foreign Currency Markup": "3.5% on the conversion amount (plus applicable taxes)",
+    "Interest Rates": "3.75% Monthly and 45.0% Annually",
+    "Fuel Surcharge": "1% fuel surcharge waived off at all filling stations across India for transactions between Rs. 400 and Rs. 5,000",
+    "Cash Advance Charges": "2.50% of the withdrawn amount (subject to a minimum charge of Rs. 500)"
+  },
+  "product_details": [
+    "Complimentary 500 Cash Points as a welcome benefit.",
+    "Low interest rate of 0.99% for the first 90 days from the card issuance date.",
+    "10X CashPoints on various popular brands.",
+    "1 CashPoint/₹150 on all other spends with the card."
+  ],
+  "status": "ok"
+}

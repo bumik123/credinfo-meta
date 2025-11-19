@@ -1,0 +1,52 @@
+{
+  "variant": "core",
+  "joining_fee": "₹299 + GST",
+  "renewal_fee": "₹299 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "Shoppers Stop Voucher Worth ₹500 and Complimentary Shoppers Stop Silver Edge Membership",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "3% Reward Points on Every Shoppers Stop Spend and 1 % Reward Points on Non-Shoppers Stop Spends"
+    ],
+    "Reward Redemption": [
+      "Reward Points Can Be Redeemed Against Multiple Options"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5% + GST",
+    "Interest Rates": "3.75% Per Month (or 45% Annually)",
+    "Fuel Surcharge": "Cardholders get a 1% fuel surcharge waived (up to Rs. 250 per statement cycle), across all petrol stations in India.",
+    "Cash Advance Charges": "2.5 % of the transaction amount subject to a minimum charge of Rs 500."
+  },
+  "product_details": [
+    "Complimentary Shoppers Stop Silver Edge Membership.",
+    "Get a Shoppers Stop Voucher worth ₹500 as a welcome benefit redeemable on any bill value.",
+    "1% fuel surcharge waiver across all fuel stations (up to ₹250 per statement cycle)"
+  ],
+  "status": "ok"
+}

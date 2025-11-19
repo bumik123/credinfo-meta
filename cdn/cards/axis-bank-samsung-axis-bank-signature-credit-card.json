@@ -1,0 +1,57 @@
+{
+  "variant": "core",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points",
+    "Cashback"
+  ],
+  "welcome_benefits": "2,500 bonus Edge Rewards on making at least 3 transactions within the first 30 days of card issuance.",
+  "benefits": {
+    "Movie & Dining": [
+      "15% discount on dining across over 4,000 premium restaurants twice every month."
+    ],
+    "Rewards Rate": [
+      "10 Edge Rewards on every Rs. 100 spent on partnered brands and 5 Edge Rewards on other spends."
+    ],
+    "Reward Redemption": [
+      "Cashback is Provided Against Statements, and EDGE Rewards can be Redeemed for Multiple Options such as Statement Cash or Vouchers. 1 Edge Reward = ₹0.20."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "4 Complimentary Domestic Lounge Access Every Year. Visits are Unlocked on Spends of ₹50,000 in the Previous Quarter"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The annual fee of Rs. 500 is waived on spending Rs. 2 lakhs or more in the previous anniversary year.",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "N/A",
+    "Interest Rates": "3.6% per month",
+    "Fuel Surcharge": "1% fuel surcharge waiver on all fuel purchases between Rs. 400 and Rs. 4,000.",
+    "Cash Advance Charges": "2.5% of the withdrawn amount subject to a minimum of Rs. 500."
+  },
+  "product_details": [
+    "Welcome benefits of 2,500 bonus Edge Rewards.",
+    "10% cashback on all Samsung purchases.",
+    "10 Edge Rewards on every Rs. 100 spent on partnered brands.",
+    "5 Edge Rewards on every Rs. 100 spent elsewhere.",
+    "Complimentary domestic lounge access every year.",
+    "15% discount on dining spend across several premium restaurants.",
+    "1% fuel surcharge waiver on all fuel transactions."
+  ],
+  "status": "ok"
+}

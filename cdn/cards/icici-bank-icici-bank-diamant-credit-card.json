@@ -1,0 +1,61 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 1,25,000 + GST",
+  "renewal_fee": "Rs. 10,000 + GST",
+  "best_suited_for": [
+    "Movies",
+    "Travel"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "Apple MacBook Air MMGG2HN/A worth Rs. 75,000 on realization of the joining fee",
+  "benefits": {
+    "Movie & Dining": [
+      "Up to 4 complimentary movie tickets each month on BookMyShow, minimum 15% discount on dining bills at partner restaurants under Culinary Treats program, discount on dining at ITC and partner hotels with Club ITC Culinaire membership"
+    ],
+    "Rewards Rate": [
+      "6 Reward Points per Rs. 100 on internationally and 3 Reward Points on domestic spends."
+    ],
+    "Reward Redemption": [
+      "The ICICI Reward Points can be redeemed against cashback or gifts at a rate of 1 Reward Point = Rs. 0.25."
+    ],
+    "Travel": [
+      "Taj Epicure Plus and InnerCircle Gold membership, unlimited complimentary domestic and international airport lounge access"
+    ],
+    "Domestic Lounge Access": [
+      "Unlimited complimentary domestic airport lounge access"
+    ],
+    "International Lounge Access": [
+      "Unlimited complimentary international airport lounge access"
+    ],
+    "Golf": [
+      "Unlimited complimentary rounds of golf at domestic and international Golf courses"
+    ],
+    "Insurance Benefits": [
+      "Credit shield cover worth Rs. 50,000 and many travel-related insurance benefits including a personal air accident cover worth Rs. 3 crore."
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The renewal fee is waived off an annual expenditure of Rs. 25 lakh or more in the previous year.",
+    "Rewards Redemption Fee": "Rs. 99 (plus applicable taxes) for every redemption request",
+    "Foreign Currency Markup": "3.5% of the transaction amount",
+    "Interest Rates": "3.4% per month",
+    "Fuel Surcharge": "1% fuel surcharge is waived off on all fuel transactions up to Rs. 4,000",
+    "Cash Advance Charges": "2.5% of the amount withdrawn subject to a minimum charge of Rs. 300"
+  },
+  "product_details": [
+    "Apple MacBook Air MMGG2HN/A as a welcome gift on the realization of the joining fee.",
+    "6 Reward Points per Rs. 100 on international purchases.",
+    "3 Reward points per Rs. 100 on domestic purchases.",
+    "Up to 4 complimentary movie tickets every month on BookMyShow.",
+    "A minimum discount of 15% on dining bills at partner restaurants with the Culinary Treats program.",
+    "Discounts on dining bills at ITC hotels and partner hotels with Club ITC Culinaire membership.",
+    "Unlimited complimentary domestic & international lounge access for both primary and guest cardholder(s).",
+    "Unlimited complimentary golf rounds at premium golf courses across India.",
+    "Complimentary Taj Epicure Plus and InnerCircle Gold membership.",
+    "Travel-related insurance benefits including a personal air accident cover worth Rs. 3 crore and Credit shield cover worth Rs. 50,000.",
+    "24×7 concierge service for assistance regarding hotel/flight bookings, medical services and emergency auto assistance."
+  ],
+  "status": "ok"
+}

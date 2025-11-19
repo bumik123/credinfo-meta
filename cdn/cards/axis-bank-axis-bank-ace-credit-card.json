@@ -1,0 +1,57 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil for Limited Time",
+  "renewal_fee": "Rs. 499 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Utility Bills"
+  ],
+  "reward_type": [
+    "Cashback"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "15% Dining Discount Via EazyDiner"
+    ],
+    "Rewards Rate": [
+      "5% cashback on paying bills & on mobile recharges via GPay and 4% cashback on Swiggy, Ola, and Zomato, with a combined capping of Rs. 500 cashback per month. 1.5% cashback elsewhere on other merchants."
+    ],
+    "Reward Redemption": [
+      "Your earned cashback is automatically credited to the cardholders' accounts."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "4 complimentary airport lounge visits to domestic airport lounges per year"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Charges Waived on Spends of ₹2 Lakh or More",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% of the transaction amount",
+    "Interest Rates": "3.75% Per Month or 55.55% Annualized",
+    "Fuel Surcharge": "1% Surcharge Waiver for Purchases Worth Between ₹400 and ₹4,000 (Maximum Waiver of ₹500/Statement Cycle)",
+    "Cash Advance Charges": "2.5% of the withdrawn amount, subject to a minimum amount of Rs. 500."
+  },
+  "product_details": [
+    "5% cashback on bill payments and mobile recharges on Google Pay.",
+    "4% cashback on Swiggy, Zomato, and Ola.",
+    "1.5% cashback on all other purchases (with a few exceptions).",
+    "4 free domestic lounge visits every year.",
+    "1% fuel surcharge waiver with a maximum cap of Rs. 500 each statement cycle.",
+    "A discount of up to 15% on dining at over 4000+ restaurants.",
+    "Spend-based joining & annual fee waiver."
+  ],
+  "status": "ok"
+}

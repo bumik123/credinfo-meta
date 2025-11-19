@@ -1,0 +1,57 @@
+{
+  "variant": "core",
+  "joining_fee": "₹6,500 + GST",
+  "renewal_fee": "₹3,500 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Exclusive Travel & Shopping Vouchers Worth More than ₹13,000 (From Tata CliQ, EaseMyTrip, Uber, Croma)",
+  "benefits": {
+    "Movie & Dining": [
+      "₹500 Off on the Second Movie Ticket Via BookMyShow"
+    ],
+    "Rewards Rate": [
+      "4 RPs/₹100 Spent Abroad (~1%) and 2 RPs/₹100 Spent Domestically (~0.50%)"
+    ],
+    "Reward Redemption": [
+      "Redeem RPs for Cashback/Vouchers. 1 Reward Point = ₹0.25"
+    ],
+    "Travel": [
+      "Complimentary Priority Pass Membership"
+    ],
+    "Domestic Lounge Access": [
+      "4 Complimentary Domestic Lounge Visits Each Quarter"
+    ],
+    "International Lounge Access": [
+      "2 Complimentary International Airport Lounge Access Each Year"
+    ],
+    "Golf": [
+      "Complimentary golf rounds/lessons every quarter"
+    ],
+    "Insurance Benefits": [
+      "Air accident insurance (worth Rs 3 crores), Credit Shield Cover worth Rs 50,000 and other travel-related Insurance Covers."
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal Fee Waiver on Spending ₹6 Lakhs Annually",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.50% + GST",
+    "Interest Rates": "3.75% Per Month (45% Per Annum)",
+    "Fuel Surcharge": "1% of Fuel Surcharge Waiver (Maximum ₹250 Per Billing Cycle)",
+    "Cash Advance Charges": "2.5% of the Total Transaction Amount (Minimum ₹500)"
+  },
+  "product_details": [
+    "Joining benefits worth more than Rs. 9,000.",
+    "You can earn up to 4 Reward Points for every Rs 100 you spend on international purchases and 2 Reward Points per Rs 100 you spend on domestic purchases.",
+    "1 Reward Point for every Rs. 100 you incur on insurance and utility categories.",
+    "Up to 20,000 bonus Reward Points every year under the Milestone Reward Program.",
+    "(Buy 1 Get 1 Free Offer) BOGO on movie tickets on BookMyShow.",
+    "Get complimentary lounge access within and outside India.",
+    "With the ICICI Sapphiro Credit Card, you can enjoy complimentary golf sessions up to four times a month at some of the finest golf courses worldwide."
+  ],
+  "status": "ok"
+}

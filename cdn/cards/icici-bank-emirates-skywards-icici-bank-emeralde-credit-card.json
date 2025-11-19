@@ -1,0 +1,57 @@
+{
+  "variant": "core",
+  "joining_fee": "₹10,000 + GST",
+  "renewal_fee": "₹10,000 + GST",
+  "best_suited_for": [
+    "Travel"
+  ],
+  "reward_type": [
+    "Air Miles"
+  ],
+  "welcome_benefits": "10,000 Skyward Miles and Emirates Skywards Silver Tier Membership",
+  "benefits": {
+    "Movie & Dining": [
+      "Buy 1 Get 1 Free Up to ₹750 on Movie Bookings. Exclusive Dining Offers With ICICI Bank Culinary Treats Programme"
+    ],
+    "Rewards Rate": [
+      "2.5 Skyward Miles for every Rs. 100 spend on all transactions and 1 Skyward Mile on every Rs. 100 spent on insurance and utilities."
+    ],
+    "Reward Redemption": [
+      "The earned Skywards Miles can be redeemed via Emirates Skywards website against travel-related spends."
+    ],
+    "Travel": [
+      "Complimentary Priority Pass Membership"
+    ],
+    "Domestic Lounge Access": [
+      "Complimentary Unlimited Access to Domestic Airport Lounges"
+    ],
+    "International Lounge Access": [
+      "Free Unlimited International Airport Lounge Access"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "NA",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.50% on all international transactions.",
+    "Interest Rates": "3.75% Per Month (45% Per Annum)",
+    "Fuel Surcharge": "On all fuel transactions up to ₹ 4,000, you will get a surcharge waiver of 1%.",
+    "Cash Advance Charges": "Higher of Rs. 500 or 2.5% of the amount withdrawn."
+  },
+  "product_details": [
+    "Complimentary Skywards Silver Tier membership.",
+    "10,000 bonus Skywards Miles as a joining benefit.",
+    "For every Rs. 100 spent, you will get 2.5 Skyward Miles.",
+    "Unlimited complimentary access to domestic as well as international lounges.",
+    "Skywards Miles Gold Tier membership on achieving the milestone spend.",
+    "Under the ICICI Bank Culinary Treats Programme, you will get exclusive deals on dining.",
+    "Buy 1 Get 1 Free offer on movie tickets four times every month.",
+    "Surcharge waiver of 1% on fuel transactions."
+  ],
+  "status": "ok"
+}

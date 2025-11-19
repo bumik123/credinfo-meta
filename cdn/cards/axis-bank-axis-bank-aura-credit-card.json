@@ -1,0 +1,58 @@
+{
+  "variant": "core",
+  "joining_fee": "₹749 + GST",
+  "renewal_fee": "₹749 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Decathlon Voucher Worth ₹750",
+  "benefits": {
+    "Movie & Dining": [
+      "15% Discount on Dining at Partner Restaurants"
+    ],
+    "Rewards Rate": [
+      "2 EDGE Points/₹200 Spent With the Card and 5X EDGE Points on Insurance Spends (Maximum Transaction of ₹10,000)"
+    ],
+    "Reward Redemption": [
+      "Redeem Points for Vouchers and Products on the Axis Bank EDGE Rewards Portal"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month (55.55% Annually)",
+    "Fuel Surcharge": "1% fuel surcharge waived off at all fuel stations for transactions between Rs. 400 and Rs. 4,000 (max waiver of Rs. 250 in a month)",
+    "Cash Advance Charges": "2.5% of the Withdrawn Amount (Minimum of ₹500)"
+  },
+  "product_details": [
+    "Decathlon voucher worth Rs. 750 as a welcome benefit on card issuance.",
+    "4  free video doctor consultations per month on Practo.",
+    "4 interactive video fitness sessions and 16 recorded sessions per month via Fitternity.",
+    "Annual discount of up to Rs. 500 on health check-ups.",
+    "Minimum 30% discount on nutritional/diet consultations from partner nutritionists.",
+    "Minimum 30% discount on nutritional food.",
+    "2 EDGE Points per Rs. 200 spent with the card.",
+    "Accelerated (5X) EDGE Points per Rs. 200 spent with the card.",
+    "Up to 20% discount on dining bills at partner restaurants with Axis Bank Dining Delights Program."
+  ],
+  "status": "ok"
+}

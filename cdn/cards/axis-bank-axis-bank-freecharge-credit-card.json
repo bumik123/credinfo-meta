@@ -1,0 +1,56 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 250 + GST",
+  "renewal_fee": "Rs. 250 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "You get 50% off on an annual subscription on Eros Now and up to Rs. 100 credit every month on the Fresh menu."
+    ],
+    "Rewards Rate": [
+      "1% cashback on all spends and 5% cashback on spends on the Freecharge app."
+    ],
+    "Reward Redemption": [
+      "The earned EDGE Reward Points can be redeemed through the Edge Rewards website of the Axis Bank. 1 Edge Reward = Re. 0.20."
+    ],
+    "Travel": [
+      "You earn up to Rs. 100 credit every month on Shuttl."
+    ],
+    "Domestic Lounge Access": [
+      "NA"
+    ],
+    "International Lounge Access": [
+      "NA"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "NA"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The annual fee is waived off on spending Rs. 50,000 or more in the previous year.",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% of the transacted amount",
+    "Interest Rates": "3.4% per month",
+    "Fuel Surcharge": "1% fuel surcharge is waived off for all fuel transactions between Rs. 400 and Rs. 4,000.",
+    "Cash Advance Charges": "3.5% of the amount withdrawn or Rs. 250 (whichever is higher)"
+  },
+  "product_details": [
+    "Get the virtual credit card instantly on the Freecharge app.",
+    "Welcome gift vouchers worth up to Rs. 700.",
+    "Earn 1% cashback on all your spends.",
+    "5% cashback on your spends on the Freecharge app.",
+    "Up to 50% off on Eros Now annual subscription.",
+    "Up to Rs. 150 off every month on Shuttl.",
+    "A credit of up to Rs. 100 every month on Fresh Menu."
+  ],
+  "status": "ok"
+}

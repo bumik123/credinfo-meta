@@ -1,0 +1,56 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Amazon Pay Vouchers Worth ₹400",
+  "benefits": {
+    "Movie & Dining": [
+      "BOGO on Movie Tickets With INOX and Complimentary Big Basket Vouchers on Quarterly Spend of ₹50,000 as a Milestone Benefit"
+    ],
+    "Rewards Rate": [
+      "3X RP/₹150 on Health Care & Grocery categories, 2X RP/₹150 on Utility Categories like Bill Payments and 1X RP/₹150 on Other Categories"
+    ],
+    "Reward Redemption": [
+      "1 Reward Point is Valued at ₹0.25"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "2 Complimentary Domestic Lounge Access Every Quarter"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99 Per Redemption Request",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "0.69% Monthly  (8.28% Yearly)",
+    "Fuel Surcharge": "1% Fuel Surcharge Waiver",
+    "Cash Advance Charges": "2.5% of Amount Withdrawn or ₹500 Whichever is Higher"
+  },
+  "product_details": [
+    "Get 3X Reward Points on groceries and healthcare-related spending with your Federal Bank Imperio Credit Card",
+    "2X Reward Points on utility spends and 1X on all other spends",
+    "A welcome benefit worth ₹400 on spends of ₹5,000 during the first 30 days of card issuance",
+    "Buy 1, Get 1 free offer on movie tickets with INOX",
+    "Complimentary domestic airport lounge access",
+    "Complimentary gift vouchers based on quarterly spending",
+    "1% fuel surcharge waiver"
+  ],
+  "status": "ok"
+}

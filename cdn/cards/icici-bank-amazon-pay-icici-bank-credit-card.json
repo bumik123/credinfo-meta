@@ -1,0 +1,57 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "Lifetime Free",
+  "renewal_fee": "Lifetime Free",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Cashback"
+  ],
+  "welcome_benefits": "Cashback and Discounts Up to ₹2,500 (Both for Prime and Non-Prime Members) and One Month EazyDiner Membership",
+  "benefits": {
+    "Movie & Dining": [
+      "A minimum of 15% discount on dining bills at restaurants participating in the Culinary Treats program"
+    ],
+    "Rewards Rate": [
+      "5% cashback on Amazon purchases for Prime members and 3% cashback for Non-Prime members, 2% cashback on partner brands & 1% cashback on all other payments except fuel purchases"
+    ],
+    "Reward Redemption": [
+      "Cashback Credited to Amazon Pay Balance"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "1.99%",
+    "Interest Rates": "3.75% Per Month (45% Per Annum)",
+    "Fuel Surcharge": "1% fuel surcharge is waived at all petrol stations across India.",
+    "Cash Advance Charges": "2.5% of the Withdrawn Amount (Subject to a Minimum of ₹500)"
+  },
+  "product_details": [
+    "Amazon Prime users get 5% cashback on all purchases made on Amazon.",
+    "Non-Prime users get 3% cashback on Amazon.",
+    "Additional cashback on Amazon is applicable only for purchases made on Amazon India (amazon.in).",
+    "2% cashback at over 100 partner merchants using this card on Amazon Pay.",
+    "1% cashback on other retail transactions.",
+    "Reward Points are transferred as cashback to the Amazon Pay balance.",
+    "No expiry date of Reward Points earned on the card transferred as Amazon Pay balance."
+  ],
+  "status": "ok"
+}

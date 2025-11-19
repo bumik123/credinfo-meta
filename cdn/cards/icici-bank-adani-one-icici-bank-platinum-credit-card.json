@@ -1,0 +1,53 @@
+{
+  "variant": "core",
+  "joining_fee": "₹750 + GST",
+  "renewal_fee": "₹750 + GST",
+  "best_suited_for": [
+    "Travel"
+  ],
+  "reward_type": [
+    "Adani Reward Points"
+  ],
+  "welcome_benefits": "Hotel Voucher Worth ₹1,000. Flight Voucher Worth ₹2,000 on Spends of ₹10,000.",
+  "benefits": {
+    "Movie & Dining": [
+      "25% Off Upto ₹100 on Movie Ticket Bookings"
+    ],
+    "Rewards Rate": [
+      "3% Adani Reward Points on Spends Made With Adani Ecosystem"
+    ],
+    "Reward Redemption": [
+      "Redeem Points on Adani Rewards. 1 Adani Reward Point = ₹1"
+    ],
+    "Travel": [
+      "Premium Lounge Upgrade at Mumbai Airport (T2)"
+    ],
+    "Domestic Lounge Access": [
+      "2 Complimentary Airport Lounge Access Each Quarter"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Fee Waiver on Spends of ₹3 Lakh or More",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month (45% Per Year)",
+    "Fuel Surcharge": "1% Surcharge Waiver on Fuel Transactions Between ₹400 and ₹4,000",
+    "Cash Advance Charges": "2.5% of the Amount Withdrawn, Subject to a Minimum of ₹500"
+  },
+  "product_details": [
+    "Get exclusive airport privileges at all Adani-managed airports.",
+    "Free domestic airport lounge access is offered along with the card.",
+    "Get up to 3 Adani reward points/₹100 on spends made on Adani One.",
+    "Comes at an affordable joining and annual fee of ₹750 + GST."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,60 @@
+{
+  "variant": "core",
+  "joining_fee": "₹12,500 + GST",
+  "renewal_fee": "₹12,500 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Dining",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Choose a gift voucher worth Rs. 12,500 from any one of Luxe, Yatra, or Postcard Hotels",
+  "benefits": {
+    "Movie & Dining": [
+      "15% Discount at 4,000+ Restaurants Across India Under the Axis Dining Delights Program"
+    ],
+    "Rewards Rate": [
+      "12 Axis EDGE REWARDS Points for every Rs. 200 spent with the card, 5X EDGE REWARDS on travel spends via TRAVEL EDGE."
+    ],
+    "Reward Redemption": [
+      "Axis EDGE REWARDS Points can be redeemed on the EDGE REWARDS portal at a value of 1 Edge Reward = Re. 0.20 or Transfer to Partner Airlines/Hotels Rewards Program."
+    ],
+    "Travel": [
+      "4 Free International Airport Lounge Visits for Guests Each Year"
+    ],
+    "Domestic Lounge Access": [
+      "Unlimited Free Domestic Airport Lounge Access for Primary and Add-On Cardholders on Spends of ₹50,000 or More in the Previous Quarter"
+    ],
+    "International Lounge Access": [
+      "Unlimited Complimentary International Airport Lounge Access Via Priority Pass"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Credit shield protection worth Rs. 5 lakh (in case the card is lost) and a purchase protection worth Rs. 2 lakh."
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Fee Waiver on Spends of ₹25 Lakh",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "2%",
+    "Interest Rates": "3.0% per month (42.58% annually)",
+    "Fuel Surcharge": "1% fuel surcharge waived off at all fuel stations across India",
+    "Cash Advance Charges": "Nil"
+  },
+  "product_details": [
+    "₹12,500 worth of gift vouchers from Luxe, Postcard Hotels, or Yatra as a welcome benefit",
+    "12 Axis EDGE REWARDS Points for every ₹200 spent on retail purchases up to ₹1.5 Lakhs. Earn 35 RPs per ₹200 after exceeding the monthly spend of ₹1.5 Lakhs",
+    "Earn 60 Axis EDGE REWARDS Points for every ₹200 spent on the Travel Edge portal up to ₹2 Lakhs. Earn 35 RPs per ₹200 after exceeding the monthly spend of ₹2 Lakhs",
+    "Unlimited domestic airport lounge access every year.",
+    "Unlimited complimentary international lounge visits every year with Priority Pass.",
+    "Discounted stays at Oberoi Hotels.",
+    "15% discount up to Rs 1,000 via Eazydiner at 4,000+ restaurants across India under the Axis Bank Dining Delights program.",
+    "Credit Shield cover (against misuse of the card) worth ₹5 lakh and purchase protection worth ₹2 lakh with Axis Bank Magnus Card.",
+    "Lower interest rate (3% per month), foreign currency markup (2%), and zero cash withdrawal fee."
+  ],
+  "status": "ok"
+}

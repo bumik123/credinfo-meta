@@ -1,0 +1,52 @@
+{
+  "variant": "core",
+  "joining_fee": "₹250 + GST",
+  "renewal_fee": "₹250 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Cashback"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "25% Dining Discount Via Swiggy Dineout"
+    ],
+    "Rewards Rate": [
+      "Unlimited 1% Cashback"
+    ],
+    "Reward Redemption": [
+      "Cashback Against Statement"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "On Spends of Rs. 50,000 in a Year",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.60% Monthly and 43.20% Yearly",
+    "Fuel Surcharge": "1% Across Fuel Stations in India",
+    "Cash Advance Charges": "2.5%"
+  },
+  "product_details": [
+    "This card can be availed at a joining fee of Rs. 250 + applicable taxes.",
+    "You can get 1% unlimited cashback with this card across all eligible categories.",
+    "Discounts on dining with Swiggy."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,57 @@
+{
+  "variant": "core",
+  "joining_fee": "₹10,000 + GST",
+  "renewal_fee": "₹10,000 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Dining",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Complimentary Membership of Club Marriott, Swiggy One and Amazon Prime (On Spends of Rs. 1.5 Lakh Within 90 Days of Card Issuance)",
+  "benefits": {
+    "Movie & Dining": [
+      "10% Off Up to ₹400 on Swiggy Dineout (Twice Each Month) and 2X RPs on Weekend Dining"
+    ],
+    "Rewards Rate": [
+      "Earn 5 RPs on Spends of Rs. 150 and 10X RPs on Spends Made on Smart Buy"
+    ],
+    "Reward Redemption": [
+      "Redeem Rewards on SmartBuy or for Airmiles and Cashback"
+    ],
+    "Travel": [
+      "Unlimited Lounge Access for Primary and Add-On Cardholders"
+    ],
+    "Domestic Lounge Access": [
+      "Unlimited Complimentary Domestic Lounge Visits Across India"
+    ],
+    "International Lounge Access": [
+      "Unlimited Complimentary International Lounge Visits Across the World"
+    ],
+    "Golf": [
+      "6 Complimentary Golf Games Each Quarter"
+    ],
+    "Insurance Benefits": [
+      "Air Accident Insurance Worth Rs 2 Crore and Emergency Overseas Hospitalisation Worth Rs. 50 Lakh."
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Spends ₹8 Lakh in a Year to Waive Renewal Fee",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "2% of Transaction Amount",
+    "Interest Rates": "1.99% Monthly & 23.88% Annually",
+    "Fuel Surcharge": "N/A",
+    "Cash Advance Charges": "2.5% of the Total Amount or Rs. 500 (Whichever is Higher)"
+  },
+  "product_details": [
+    "This is a metal credit card.",
+    "The joining fee is Rs. 10,000 plus taxes.",
+    "5 Reward Points on spends of Rs. 150.",
+    "Complimentary Swiggy One, Club Marriott and Amazon Prime membership.",
+    "Unlimited lounge access.",
+    "24 complimentary golf games in a year."
+  ],
+  "status": "ok"
+}

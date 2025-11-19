@@ -1,0 +1,52 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Cashback"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "3% Cashback on Entertainment Spends & 15% Off With the Axis Bank Dining Delights Program."
+    ],
+    "Rewards Rate": [
+      "3% Cashback on Entertainment, Food Delivery & Commute"
+    ],
+    "Reward Redemption": [
+      "Direct Cashback"
+    ],
+    "Travel": [
+      "Domestic Lounge Access Available"
+    ],
+    "Domestic Lounge Access": [
+      "1 Complimentary Domestic Lounge Access Every Quarter"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "3.5% of the Transaction Amount",
+    "Interest Rates": "3.6% Per Month (52.86% Yearly)",
+    "Fuel Surcharge": "1% up to Rs. 400",
+    "Cash Advance Charges": "2.5% of the Transaction Amount or a Minimum of Rs. 500"
+  },
+  "product_details": [
+    "This is a lifetime free credit card.",
+    "You get 4 complimentary domestic lounge access with this card.",
+    "Earn up to 3% on eligible spends."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,57 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 500 + GST",
+  "renewal_fee": "Rs. 500 + GST",
+  "best_suited_for": [
+    "Movies",
+    "Dining"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "25% discount up to Rs. 100 on movie ticket booking on BookMyShow. Get up to 15% discount on dining."
+    ],
+    "Rewards Rate": [
+      "1 Reward Point per Rs. 100 you spend on utilities & insurance related spends, and 2 Reward Points per Rs. 100 spent elsewhere."
+    ],
+    "Reward Redemption": [
+      "The Reward Points are redeemable against an array of categories, and cash back at a rate of 1 Reward Point = Re. 0.25."
+    ],
+    "Travel": [
+      "One Free Railway Lounge Access Each Quarter"
+    ],
+    "Domestic Lounge Access": [
+      "1 Domestic Lounge Access Every Quarter (4 Each Year)"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Personal Accident Cover With RuPay Variant (₹2 Lakh)"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "You get a spend-based waiver in case the annual spend is more than 1,50,000 in the previous year.",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5% of the transaction amount",
+    "Interest Rates": "3.75% Per Month (45% Per Annum)",
+    "Fuel Surcharge": "You get a fuel surcharge waiver of 1% across all HPCL petrol stations in India. This offer valid for transaction up to Rs 4,000/-",
+    "Cash Advance Charges": "2.5% or a Minimum of ₹500 (Whichever is Higher)"
+  },
+  "product_details": [
+    "1 Reward Point per Rs. 100 you spent on utilities & insurance-related spends.",
+    "2 Reward Points per Rs. 100 you spend (except Fuel).",
+    "Earn up to 10,000 bonus RPs annually under the Milestone Program.",
+    "Get 1 complimentary domestic lounge access every quarter.",
+    "Get 1 complimentary railway lounge pass every quarter.",
+    "Enjoy up to 25% discount on movie ticket booking on BookMyShow and INOX.",
+    "You get exclusive dining deals through the ICICI Bank Culinary Treats Programme using the ICICI Bank Coral credit card."
+  ],
+  "status": "ok"
+}

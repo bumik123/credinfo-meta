@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "Lifetime Free",
+  "renewal_fee": "Lifetime Free",
+  "best_suited_for": [
+    "Dining",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "Up to 15% off on dining through the ICICI Bank Culinary Treats Programme."
+    ],
+    "Rewards Rate": [
+      "2 Reward Points on every retail spend of Rs. 100"
+    ],
+    "Reward Redemption": [
+      "RPs Can Be Redeemed Against Various Options, Including Statement Credit"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "NA",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month (45% Per Annum)",
+    "Fuel Surcharge": "1% fuel surcharge waiver on transcations done at HPCL fuel stations.",
+    "Cash Advance Charges": "Higher of ₹500 or 2.5% of the Amount Withdrawn"
+  },
+  "product_details": [
+    "Earn 2 Reward Points for every Rs. 100 spent on retail transactions.",
+    "Earn 1 Reward Point on every Rs. 100 spent on insurance & utilities.",
+    "1% fuel surcharge waiver specifically at all HPCL pumps.",
+    "Exciting discount offers on dining through the Culinary Treats Programme.",
+    "Spend-based waiver of the annual fee."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,56 @@
+{
+  "variant": "core",
+  "joining_fee": "₹5,000 + GST",
+  "renewal_fee": "₹5,000 + GST",
+  "best_suited_for": [
+    "Travel"
+  ],
+  "reward_type": [
+    "Air Miles"
+  ],
+  "welcome_benefits": "2,500 Edge Miles on Completing 1 Transaction Within 37 Days of Card Issuance",
+  "benefits": {
+    "Movie & Dining": [
+      "Get Up to 25% off (Max ₹800) Twice a Month at Partner Restaurants via EazyDiner on a Minimum Spend of ₹2,500"
+    ],
+    "Rewards Rate": [
+      "5 Edge Miles for every Rs. 100 spent on travel spends, 2 Edge Miles for every Rs. 100 spent on all other transactions excluding spends on Hotels, Airlines, and TRAVEL EDGE Portal"
+    ],
+    "Reward Redemption": [
+      "EDGE Miles Can be Transferred to Partner Airlines and Hotel Loyalty Programs. 1 EDGE Mile = 2 Partner Miles (Except Marriott)"
+    ],
+    "Travel": [
+      "Accelerated EDGE Mile Earning"
+    ],
+    "Domestic Lounge Access": [
+      "8 With Silver Tier, 12 With Gold Tier, and 18 With Platinum Tier (Each Year)"
+    ],
+    "International Lounge Access": [
+      "4 per annum under Silver Tier, 6 per annum under Gold Tier and 12 per annum under Platinum Tier"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "4 With Silver Tier, 6 With Gold Tier, and 12 With Platinum Tier (Each Year)"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99 + GST for Redemption of EDGE Miles and ₹199 + GST for Conversion of EDGE Miles to Partner Points",
+    "Foreign Currency Markup": "3.5% of the transaction amount",
+    "Interest Rates": "3.75% Per Month (55.55% Annually)",
+    "Fuel Surcharge": "1% Waiver for Fuel Transactions Between ₹400 and ₹4,000 (Capped at ₹400 Per Statement Cycle)",
+    "Cash Advance Charges": "2.5% of the withdrawal amount (subject to min charge of Rs. 500)"
+  },
+  "product_details": [
+    "Reward Points are earned as Axis Bank EDGE Miles.",
+    "2,500 EDGE Miles as a joining benefit.",
+    "5 EDGE Miles/₹100 on all travel spends with the card.",
+    "Cards are available in three tiers of membership: silver, gold, and platinum.",
+    "Bonus Edge Miles on reaching specified spending milestones with the card.",
+    "25% off up to ₹800 via EazyDiner at partner restaurants.",
+    "Complimentary access to domestic and international airport lounges."
+  ],
+  "status": "ok"
+}

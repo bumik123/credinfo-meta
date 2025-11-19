@@ -1,0 +1,58 @@
+{
+  "variant": "core",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Movies",
+    "Shopping",
+    "Food"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Free SonyLiv Subscription Worth ₹1,499",
+  "benefits": {
+    "Movie & Dining": [
+      "BOGO Offers on Movie Ticket Bookings Via District App. 15% Off on Partner Restaurants and Flat ₹120 Off on Food Orders with Swiggy."
+    ],
+    "Rewards Rate": [
+      "4 EDGE Points/₹200 (Reward Rate of 0.4%)"
+    ],
+    "Reward Redemption": [
+      "EDGE Points earned on the card are redeemable against shopping/travel vouchers or for purchasing products on the Axis Bank EDGE Rewards Portal"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "1 Complimentary Lounge Access Every Quarter (4 Each Year)"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% of the transaction amount",
+    "Interest Rates": "3.75% Per Month (55.55% Per Annum)",
+    "Fuel Surcharge": "1% fuel surcharge waived off at all filling stations across India for transactions between Rs. 400 and Rs. 4,000 (max waiver capped at Rs. 400 per month)",
+    "Cash Advance Charges": "2.5% of the withdrawal amount subject to a minimum charge of Rs. 500"
+  },
+  "product_details": [
+    "Complimentary SonyLiv Premium annual subscription as a joining benefit.",
+    "4 EDGE Points per ₹200 spent with the Axis Bank My Zone Credit Card.",
+    "Discount on Swiggy of ₹120 per order (minimum order value of ₹500 required).",
+    "Buy One Get One offer on movie ticket bookings via District.",
+    "1 complimentary domestic airport lounge access per quarter.",
+    "Flat discount of ₹1,000 on AJIO on minimum spends of ₹2,999.",
+    "15% off up to ₹500 on a minimum order of ₹1500 with the EazyDiner program."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,57 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Movies",
+    "Travel"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Amazon Gift Vouchers Worth ₹600",
+  "benefits": {
+    "Movie & Dining": [
+      "Buy One Get One on INOX Movie Tickets, Once a Month"
+    ],
+    "Rewards Rate": [
+      "3X RP/₹100 on Travel and International Categories, 2X RP/₹100 on  Dining Categories and 1X RP/₹100 on Other Categories"
+    ],
+    "Reward Redemption": [
+      "The Reward Points can be Redeemed at Federal Rewards Portal at a Rate of 1 Reward Point = ₹0.25"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "2 Times Per Quarter at Domestic Airports on Spends of ₹60,000 in the Previous Quarter"
+    ],
+    "International Lounge Access": [
+      "Twice a Year at International Airports"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99 + GST on Every Redemption Request",
+    "Foreign Currency Markup": "2%",
+    "Interest Rates": "0.69% Monthly  (8.28% Yearly)",
+    "Fuel Surcharge": "1% Fuel Surcharge Waiver",
+    "Cash Advance Charges": "2.5% of Amount Withdrawn or ₹500 Whichever is Higher"
+  },
+  "product_details": [
+    "Get 3X Reward Points on travel and international categories",
+    "2X Reward Points on dining using your Federal Bank Visa Celesta Credit Card",
+    "1X Reward Points on all other categories",
+    "Welcome gift of an Amazon voucher worth ₹600",
+    "Buy 1 Get 1 Free offer on movie tickets on INOX once every month",
+    "2 complimentary domestic lounge access every quarter",
+    "2 complimentary international lounge access every year"
+  ],
+  "status": "ok"
+}

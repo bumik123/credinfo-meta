@@ -1,0 +1,56 @@
+{
+  "variant": "core",
+  "joining_fee": "₹2,000 + GST",
+  "renewal_fee": "₹2,000 + GST",
+  "best_suited_for": [
+    "Travel"
+  ],
+  "reward_type": [
+    "Air Miles"
+  ],
+  "welcome_benefits": "Get a SpiceJet flight voucher worth Rs. 4,000 and complimentary Spiceclub Gold membership.",
+  "benefits": {
+    "Movie & Dining": [
+      "Get up to 20% discount on dining at several participating restaurants."
+    ],
+    "Rewards Rate": [
+      "28 Spiceclub Points on every Rs. 200 spent on SpiceJet mobile app/website, 12 Spiceclub points on online entertainment, food order, & online bill payments, and 6 Spiceclub points on all other transactions."
+    ],
+    "Reward Redemption": [
+      "The earned Spiceclub Points can be redeemed against flight tickets, meal vouchers, etc, via the SpiceJet website or mobile app. 1 Spiceclub Point is equivalent to Re. 0.5."
+    ],
+    "Travel": [
+      "Complimentary access to domestic airport lounges."
+    ],
+    "Domestic Lounge Access": [
+      "8 complimentary domestic lounge access every year."
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% of the total transaction amount",
+    "Interest Rates": "3.75% Per Month (55.55% Annually)",
+    "Fuel Surcharge": "1% fuel surcharge waiver on all fuel transactions between Rs. 400 and Rs. 4,000.",
+    "Cash Advance Charges": "2.5% of the Amount Withdrawn Subject to a Minimum Charge of ₹500"
+  },
+  "product_details": [
+    "Get a SpiceJet flight voucher worth Rs. 4,000 as a welcome benefit.",
+    "Complimentary SpiceClub Gold membership on card approval.",
+    "Earn up to 28 Spiceclub Points on every spend of Rs. 200.",
+    "Earn up to 8,000 bonus Reward Points every year on achieving the milestone spend.",
+    "Get complimentary domestic lounge access every year.",
+    "Get 2,000 bonus points every year as a renewal benefit.",
+    "1% fuel surcharge waiver on all fuel transactions."
+  ],
+  "status": "ok"
+}

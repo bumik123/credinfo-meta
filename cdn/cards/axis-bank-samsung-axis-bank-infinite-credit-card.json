@@ -1,0 +1,58 @@
+{
+  "variant": "core",
+  "joining_fee": "₹5,000 + GST",
+  "renewal_fee": "₹5,000 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points",
+    "Cashback"
+  ],
+  "welcome_benefits": "30,000 EDGE Reward Points",
+  "benefits": {
+    "Movie & Dining": [
+      "Complimentary 1-year EazyDiner Membership. 25% off on dining bills (up to ₹800) twice per month for transactions above ₹2,000."
+    ],
+    "Rewards Rate": [
+      "15 EDGE Points for every Rs. 100 spent on merchants like BigBasket, Tata 1mg, Zomato, etc, 15 EDGE Points for every Rs. 100 spent on International transactions, and 5 EDGE Points per Rs. 100 spent on all other spends."
+    ],
+    "Reward Redemption": [
+      "EDGE REWARDS Points are redeemable at the Axis EDGE REWARDS portal where 1 Edge Reward = Re. 0.20. EDGE Points can also be transferred to partner Airlines/Hotels Rewards Program."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "8 complimentary domestic airport lounge visits every year."
+    ],
+    "International Lounge Access": [
+      "Priority Pass Membership With 6 Complimentary International Airport Lounge Visits Each Year"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "NA"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The Annual fee of Rs. 5,000 is waived on spending Rs. 7 Lakh or more in the previous year.",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5% of the transaction amount",
+    "Interest Rates": "3.7% Per Month (55.55% Per Annum)",
+    "Fuel Surcharge": "1% fuel surcharge waiver on fuel transactions between Rs. 400 and Rs. 5,000 (caped at Rs. 500 in a month).",
+    "Cash Advance Charges": "2.5% of the amount withdrawn or flat Rs. 500."
+  },
+  "product_details": [
+    "30,000 EDGE Reward Points as a welcome benefit.",
+    "Up to 15 EDGE Reward Points for every spend of ₹100.",
+    "10% cashback on all Samsung purchases.",
+    "Complimentary access to International as well as Domestic Airport Lounges.",
+    "Complimentary 1-year EazyDiner Membership.",
+    "Up to 25% off on Dining bills with Axis Dining Delights.",
+    "1% fuel surcharge waiver."
+  ],
+  "status": "ok"
+}

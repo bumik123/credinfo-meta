@@ -1,0 +1,53 @@
+{
+  "variant": "core",
+  "joining_fee": "Lifetime Free",
+  "renewal_fee": "Lifetime Free",
+  "best_suited_for": [
+    "UPI"
+  ],
+  "reward_type": [
+    "Cashback"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "3% Cashback for UPI Spends Via super.money UPI, 1% Cashback on All Other Qualifying Spends (Maximum Cashback - ₹500 Per Statement Cycle, Total ₹6000 savings"
+    ],
+    "Reward Redemption": [
+      "Cashback is Credited Against Statement at a 1:1 Ratio"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "55.55% Per Annum",
+    "Fuel Surcharge": "1% Waiver for Fuel Transactions Between ₹400 and ₹4,000. Maximum Waiver of ₹400 Each Statement Cycle",
+    "Cash Advance Charges": "2.5% or ₹500, Whichever is Higher"
+  },
+  "product_details": [
+    "Axis Bank super.money RuPay Credit Card is a dedicated card for UPI rewards.",
+    "This is a co-branded credit card between Axis Bank and super.money, which is a Flipkart backed company.",
+    "Cardholders will earn 3% cashback on UPI spends and 1% cashback on all other non-UPI online transactions, as well as physical card spends.",
+    "A free physical card is provided."
+  ],
+  "status": "ok"
+}

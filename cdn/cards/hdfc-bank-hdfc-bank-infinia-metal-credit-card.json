@@ -1,0 +1,60 @@
+{
+  "variant": "core",
+  "joining_fee": "₹12,500 + GST",
+  "renewal_fee": "₹12,500 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Dining",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "12,500 Bonus Reward Points and Complimentary Club Marriott Membership",
+  "benefits": {
+    "Movie & Dining": [
+      "1 + 1 Complimentary Buffet at ITC Hotels and Up to ₹500 With Swiggy Dineout"
+    ],
+    "Rewards Rate": [
+      "5 Reward Points/₹150 Spent (3.33% Reward Rate)"
+    ],
+    "Reward Redemption": [
+      "RPs can be redeemed for flight and hotel bookings via SmartBuy (1 RP = Re. 1), Airmiles through net banking (1 RP = 1 Airmile), products and vouchers via net banking or SmartBuy (1 RP = Rs. 0.50), Apple and Tanishq vouchers (1 RP = Re. 1) cashback (1 RP = Rs. 0.30)"
+    ],
+    "Travel": [
+      "Complimentary Priority Pass Membership"
+    ],
+    "Domestic Lounge Access": [
+      "Unlimited Free Domestic Airport Lounge Access"
+    ],
+    "International Lounge Access": [
+      "Unlimited Complimentary International Lounge Access for Primary and Add-On Cardholders Across the Globe with a Priority Pass"
+    ],
+    "Golf": [
+      "Unlimited Golf Courses and Games Across the Country"
+    ],
+    "Insurance Benefits": [
+      "Insurance cover worth Rs. 3 crores against accidental air death, a cover worth Rs. 50 lakh against medical emergencies during international air travel, and credit shield cover worth Rs. 9 lakh"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal Fee Waived on Spends of ₹10 Lakh",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "2% + GST (~2.36%)",
+    "Interest Rates": "1.99% per month or 23.8% annualized",
+    "Fuel Surcharge": "1% Fuel Surcharge Waiver (Up to ₹1,000 Each Statement Cycle)",
+    "Cash Advance Charges": "NIL (Interests charges applicable)"
+  },
+  "product_details": [
+    "1 year complimentary Club Marriott membership.",
+    "12,500 Reward Points as an introductory benefit.",
+    "Unlimited access to airport lounges across the globe for both primary and add-on cardholders.",
+    "Get 5 Reward Points on every Rs. 150 spent (except fuel transactions) with your HDFC Bank Infinia Card.",
+    "24×7 global concierge service.",
+    "Unlimited golf games at leading golf destinations in India and abroad.",
+    "1+1 complimentary buffet on weekends at participating ITC hotels.",
+    "2+1 complimentary night stay at participating ITC hotels.",
+    "Spend-based waiver annual membership fee."
+  ],
+  "status": "ok"
+}

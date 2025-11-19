@@ -1,0 +1,54 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Rs. 350 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Cashback"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "Get 20% off up to Rs. 500 on dining"
+    ],
+    "Rewards Rate": [
+      "5% cashback on all spends via Freecharge and 1% cashback on all other spends."
+    ],
+    "Reward Redemption": [
+      "Edge Reward Points can be redeemed against various products at a rate of 1 RP = Re. 0.20."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The renewal fee is waived off on spending Rs. 50,000 or more in the previous year.",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% on all foreign currency spends.",
+    "Interest Rates": "3.6% per month (52.86 per annum)",
+    "Fuel Surcharge": "N/A",
+    "Cash Advance Charges": "2.5% of the withdrawn amount or Rs. 500 (whichever is higher)"
+  },
+  "product_details": [
+    "Unlimited 5% cash back on all your Freecharge spends.",
+    "2% cashback on local commute.",
+    "Up to 20% discount on dining.",
+    "Spend-based waiver of the renewal fee.",
+    "1% fuel surcharge waiver on all fuel transactions."
+  ],
+  "status": "ok"
+}

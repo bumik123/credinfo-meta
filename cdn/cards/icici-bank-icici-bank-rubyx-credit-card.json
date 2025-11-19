@@ -1,0 +1,59 @@
+{
+  "variant": "core",
+  "joining_fee": "₹3,000 + GST",
+  "renewal_fee": "₹2,000 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "TataCliQ Voucher Worth ₹2,000, EaseMyTrip Vouchers Worth ₹2,000, Croma Vouchers Worth ₹1,000, and EazyDiner 3-Month Prime Membership",
+  "benefits": {
+    "Movie & Dining": [
+      "25% Discount Up to ₹150 on Movie Bookings Made With BookMyShow and INOX (Twice Each Month)"
+    ],
+    "Rewards Rate": [
+      "4 RPs/₹100 on International Spends, 2 RPs/₹100 on Domestic Spends and 1 RP/₹100 Spent on Insurance and Utilities"
+    ],
+    "Reward Redemption": [
+      "Redeem Points for Vouchers and More. 1 Reward Point = ₹0.25"
+    ],
+    "Travel": [
+      "8 Free Railway Lounge Visits Each Year"
+    ],
+    "Domestic Lounge Access": [
+      "2 Airport Lounge Visits Each Quarter on Spends of ₹75,000 or More in the Previous Quarter"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "Up to 2 Complimentary Golf Lessons/Rounds Each Month (Spend Based)"
+    ],
+    "Insurance Benefits": [
+      "Personal Air Accident Cover Worth ₹1 Crore and Several Other Travel Insurances"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Spend ₹3 Lakh or More Each Year to Waive Annual Charges",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month (45% Per Annum)",
+    "Fuel Surcharge": "1% Waiver on Fuel Spends Between ₹400 and ₹4,000",
+    "Cash Advance Charges": "Higher of ₹500 or 2.5% of the Amount Withdrawn"
+  },
+  "product_details": [
+    "2 Reward Points/₹100 spent domestically & 4 Reward Points/₹100 spent internationally.",
+    "1 Reward Point on every ₹100 spent on utilities and insurance categories",
+    "Travel and shopping vouchers worth over ₹5,000 as a welcome benefit.",
+    "25% discount (up to ₹150) on booking a minimum of 2 movie tickets in a single transaction on BookMyShow or Inox (max 2 times in a month- once with each variant).",
+    "Exciting discount offers on dining with the ICICI Bank Culinary Treats Program.",
+    "Exclusive insurance benefits including a personal air accident cover worth ₹1 crore and lost card liability protection worth ₹50,000.",
+    "24*7 concierge service i-Assist for hotel reservations, flight/movie ticket bookings, gift delivery assistance, etc.",
+    "Spends-based renewal fee waiver on the expenditure of ₹3 lakh in the previous year.",
+    "Additional reward points will be awarded for achieving the stipulated spend-based milestones."
+  ],
+  "status": "ok"
+}

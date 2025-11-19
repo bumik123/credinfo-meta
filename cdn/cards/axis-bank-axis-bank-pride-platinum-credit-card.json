@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Rs. 250 + GST",
+  "best_suited_for": [
+    "Dining"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "Enjoy delicious cuisine with Axis Bank Dining Delights that offer a minimum of 15% at its partner restaurants all over India."
+    ],
+    "Rewards Rate": [
+      "4 Reward Points per Rs. 200 spend."
+    ],
+    "Reward Redemption": [
+      "1 RP = Rs 0.20 for redemption against a variety of options available at the Edge Rewards website."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The annual fee waiver on spending Rs. 20,000 or more in the preciding year.",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% of the transaction value.",
+    "Interest Rates": "3.75% Per Month (55.55% Annually)",
+    "Fuel Surcharge": "1% waiver on fuel surcharge at all the fuel stations in India for transactions between Rs. 400 and Rs. 4,000 done using Axis Bank Pride Platinum credit card (maximum waiver of Rs. 250 pm).",
+    "Cash Advance Charges": "2.5% of the amount withdrawn or Rs. 500 (whichever is higher)"
+  },
+  "product_details": [
+    "Personalized Pride card with Indian Tricolor shades.",
+    "Dedicated 4th line for Indian Navy, Army, or Air Force.",
+    "No joining fee is charged",
+    "15% off on dining at all partner restaurants in India.",
+    "Earn 4 EDGE reward points per Rs. 200 you spend.",
+    "Renewal fee waiver if you spend Rs. 20,000 or more in the last year."
+  ],
+  "status": "ok"
+}

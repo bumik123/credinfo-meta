@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 5,000 + GST",
+  "renewal_fee": "Rs. 5,000 + GST",
+  "best_suited_for": [
+    "Movies",
+    "Travel"
+  ],
+  "reward_type": [
+    "Adani Reward Points"
+  ],
+  "welcome_benefits": "Hotel and Holiday Voucher Worth ₹2,000 Each. ₹5,000 Flight Voucher on Spends of ₹25,000 Within 60 Days of Card Activation",
+  "benefits": {
+    "Movie & Dining": [
+      "50% Off Upto ₹500 on BMS Bookings. Dining Discounts With the Culinary Treats Programme"
+    ],
+    "Rewards Rate": [
+      "7 Adani Reward Points/₹100 on Spends Made With Adani Ecosystem"
+    ],
+    "Reward Redemption": [
+      "Redeem on Adani Rewards. 1 Adani Reward Point = ₹1"
+    ],
+    "Travel": [
+      "Exclusive Airport Benefits (Meet and Greet, Premium Upgrades and More)"
+    ],
+    "Domestic Lounge Access": [
+      "4 Free Domestic Airport Lounge Visits Each Quarter"
+    ],
+    "International Lounge Access": [
+      "2 International Lounge Visits Each Year"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Fee Waiver on Spends of ₹6 Lakh or More",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month (45% Per Year)",
+    "Fuel Surcharge": "1% Fuel Surcharge Waiver on Fuel Transactions (Up to ₹4,000)",
+    "Cash Advance Charges": "2.5% of the Amount Withdrawn, Subject to a Minimum of ₹500"
+  },
+  "product_details": [
+    "Earn 7% Adani reward points per ₹100 spent on Adani One and other Adani companies.",
+    "Earn 1.5% Adani reward points per ₹100 spent domestically.",
+    "Earn 2% Adani reward points per ₹100 spent internationally.",
+    "Earn 0.5% Adani reward points per ₹100 on utility and insurance spends.",
+    "International and domestic airport lounge access is offered for primary cardholders."
+  ],
+  "status": "ok"
+}

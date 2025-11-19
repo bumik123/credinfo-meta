@@ -1,0 +1,58 @@
+{
+  "variant": "core",
+  "joining_fee": "Lifetime Free - LIMITED TIME ONLY",
+  "renewal_fee": "Lifetime Free - LIMITED TIME ONLY",
+  "best_suited_for": [
+    "Dining",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "5,000 EDGE Reward Points (Worth ₹1,000) on Spending ₹1,000 or More Within the First Month of Card Issuance",
+  "benefits": {
+    "Movie & Dining": [
+      "30% off on Swiggy orders and a 15% discount at various partner restaurants with the Dining Delights Program"
+    ],
+    "Rewards Rate": [
+      "10X EDGE Points/₹125 Spent at Departmental and Apparel Stores. 2 EDGE Points/₹125 on All Eligible Spends."
+    ],
+    "Reward Redemption": [
+      "Reward Points Can be Redeemed for Vouchers, Products, and More. 1 EDGE Reward Point = ₹0.20"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "2 Free Visits Each Quarter (On Spends of ₹50,000 or More in the Last Quarter)"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Rs. 1 Lakh purchase protection cover and cover for loss of travel documents and baggage"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal fee is waived off on spending Rs. 2 Lakhs or more in the card anniversary year",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month or 55.55% Per Annum",
+    "Fuel Surcharge": "1% Waiver on Fuel Transactions Between ₹400 and ₹5,000. Maximum ₹400 Each Statement Cycle",
+    "Cash Advance Charges": "2.5% of the Amount Withdrawn or ₹500, Whichever is Higher"
+  },
+  "product_details": [
+    "Welcome benefit of 5000 EDGE reward points",
+    "2 EDGE reward points on every send of Rs. 125",
+    "10x EDGE reward points on every spend of Rs. 125 on departmental and apparel stores",
+    "Membership benefits worth Rs. 1000 per card anniversary year",
+    "30% off on Swiggy orders and 15% off at partner restaurants with the Dining Delights Program",
+    "2 complimentary domestic airport lounge access per quarter",
+    "1% fuel surcharge waiver with a maximum benefit of Rs. 400 every statement cycle",
+    "1 Lakh purchase protection cover and cover for loss of travel documents and baggage"
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,56 @@
+{
+  "variant": "core",
+  "joining_fee": "₹999 + GST (~₹1,179)",
+  "renewal_fee": "₹999 + GST (~₹1,179)",
+  "best_suited_for": [
+    "Travel",
+    "Shopping",
+    "Utility Bills",
+    "UPI"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Get 50% of the Joining Fee Back as a PhonePe Gift Card on Your First RuPay Credit Card UPI Transaction, and the Remaining 50% as 10 Gift Cards on Continued UPI Spends",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "10 RPs/₹100 on Select PhonePe Spends Like Recharges, Bill Payments, Movies, Hotels, Utilities, and More. 5 RPs/₹100 on Brands Like Amazon, Flipkart, Myntra, Ajio, and More. 1 RP/₹100 on Scan & Pay UPI Spends"
+    ],
+    "Reward Redemption": [
+      "1 Reward Point = ₹1 (Redemption Against Statement). 1 Reward Point = ₹0.30 When Redeemed for Airmiles, Product Catalogue or Smartbuy"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "2 Lounge Visits Each Quarter on Spends of ₹75,000 or More"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal Fee Waiver on Annual Spends of ₹2 Lakh or More",
+    "Rewards Redemption Fee": "No Charges for Reward Point Redemption Against Statement",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Monthly/45% Annually",
+    "Fuel Surcharge": "1% Waiver on Transactions Between ₹400 and ₹5,000 (Maximum ₹250 Each Statement Cycle)",
+    "Cash Advance Charges": "2.5% or ₹500 (Whichever is Higher)"
+  },
+  "product_details": [
+    "The PhonePe HDFC Bank Ultimo Credit Card is the ideal credit card for making utility bill payments, spending via PhonePe, and UPI payments.",
+    "Apart from all the savings via PhonePe, cardholders can also earn 5% Reward Points on popular online platforms like Flipkart, Amazon, Ajio, Swiggy, Zomato, and more.",
+    "One can take advantage of free airport lounge access and relax before their journey.",
+    "1% fuel surcharge waiver allows cardholders to refuel their vehicles without having to pay extra."
+  ],
+  "status": "ok"
+}

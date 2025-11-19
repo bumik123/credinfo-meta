@@ -1,0 +1,53 @@
+{
+  "variant": "core",
+  "joining_fee": "₹3,000 + GST",
+  "renewal_fee": "₹3,000 + GST",
+  "best_suited_for": [
+    "Travel"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "5000 EDGE Miles on Spends of ₹1,000 Within the First 30 Days of Card Issuance",
+  "benefits": {
+    "Movie & Dining": [
+      "15% Discount Via Eazydiner (Upto ₹500)"
+    ],
+    "Rewards Rate": [
+      "5 EDGE Miles on Axis Travel Edge and Airline Spends. 2 EDGE Reward Points on all Other Eligible Spends"
+    ],
+    "Reward Redemption": [
+      "Redeem at Travel Edge. Also, Convert to Partner Points"
+    ],
+    "Travel": [
+      "Accelerated EDGE Miles on Travel Bookings"
+    ],
+    "Domestic Lounge Access": [
+      "6 Per Calender Quarter With Mastercard World Variant and 8 Per Calender Quarter With Visa Signature Variant"
+    ],
+    "International Lounge Access": [
+      "8 Each Year (2 Every Quarter)"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "None",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Monthly (55.55% Annually)",
+    "Fuel Surcharge": "1% Waiver on Transactions Between ₹400 and ₹5,000 (Maximum 400 in a Month)",
+    "Cash Advance Charges": "2.5% Per Month (Minimum Rs. 500)"
+  },
+  "product_details": [
+    "Get 5,000 EDGE Miles as a welcome benefit.",
+    "Earn 5 EDGE Miles/₹100 spent on travel edge portal and airlines spends.",
+    "Get eight international lounge visits across the globe with the Horizon Credit Card.",
+    "This card offers discounts on dining with the Axis Bank Dining Delights Program."
+  ],
+  "status": "ok"
+}

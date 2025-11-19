@@ -1,0 +1,56 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Rs. 500 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "A discount of 15% or more on dining at partner restaurants."
+    ],
+    "Rewards Rate": [
+      "For every Rs. 200 spent, you will get 8 EDGE REWARD Points."
+    ],
+    "Reward Redemption": [
+      "EDGE REWARD Points can be redeemed at the EDGE REWARDS Portal. 1 EDGE REWARD Point = Rs. 0.20."
+    ],
+    "Travel": [
+      "Complimentary visits to domestic lounges."
+    ],
+    "Domestic Lounge Access": [
+      "In every calendar quarter, you will get 2 complimentary domestic lounge access."
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The renewal fee is waived off on exceeding spends of Rs. 40,000 or more in the preceding year",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% of the forex transactions.",
+    "Interest Rates": "3.75% Per Month (55.55% Annually)",
+    "Fuel Surcharge": "1% fuel surcharge is waived off on all transactions between Rs. 400 & Rs. 4,000 (max waiver capped at Rs. 400 per month)",
+    "Cash Advance Charges": "2.5% of the withdrawn amount (subject to a minimum charge of Rs. 500)"
+  },
+  "product_details": [
+    "Unique color theme with shades of Indian Tricolor and a fourth dedicated embossing line.",
+    "8 EDGE REWARD Points on every spend of Rs. 200 with the card.",
+    "A discount of 15% at partnered restaurants.",
+    "Complimentary access to domestic lounges up to 2 times in a quarter.",
+    "Waiver of renewal fee on annual spends of Rs. 40,000 in the previous year.",
+    "1% fuel surcharge reversed for transactions between Rs. 400 and Rs. 4,000 (max waiver of Rs. 400 in a month)"
+  ],
+  "status": "ok"
+}

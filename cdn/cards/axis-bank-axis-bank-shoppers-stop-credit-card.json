@@ -1,0 +1,53 @@
+{
+  "variant": "core",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "First Citizen Reward Points Worth ₹300, Shoppers Stop Vouchers Worth ₹2,250, and Complimentary Shoppers Stop Golden Glow Membership",
+  "benefits": {
+    "Movie & Dining": [
+      "15% instant discount on EazyDiner up to ₹500 per month for a minimum transaction value of ₹2,500."
+    ],
+    "Rewards Rate": [
+      "Unlimited 20 First Citizen Points/Every ₹200 Spent at Shoppers Stop (Private Labels)"
+    ],
+    "Reward Redemption": [
+      "The points are redeemable at the Shoppers Stop store (online/ offline) and Homestop"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "₹500 is waived off when a cardholder spends ₹1 lakh or more in the previous year.",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "3.5% (plus tax) of the transaction value",
+    "Interest Rates": "3.75% Per Month (or 55% Annually)",
+    "Fuel Surcharge": "1% fuel surcharge on fuel purchases at all fuel outlets in India",
+    "Cash Advance Charges": "2.5% (min ₹500) of the cash amount"
+  },
+  "product_details": [
+    "Complimentary ‘Shoppers Stop First Citizen Club Golden Glow’ membership for cardholders.",
+    "First Citizen points will not expire.",
+    "1% fuel surcharge waiver on all fuel transactions between ₹400 and ₹5,000 with a maximum cap of ₹400 per waiver in the statement month.",
+    "There is a 15% instant discount on EazyDiner up to ₹500 per month for a minimum transaction value of ₹2,500."
+  ],
+  "status": "ok"
+}

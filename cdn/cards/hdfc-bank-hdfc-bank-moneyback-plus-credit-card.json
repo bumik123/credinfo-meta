@@ -1,0 +1,56 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 500 + GST",
+  "renewal_fee": "Rs. 500 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "500 CashPoints",
+  "benefits": {
+    "Movie & Dining": [
+      "Up to ₹200 on Dining Bills With Swiggy Dineout"
+    ],
+    "Rewards Rate": [
+      "10X CashPoints/₹150 on Flipkart, Amazon, Swiggy, BigBasket, and Reliance Smart SuperStore and 2 CashPoints/₹150 on Retail Purchases"
+    ],
+    "Reward Redemption": [
+      "CashPoints redeemable for cashback, purchasing products, flight/hotel bookings via SmartBuy and partner airlines' AirMiles"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal fee waived off on spending Rs. 50,000 or more in the previous year",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month (45% Annually)",
+    "Fuel Surcharge": "1% fuel surcharge waiver applicable on all fuel transactions",
+    "Cash Advance Charges": "2.5% of the withdrawn amount (subject to a minimum charge of Rs. 500)"
+  },
+  "product_details": [
+    "500 CashPoints as a welcome gift.",
+    "2 CashPoints for every ₹50 you spend with the card (except fuel, wallet reloads, prepaid card reloads, and voucher purchases).",
+    "10X CashPoints on partner brands, including Amazon, Flipkart, Reliance Smart Store, BigBasket, and Swiggy.",
+    "Gift voucher worth ₹500 on spends of ₹50,000 in a calendar quarter (max benefit of ₹2,000 in a year).",
+    "Up to₹200 off on dining at over 2,000 premium restaurants in select cities.",
+    "Get a waiver on the annual fee for an annual expenditure of a minimum of ₹50,000.",
+    "A 1% waiver on fuel surcharge."
+  ],
+  "status": "ok"
+}

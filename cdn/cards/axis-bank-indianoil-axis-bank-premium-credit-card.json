@@ -1,0 +1,53 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "₹1,000 + GST",
+  "renewal_fee": "₹1,000 + GST",
+  "best_suited_for": [
+    "Fuel"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "500 EDGE Miles on the First Transaction Within 30 Days of Card Issuance",
+  "benefits": {
+    "Movie & Dining": [
+      "30% Instant Discount on Zomato. 25% Discount on Dining Via Eazydiner (Upto ₹800)"
+    ],
+    "Rewards Rate": [
+      "6X EDGE Miles/₹150 at IndianOil Outlets. 2X EDGE Miles/₹150 on Grocery Spends. 1X EDGE Miles on All Other Eligible Spends"
+    ],
+    "Reward Redemption": [
+      "EDGE Miles Can Be Redeemed for Fuel (1 EDGE Mile = ₹1). These Can Also Be Converted to Partner Points (1:1)"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "2 Free Lounge Visits Each Quarter"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Fee Waiver on Spends of ₹1 Lakh or More",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Monthly (55.55% Annually)",
+    "Fuel Surcharge": "1% Waiver on Fuel Transactions",
+    "Cash Advance Charges": "2.5% (Minimum ₹500)"
+  },
+  "product_details": [
+    "The IndianOil Axis Premium Credit Card is most suited for fuel expenses.",
+    "This card offers spend-based airport lounge access.",
+    "You can avail of a 30% discount on food orders with Zomato.",
+    "Apart from fuel, this card also offers accelerated 2X EDGE Miles for grocery spends."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,55 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Fuel"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "5% Rewards (FPs) on Spends at IndianOil Outlets, Groceries, and Bill Payments. 1 FP/₹150 Spent on Other Purchases, Including UPI Spends"
+    ],
+    "Reward Redemption": [
+      "Fuel Points redeemable for Free Fuel using the complimentary IndianOil XTRAREWARDS Program (IXRP) membership at IndianOil outlets (1 FP = 96 Paise), through net-banking towards catalog products (1 FP = 20 Paise) and as cashback on the credit card (1 FP = 20 Paise)"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal Fee on Annual Spends of ₹50,000",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month (45% Each Year)",
+    "Fuel Surcharge": "1% Waiver Across All Petrol Pumps on a Minimum Transaction of ₹400. Maximum Waiver of ₹250 Each Statement Cycle",
+    "Cash Advance Charges": "2.5% of the amount withdrawn subject to a minimum charge of Rs 500."
+  },
+  "product_details": [
+    "Complimentary IndianOil XTRAREWARDS Program membership.",
+    "Renewal fee waiver on annual spends of Rs 50,000 and above in the previous year.",
+    "5% of spends as Fuel Points at IndianOil outlets, groceries, and bill payments.",
+    "1 Fuel Point on every Rs 150 spent on all other purchases.",
+    "Up to 50 liters of free fuel annually using an IndianOil HDFC Bank credit card.",
+    "A fuel surcharge of 1% is waived on all fuel transactions at all fuel stations across India."
+  ],
+  "status": "ok"
+}

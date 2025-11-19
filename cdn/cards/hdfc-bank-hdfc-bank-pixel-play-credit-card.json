@@ -1,0 +1,53 @@
+{
+  "variant": "core",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Cashback"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "10% Off Up to ₹200 Each Month on Dining Bills Via Swiggy Dineout"
+    ],
+    "Rewards Rate": [
+      "5% Cashback on Two Specified Categories Like Dining, Travel, Grocery, Fashion, etc. 5% Cashback on Smartbuy, and 3% Cashback on Any One Platform - Amazon, Flipkart, and PayZapp. 1% Unlimited Cashback on All Other Spends"
+    ],
+    "Reward Redemption": [
+      "Redemption for Vouchers Via PayZapp"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Spend Rs. 1 Lakh in a Card Anniversary Year",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.60% Monthly and 43.20% Yearly",
+    "Fuel Surcharge": "1% Waiver Upto ₹250 Each Statement",
+    "Cash Advance Charges": "2.5%"
+  },
+  "product_details": [
+    "The card comes at a joining fee of ₹500.",
+    "With this card, you can avail of 5% cashback on popular categories like fashion, entertainment, and dining.",
+    "5% cashback on Smartbuy spends.",
+    "1% cashback on all other eligible categories."
+  ],
+  "status": "ok"
+}

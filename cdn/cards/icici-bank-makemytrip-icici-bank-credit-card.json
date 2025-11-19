@@ -1,0 +1,51 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "₹999 + GST",
+  "renewal_fee": "₹999 + GST",
+  "best_suited_for": [
+    "Travel"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "₹1,000 MMT Voucher and MMTBLACK Gold Tier Membership",
+  "benefits": {
+    "Movie & Dining": [
+      "BOGO on Movie Ticket Bookings (Twice Each Month)"
+    ],
+    "Rewards Rate": [
+      "6 myCash/₹200 on Hotel Spends, 3 myCash/₹200 on Flight, Bus, and Cab Bookings, and 1 myCash/₹200 on Other Spends"
+    ],
+    "Reward Redemption": [
+      "1 myCash = ₹1"
+    ],
+    "Travel": [
+      "High Rewards on Travel Spends"
+    ],
+    "Domestic Lounge Access": [
+      "Eight Complimentary Visits Each Year"
+    ],
+    "International Lounge Access": [
+      "One Free Visit Each Year"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Fee Waiver on Spends of ₹3 Lakh in a Year",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "0.99%",
+    "Interest Rates": "3.75% Per Month (45% Per Annum)",
+    "Fuel Surcharge": "N/A",
+    "Cash Advance Charges": "2.5%"
+  },
+  "product_details": [
+    "The joining and annual charge of this card is ₹999 + GST.",
+    "This is a travel-centric credit card."
+  ],
+  "status": "ok"
+}

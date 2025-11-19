@@ -1,0 +1,59 @@
+{
+  "variant": "core",
+  "joining_fee": "₹10,000 + GST",
+  "renewal_fee": "₹10,000 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Dining",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Complimentary Club Marriott, Swiggy One (3 months), MakeMyTrip Black Gold Tier, Amazon Prime & Times Prime Subscription on Spending ₹1,50,000 or More in the First 90 Days of Card Issuance",
+  "benefits": {
+    "Movie & Dining": [
+      "2X Reward Points on weekend dining"
+    ],
+    "Rewards Rate": [
+      "5 Reward Points on every spend of Rs. 150. 10x Reward Points on SmartBuy and 2x Reward Points on weekend dining"
+    ],
+    "Reward Redemption": [
+      "Redeem Points for Flight/Hotel Bookings, Against Cash, or Convert Them to Airmiles"
+    ],
+    "Travel": [
+      "Complimentary Club Marriott Membership"
+    ],
+    "Domestic Lounge Access": [
+      "Unlimited complimentary access to the domestic lounges"
+    ],
+    "International Lounge Access": [
+      "Unlimited complimentary access to the international lounges"
+    ],
+    "Golf": [
+      "6 complimentary golf games per quarter at some of the most premium golf destinations around the world."
+    ],
+    "Insurance Benefits": [
+      "Travel-related insurance benefits including an air accident cover worth Rs. 2 crores, emergency overseas hospitalization cover worth Rs. 50 Lakhs, and a credit liability cover worth up to Rs. 9 lakh."
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Waiver of renewal fee on spending Rs. 5,00,000 in the previous year.",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "2% + GST",
+    "Interest Rates": "1.99% per month (or 23.88% annually)",
+    "Fuel Surcharge": "1% fuel surcharge waived (max waiver capped at Rs. 1,000/month and min transaction of  Rs. 400 required).",
+    "Cash Advance Charges": "Higher of 2.5% of the amount withdrawn or Rs. 500."
+  },
+  "product_details": [
+    "Complimentary annual membership of subscription platforms like Amazon Prime, Times Prime, etc, as a Welcome Benefit. These memberships are renewed at the expense of Rs. 8,00,000 in the anniversary year with the HDFC Bank Diners Club Black credit card.",
+    "Complimentary Ola Select, TataCliQ, BookMyShow, and cult.fit, vouchers on spends of over Rs. 80,000 every month.",
+    "5 Reward Points for every Rs. 150 spent (Reward Rate = 3.3%).",
+    "10X Reward Points on select brands.",
+    "2X Reward Points on weekend dining.",
+    "Low foreign currency markup fee of 2%.",
+    "Unlimited lounge access at 1,000 plus airport lounges in India and abroad.",
+    "Travel insurance benefits including an air accident cover worth Rs. 2 crore."
+  ],
+  "status": "ok"
+}

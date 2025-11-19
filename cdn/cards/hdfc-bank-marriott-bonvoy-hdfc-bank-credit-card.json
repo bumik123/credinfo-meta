@@ -1,0 +1,58 @@
+{
+  "variant": "core",
+  "joining_fee": "₹3,000 + GST (~₹3,540)",
+  "renewal_fee": "₹3,000 + GST (~₹3,540)",
+  "best_suited_for": [
+    "Travel",
+    "Shopping",
+    "Stays"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Silver Elite Status in the Marriott Bonvoy Program and One Free Night Award Worth 15,000 Marriott Bonvoy Points",
+  "benefits": {
+    "Movie & Dining": [
+      "Accelerated 4 RPs on Dining, and Entertainment"
+    ],
+    "Rewards Rate": [
+      "8 Marriott Bonvoy Points/₹150 for Spends at Marriott Hotels, 4 Marriott Bonvoy Points/₹150 for Travel, Dining, and Entertainment, and 2 Marriott Bonvoy Points/₹150 for Other Spends"
+    ],
+    "Reward Redemption": [
+      "Marriott Bonvoy points are credited to your membership account and you can redeem them for discounted hotel stays, dining offers, etc. at participating Marriott Hotels"
+    ],
+    "Travel": [
+      "Get up to 4 Free Night Awards at Marriott Bonvoy hotels"
+    ],
+    "Domestic Lounge Access": [
+      "12 Complimentary Lounge Access at Both Domestic and International Terminals"
+    ],
+    "International Lounge Access": [
+      "12 Free International Lounge Visits"
+    ],
+    "Golf": [
+      "2 Complimentary Golf Course Access and 2 Lessons Per Quarter"
+    ],
+    "Insurance Benefits": [
+      "Air Accident Cover, Travel Insurance, and Credit Shield"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month (45% Annually)",
+    "Fuel Surcharge": "1% fuel surcharge waiver on transactions between Rs. 400 to Rs. 5000",
+    "Cash Advance Charges": "2.5% or ₹500, Whichever is Higher"
+  },
+  "product_details": [
+    "1 Free Night Award as a welcome benefit, valid for 1 year at participating Marriott hotels.",
+    "Complimentary Marriott Bonvoy Silver Elite status.",
+    "8 Marriott Bonvoy Points on spends at participating Marriott hotels, 4 Marriott Bonvoy Points on travel, entertainment, and dining spends, and 2 Marriott Bonvoy Points on all other spends.",
+    "Up to 3 bonus free night awards on reaching the target spend milestone.",
+    "12 Complimentary domestic and international lounge access.",
+    "2 Complimentary golf course access and golf lessons per quarter worldwide.",
+    "Air accident cover, credit shield, loss liability cover, and other insurance benefits."
+  ],
+  "status": "ok"
+}

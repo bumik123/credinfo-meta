@@ -1,0 +1,59 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 50,000 + GST (Nil for Burgundy Private Account Holders)",
+  "renewal_fee": "Rs. 50,000 + GST (Nil for Burgundy Private Account Holders)",
+  "best_suited_for": [
+    "Movies",
+    "Travel",
+    "Dining"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Nil",
+  "benefits": {
+    "Movie & Dining": [
+      "Complimentary Eazy Diner Membership, BOGO Offers on Movie Ticket Bookings, and 30% Off Up to ₹1,000 on Dining Bill Payments Via EazyDiner"
+    ],
+    "Rewards Rate": [
+      "15 Edge Reward Points for every Rs. 200 spent."
+    ],
+    "Reward Redemption": [
+      "The redemption of Edge Rewards can be done against an array of options on the Edge Rewards website at a rate of 1 Edge Reward Point = Re. 0.20"
+    ],
+    "Travel": [
+      "Complimentary Club Marriott, Taj Epicure, and ALL Accor+ Explorer Memberships"
+    ],
+    "Domestic Lounge Access": [
+      "Unlimited complimentary domestic lounge access."
+    ],
+    "International Lounge Access": [
+      "Unlimited complimentary international lounge access."
+    ],
+    "Golf": [
+      "50 complimentary golf rounds every year."
+    ],
+    "Insurance Benefits": [
+      "Insurance cover worth Rs. 4.5 Crores in case of an air accident, travel insurance, lost card liability, and purchase protection."
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "Nil",
+    "Interest Rates": "1.5% per month",
+    "Fuel Surcharge": "Surcharge waiver of 1% on all transactions between Rs. 400 & Rs. 4,000.",
+    "Cash Advance Charges": "Nil"
+  },
+  "product_details": [
+    "15 Edge Reward points on every Rs. 200 you spend using your Axis Bank Burgundy Private Credit Card.",
+    "Complimentary EazyDiner Membership.",
+    "Complimentary Club Marriott, Taj Epicure, and ALL Accor+ Explorer membership.",
+    "Up to 5 complimentary movie and non-movie tickets every month on BookMyShow.",
+    "No cash advance charges & no forex markup fee.",
+    "Air accident insurance coverage worth Rs. 4.5 crores.",
+    "24*7 concierge services.",
+    "1% fuel surcharge waiver up to Rs. 400 per month."
+  ],
+  "status": "ok"
+}

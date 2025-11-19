@@ -1,0 +1,58 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "NA",
+  "benefits": {
+    "Movie & Dining": [
+      "Dining benefits with ICICI Bank Culinary Treats Programme"
+    ],
+    "Rewards Rate": [
+      "5X reward points for every Rs. 100 spent on CSDs, groceries, and departmental stores and 1 reward point for every Rs. 100 spent on all other expenses"
+    ],
+    "Reward Redemption": [
+      "Rs. 99 will be charged on every reward redemption request"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "One Domestic Airport Lounge Visit Each Quarter"
+    ],
+    "International Lounge Access": [
+      "NA"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "Personal accident insurance of Rs. 2 Lakh and Air Accident Cover of Rs. 20 Lakh"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "NA",
+    "Rewards Redemption Fee": "Rs. 99 per reward redemption request",
+    "Foreign Currency Markup": "3.5% per month or 42% annually",
+    "Interest Rates": "3.40% per month or 40.8% annually",
+    "Fuel Surcharge": "1% fuel surcharge waiver on all fuel transactions",
+    "Cash Advance Charges": "2.50% of the withdrawn amount or a minimum of Rs. 300"
+  },
+  "product_details": [
+    "5X reward points on every ₹100 spent on CSDs, groceries, and departmental stores (max capped at 1,000 points per month).",
+    "1 reward point for every ₹100 spent on all other applicable expenses.",
+    "Fuel, ATM withdrawal, balance transfer, cash withdrawal, EMIs, PLCC, fees, and other charges are not eligible to earn reward points.",
+    "1% fuel surcharge waiver on all fuel transactions across the country.",
+    "Personal accident insurance of Rs. 2 Lakh.",
+    "Air Accident Cover of Rs. 20 Lakh.",
+    "Up to 3 add-on credit cards with no added fee.",
+    "Dining benefits with ICICI Bank Culinary Treats Programme."
+  ],
+  "status": "ok"
+}

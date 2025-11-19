@@ -1,0 +1,57 @@
+{
+  "variant": "core",
+  "joining_fee": "₹1,499 + GST",
+  "renewal_fee": "₹1,499 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "NeuCoins"
+  ],
+  "welcome_benefits": "1,499 NeuCoins on Tata Neu App",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "Up to 10% NeuCoins on TataNeu Spends, 5% NeuCoins on Tata Brand Spends and 1.5% NeuCoins on UPI Spends"
+    ],
+    "Reward Redemption": [
+      "1 NeuCoin = ₹1"
+    ],
+    "Travel": [
+      "Complimentary Priority Pass (Visa Variant Only)"
+    ],
+    "Domestic Lounge Access": [
+      "8 Complimentary Domestic Lounge Access Every Year (2 Each Quarter)"
+    ],
+    "International Lounge Access": [
+      "4 Free Visits for Primary and Add-On Cardholders Each Year (One Per Quarter)"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Insurance cover worth ₹1 crore against air accidents, cover worth ₹15 lakhs against emergency hospitalization and lost card liability cover worth up to ₹9 lakhs."
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The renewal fee is waived off on achieving annual spends of Rs. 3 lakhs or more.",
+    "Rewards Redemption Fee": "Cashback Redemption Charges - ₹50",
+    "Foreign Currency Markup": "2% of the total transaction amount.",
+    "Interest Rates": "3.75% Per Month (45.0% Per Annum)",
+    "Fuel Surcharge": "1% fuel surcharge waiver for all fuel transactions in India between ₹400 and ₹5,000.",
+    "Cash Advance Charges": "2.5% of the Amount Withdrawn of ₹500, Whichever is Higher"
+  },
+  "product_details": [
+    "Welcome bonus of 1,499 Neu Coins.",
+    "Get 10% NeuCoins on your spends on Tata Neu app.",
+    "Get 5% NeuCoins on Tata’s partner brands and 1.5% Neu coins on other spends.",
+    "Get complimentary domestic and international lounge access.",
+    "Low foreign currency markup fee of 2%.",
+    "1% fuel surcharge waiver up to Rs. 500 per month.",
+    "Spend-based waiver of the renewal fee."
+  ],
+  "status": "ok"
+}

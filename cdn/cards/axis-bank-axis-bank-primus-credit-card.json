@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "₹5,00,000 + GST",
+  "renewal_fee": "₹3,00,000 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Fuel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "25,000 Axis EDGE Miles OR Rs 40,000 Gift Card from ITC Hotels",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "1 EDGE Mile/₹100 Spent on All Transactions"
+    ],
+    "Reward Redemption": [
+      "Redeem EDGE Miles for Product Catalog, Vouchers, and Partner Miles. 1 EDGE Mile = 5 Partner Miles"
+    ],
+    "Travel": [
+      "Airport Meet & Greet, Domestic Airport Transfers, Luxury Airport Transfers"
+    ],
+    "Domestic Lounge Access": [
+      "Unlimited Complimentary Domestic Lounge Access for Primary and Add-On Cardholders. 12 Free Guests Visits Each Year"
+    ],
+    "International Lounge Access": [
+      "Lounge Access- Unlimited Lounge Access for Primary and Add-On Cardholders With Priority Pass. 12 Complimentary Visits Each Year for Guests"
+    ],
+    "Golf": [
+      "Unlimited Domestic Golf Lessons and Rounds for Primary Cardholder (Along With One Guest). 4 Complimentary International Golf Rounds Along With One Guest"
+    ],
+    "Insurance Benefits": [
+      "Lost Card Liability of ₹25,00,000"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "Nil",
+    "Interest Rates": "1% Per Month (12.68% Per Annum)",
+    "Fuel Surcharge": "1% of Transaction Amount (Between ₹400 and ₹10,000",
+    "Cash Advance Charges": "Nil"
+  },
+  "product_details": [
+    "This is a super premium credit card offering by Axis Bank.",
+    "The Primus Card can be availed at a joining charge of ₹5,00,000 + GST (effectively costing ₹5,90,000).",
+    "Cardholders shall earn 1 EDGE Mile/₹100 spent on all transactions, whether for rent, shopping, utility, insurance, fuel, or travel.",
+    "This premium card provides complimentary memberships to Taj Epicure and Bloomberg."
+  ],
+  "status": "ok"
+}

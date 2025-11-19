@@ -1,0 +1,58 @@
+{
+  "variant": "core",
+  "joining_fee": "₹12,499 + GST",
+  "renewal_fee": "₹12,499 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Complimentary Taj Epicure and EazyDiner Membership and 12,500 Bonus Reward Points",
+  "benefits": {
+    "Movie & Dining": [
+      "BOGO Up to ₹750 Twice Each Month Via BookMyShow."
+    ],
+    "Rewards Rate": [
+      "6 Reward Points/₹200 Spent (Reward Rate of 3%)"
+    ],
+    "Reward Redemption": [
+      "Redeem Reward Points up to ₹1 Value for Hotels, Flights, Vouchers and More"
+    ],
+    "Travel": [
+      "Complimentary EaseMyTrip Vouchers (Milestone Benefits)"
+    ],
+    "Domestic Lounge Access": [
+      "Unlimited Free Domestic Airport Lounge Access"
+    ],
+    "International Lounge Access": [
+      "Unlimited International Lounge Access With Priority Pass for Primary and Add-on Cardholders"
+    ],
+    "Golf": [
+      "Unlimited Complimentary Golf Games at Top Courses Around the World"
+    ],
+    "Insurance Benefits": [
+      "No Cancellation Charges on Air Travel, Hotel, and Movie Bookings Up to ₹12,000"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal fee waiver on spending Rs. 10 Lakhs or above in the card anniversary year",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "2% of the total transaction amount",
+    "Interest Rates": "3.75% Per Month",
+    "Fuel Surcharge": "1% Waiver on Fuel Transactions Up to ₹4,000. Maximum Waiver of ₹1,000 Each Statement Cycle",
+    "Cash Advance Charges": "Nil"
+  },
+  "product_details": [
+    "Complimentary Taj Epicure and EazyDiner Prime membership as a welcome benefit.",
+    "Bonus 12,500 ICICI Reward Points as joining and annual benefits.",
+    "6 Reward Points per Rs. 200 spent through the card.",
+    "Complimentary EaseMyTrip air travel vouchers worth Rs. 6000 as a milestone benefit.",
+    "Complimentary unlimited golf rounds and lessons.",
+    "Complimentary unlimited domestic and international lounge access with Priority Pass.",
+    "Up to Rs. 750 off on a second ticket booking through BookMyShow.",
+    "Low forex markup fee of 2% of the transaction amount."
+  ],
+  "status": "ok"
+}

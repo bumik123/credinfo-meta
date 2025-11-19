@@ -1,0 +1,57 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "Rs. 199 + GST",
+  "renewal_fee": "Rs. 199 + GST",
+  "best_suited_for": [
+    "Fuel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "Get a discount of 25% on movie tickets through BookMyShow & exclusive discount offers on dining through the Culinary Treats Programme."
+    ],
+    "Rewards Rate": [
+      "2 Reward points per Rs. 100 spent"
+    ],
+    "Reward Redemption": [
+      "The earned Reward Points can be redeemed against a variety of products and shopping vouchers on www.icicibank.com. 1 Reward Point = Rs. 0.25."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Spend Rs. 50,000 or more in a year and get your renewal fee waived off",
+    "Rewards Redemption Fee": "Rs. 99 (plus applicable taxes) per redemption request",
+    "Foreign Currency Markup": "3.5% of the transaction amount",
+    "Interest Rates": "3.4% per month (or 40.8% per annum)",
+    "Fuel Surcharge": "You get a 1% fuel surcharge waiver across all HPCL petrol pumps.",
+    "Cash Advance Charges": "2.5% of the amount withdrawn subject to a minimum of Rs. 300"
+  },
+  "product_details": [
+    "Save 3.5% on fuel transactions (2.5% cashback and 1% fuel surcharge waiver).",
+    "Get 2 Reward Points on every retail spend of Rs. 100.",
+    "A 25% discount on movies through BookMyShow.",
+    "Exciting discount offers on dining through the Culinary Treats Programme.",
+    "Earn fuel worth Rs. 500 for 2,000 Reward Points.",
+    "Easily redeemable Reward Points, which can be redeemed through www.icicibank.com",
+    "Spend-based renewal fee waiver."
+  ],
+  "status": "ok"
+}

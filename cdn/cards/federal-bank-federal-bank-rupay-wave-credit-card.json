@@ -1,0 +1,53 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "10% Cashback on First Five UPI Spends",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "1 Reward Point Per ₹200 Spent"
+    ],
+    "Reward Redemption": [
+      "Redeem for Vouchers and Other Options"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "41.88% Yearly (3.49% Per Month)",
+    "Fuel Surcharge": "N/A",
+    "Cash Advance Charges": "N/A"
+  },
+  "product_details": [
+    "This floater card is available on the RuPay variant and can be easily linked to UPI apps.",
+    "Earn 1 Reward Point on each spend of ₹200 with this card.",
+    "The Federal Wave Card offers 1,000 bonus reward points on quarterly spends of ₹50,000.",
+    "This card comes with a shared limit (other existing Federal Cards)."
+  ],
+  "status": "ok"
+}

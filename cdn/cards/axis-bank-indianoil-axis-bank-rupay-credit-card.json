@@ -1,0 +1,58 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "Rs. 500 + GST",
+  "renewal_fee": "Rs. 500 + GST",
+  "best_suited_for": [
+    "Fuel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "1,250 EDGE Reward Points Worth ₹250",
+  "benefits": {
+    "Movie & Dining": [
+      "10% instant discount on movie ticket bookings on BookMyShow"
+    ],
+    "Rewards Rate": [
+      "20 Reward Points per Rs. 100 on fuel transactions at IOCL stations, 5 Reward Points per Rs. 100 on online shopping and 1 EDGE Point per Rs. 100 on all other spends with the card"
+    ],
+    "Reward Redemption": [
+      "Reward Points redeemable for shopping/travel vouchers and products (from the given product catalog) on Axis Bank EDGE Rewards Portal."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal Fee Waived on Annual Spending of Rs. 3.5 Lakh",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month (55.55% Per Annum)",
+    "Fuel Surcharge": "1% Fuel Surcharge Waived for Transactions Between Rs. 400 and Rs. 4,000",
+    "Cash Advance Charges": "2.5% of the Total Transaction Amount (Minimum Rs. 500)"
+  },
+  "product_details": [
+    "100% value up to 1,250 EDGE Reward Points on first fuel transactions made within 30 days of card issuance.",
+    "20 Reward Points on every Rs 100 spent at IOCL petrol pumps.",
+    "5 Reward Points on every Rs. 100 spent on online shopping.",
+    "1 EDGE Point per Rs. 100 on all other spends with the card.",
+    "Instant discount of up to 10% on movie tickets on Book My Show.",
+    "Up to 15% discount up to Rs. 500 on dining bills at partner restaurants under the Axis Bank EazyDiner Program.",
+    "1% fuel surcharge waived at all fuel stations across India.",
+    "Renewal fee waived off on annual spends of Rs. 3.5 lakh."
+  ],
+  "status": "ok"
+}

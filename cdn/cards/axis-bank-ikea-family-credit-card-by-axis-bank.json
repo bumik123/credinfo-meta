@@ -1,0 +1,51 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "None",
+  "benefits": {
+    "Movie & Dining": [
+      "15% Discount on Dining"
+    ],
+    "Rewards Rate": [
+      "3 EDGE Reward Points/₹100 for Spends With IKEA. 2 EDGE Reward Points/₹100 Spent on Dining."
+    ],
+    "Reward Redemption": [
+      "Exclusive SMS-Based Redemption on IKEA Purchases"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.6% Monthly (52.86% Annually)",
+    "Fuel Surcharge": "1% Fuel Surcharge Waiver on Transactions Between ₹400 to ₹5,000",
+    "Cash Advance Charges": "2.5% (Minimum ₹500)"
+  },
+  "product_details": [
+    "This is a lifetime free credit card most suited for those who like to shop at IKEA India.",
+    "3 EDGE Reward Points/₹100 spent on IKEA purchases."
+  ],
+  "status": "ok"
+}

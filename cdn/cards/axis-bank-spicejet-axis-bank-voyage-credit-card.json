@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "₹750 + GST",
+  "renewal_fee": "₹750 + GST",
+  "best_suited_for": [
+    "Travel"
+  ],
+  "reward_type": [
+    "Air Miles"
+  ],
+  "welcome_benefits": "SpiceJet Flight Voucher Worth ₹1,500",
+  "benefits": {
+    "Movie & Dining": [
+      "15% Off Up to ₹500 on Dining Bill Via EazyDiner"
+    ],
+    "Rewards Rate": [
+      "Maximum 18 Spiceclub points for every Rs. 200 you spend on SpiceJet website and mobile application, 6 Spiceclub points for every Rs. 200 spent on online transactions, and 3 Spiceclub points for every Rs. 200 spent on all other domestic and international transactions."
+    ],
+    "Reward Redemption": [
+      "The Spiceclub points can be redeemed against booking flight tickets, meal vouchers, etc that are available on the SpiceJet Website or Mobile App"
+    ],
+    "Travel": [
+      "Complimentary SpiceClub Silver Tier Membership"
+    ],
+    "Domestic Lounge Access": [
+      "4 Domestic Lounge Visits on Spends of ₹50,000 or More in the Last Quarter"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "NA",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% on all international transactions",
+    "Interest Rates": "3.75% Per Month (55.55% Annually)",
+    "Fuel Surcharge": "1% at all fuel stations in India",
+    "Cash Advance Charges": "2.5% of the Amount Withdrawn Subject to a Minimum Charge of ₹500"
+  },
+  "product_details": [
+    "SpiceJet voucher worth Rs. 1,500 as a welcome gift",
+    "Complimentary Spice Club Silver Membership",
+    "Bonus SpiceClub Points as milestone benefits",
+    "20% off on your dining bills at the partnered restaurants",
+    "Earn up to 18 Spice Club Points for every Rs. 200 spent on SpiceJet app and website",
+    "Complimentary domestic airport lounge access"
+  ],
+  "status": "ok"
+}

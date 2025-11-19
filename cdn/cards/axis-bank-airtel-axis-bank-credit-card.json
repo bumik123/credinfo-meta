@@ -1,0 +1,58 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Food"
+  ],
+  "reward_type": [
+    "Cashback"
+  ],
+  "welcome_benefits": "Amazon Voucher Worth Rs. 500",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "25% cashback on Airtel Mobile, Broadband, WiFi, and DTH recharges, 10% cashback on utility bill payments via the Airtel Thanks app, 10% cashback on Swiggy, Zomato and BigBasket, and 1% cashback on other spends."
+    ],
+    "Reward Redemption": [
+      "Direct Cashback Against Statement"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "One Free Visit Each Quarter on Spends of ₹50,000 or More in the Previous Quarter"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Charges Waived on Spends of ₹2 Lakh",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% of the total transaction amount.",
+    "Interest Rates": "3.75% Per Month (55.55% Per Annum)",
+    "Fuel Surcharge": "1% fuel surcharge waiver on all transactions between Rs. 400 and Rs. 4,000.",
+    "Cash Advance Charges": "Min of ₹500 Up to 2.5% of the Cash Withdrawn"
+  },
+  "product_details": [
+    "Amazon gift voucher worth Rs. 500 as a welcome benefit.",
+    "Up to 25% cashback on Airtel Mobile, broadband, and DTH bill spends via the Airtel Thanks app.",
+    "10% cashback on gas, electricity, and water bill payments via the Airtel Thanks app.",
+    "10% cashback on Swiggy, Zomato, and BigBasket",
+    "1% cashback on all other retail spends using the Airtel Axis Bank Credit Card.",
+    "4 complimentary domestic lounge access every year.",
+    "1% fuel surcharge waiver.",
+    "Spend-based waiver of the annual fee."
+  ],
+  "status": "ok"
+}

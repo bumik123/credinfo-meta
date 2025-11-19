@@ -1,0 +1,55 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Cashback"
+  ],
+  "welcome_benefits": "Benefits Worth ₹350 on Card Issuance",
+  "benefits": {
+    "Movie & Dining": [
+      "15% Up to ₹500 Off at Partner Restaurants With Axis Bank Dining Delights Program"
+    ],
+    "Rewards Rate": [
+      "5% Cashback on Flipkart & Cleartrip, 7.5% Cashback on Myntra, 4% Cashback on Preferred Partners (Swiggy, Uber, PVR, and cult.fit), and 1% Cashback on All Other Spends"
+    ],
+    "Reward Redemption": [
+      "N/A"
+    ],
+    "Travel": [
+      "Accelerated Cashback (4%) on Uber Rides"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual fee waived on spends of Rs. 3.5 lakhs",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month (55.55% annually)",
+    "Fuel Surcharge": "1% surcharge for fuel purchases between Rs. 400 & Rs. 4,000 (max waiver capped at Rs. 400/month).",
+    "Cash Advance Charges": "2.5% (Minimum of ₹500)"
+  },
+  "product_details": [
+    "Welcome gifts worth ₹350.",
+    "5% cashback on Flipkart and ClearTrip.",
+    "7.5% cashback on Myntra.",
+    "4% cash back on preferred partners, including Swiggy, Uber, PVR, and cult.fit",
+    "1% cashback on all other retail spends (with a few exceptions).",
+    "1% fuel surcharge waiver across petrol pumps in India for purchases worth ₹400 and ₹4,000. The maximum waiver is ₹400 per statement cycle."
+  ],
+  "status": "ok"
+}

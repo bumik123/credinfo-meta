@@ -1,0 +1,57 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "Rs. 500 + GST",
+  "renewal_fee": "Rs. 500 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Get 500 SuperCoins on card activation, a year Lenskart Gold membership, and a free trial membership of Ganna Plus and Youtube Premium.",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "12% SuperCoins on Flipkart purchases (for plus members), 6% Super Coins on Flipkart purchases (for non-plus members), and 2% SuperCoins on all other retail purchases."
+    ],
+    "Reward Redemption": [
+      "The SuperCoins can be redeemed against Flipkart purchases and various gift voucher options available on Flipkart. 1 Super Coin = Re. 1."
+    ],
+    "Travel": [
+      "Get a discount of up to Rs. 1,500 on domestic flights and up to Rs. 5,000 off on international flight bookings (introductory offer)"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The annual fee is waived on spending Rs. 2 lakhs or more in the previous year.",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% of the total transaction amount",
+    "Interest Rates": "3.75% Per Month (55.55% Per Year)",
+    "Fuel Surcharge": "1% fuel surcharge waiver on all fuel transactions",
+    "Cash Advance Charges": "2.5% of the withdrawn amount subject to a minimum of Rs. 500"
+  },
+  "product_details": [
+    "500 bonus SuperCoins on card activation.",
+    "15% off flight tickets on bookings via Flipkart Flights.",
+    "Get Rs. 500 off on select Myntra items on a minimum purchase of Rs. 2999.",
+    "Complimentary Gaana trial membership for three months.",
+    "Plus members get 12 SuperCoins more on purchasing with Flipkart.",
+    "30% off on the first medicine order from Flipkart health.",
+    "Spend-based waiver of the annual membership fee.",
+    "1% fuel surcharge waiver."
+  ],
+  "status": "ok"
+}

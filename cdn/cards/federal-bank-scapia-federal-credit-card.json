@@ -1,0 +1,52 @@
+{
+  "variant": "core",
+  "joining_fee": "Lifetime Free",
+  "renewal_fee": "Lifetime Free",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "20% Scapia Coins on Travel Bookings (~4%) & 10% Scapia Coins on All Other Transactions (~2%)"
+    ],
+    "Reward Redemption": [
+      "Redeem Coins on Scapia. 1 Scapia Coin = ₹0.20"
+    ],
+    "Travel": [
+      "20% Scapia Coins on Travel Bookings"
+    ],
+    "Domestic Lounge Access": [
+      "Unlimited on Making Spends of ₹10,000 for Visa Variant and ₹15,000 for RuPay Variant"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "Nil",
+    "Interest Rates": "3.75% Per Month",
+    "Fuel Surcharge": "1% Fuel Surcharge Waiver on Transactions Upto ₹5,000",
+    "Cash Advance Charges": "2.5% of the Total Amount Withdrawn or a Minimum of Rs. 500"
+  },
+  "product_details": [
+    "Earn 20% Scapia Coins while making bookings on Scapia.",
+    "Earn 10% Scapia Coins on all offline and online transactions (with few exceptions like fuel, wallet reloads, etc)."
+  ],
+  "status": "ok"
+}

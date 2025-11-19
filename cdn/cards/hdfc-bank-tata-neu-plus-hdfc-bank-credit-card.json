@@ -1,0 +1,56 @@
+{
+  "variant": "core",
+  "joining_fee": "₹499 + GST",
+  "renewal_fee": "₹499 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "NeuCoins"
+  ],
+  "welcome_benefits": "499 NeuCoins",
+  "benefits": {
+    "Movie & Dining": [
+      "NA"
+    ],
+    "Rewards Rate": [
+      "2% & 1% cashback in the form of NeuCoins while shopping on Tata and non-Tata Brands respectively. Additional 5% back as NeuCoins on the Tata Neu app or website."
+    ],
+    "Reward Redemption": [
+      "NeuCoins Can Be Redeemed on the Tata Neu App/Website or on Partner Tata Brands"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "4 Free Lounge Visits on Spends of ₹50,000 or More in a Quarter"
+    ],
+    "International Lounge Access": [
+      "NA"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "NA"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal Charges Waived on Spends of ₹1 Lakh or More",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% per month (45% annually)",
+    "Fuel Surcharge": "1% of the fuel surcharge will be waived off on fuel transactions.",
+    "Cash Advance Charges": "2.5% of the Amount Withdrawn or ₹500, Whichever is Higher"
+  },
+  "product_details": [
+    "499 NeuCoins in the form of a welcome benefit.",
+    "2% back as NeuCoins while shopping at Tata brands.",
+    "1% back as NeuCoins while shopping at Non-Tata brands.",
+    "Additional 5% back as NeuCoins on the Tata Neu app or website after registering for Tata NeuPass",
+    "Complimentary access to domestic airport lounges.",
+    "1% surcharge waiver on fuel transactions up to Rs. 250 per month.",
+    "Spend-based waiver of renewal fee."
+  ],
+  "status": "ok"
+}

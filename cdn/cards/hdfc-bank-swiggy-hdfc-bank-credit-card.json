@@ -1,0 +1,54 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Dining",
+    "Food"
+  ],
+  "reward_type": [
+    "Cashback"
+  ],
+  "welcome_benefits": "Complimentary 3-Month Swiggy One Membership",
+  "benefits": {
+    "Movie & Dining": [
+      "10% Cashback on Swiggy app including food orders, Instamart, Dineout, and more"
+    ],
+    "Rewards Rate": [
+      "10% Cashback across Swiggy app, 5% Cashback on online spends, 1% Cashback on other categories"
+    ],
+    "Reward Redemption": [
+      "Cashback Against Credit Card Statement"
+    ],
+    "Travel": [
+      "Upto 5% cashback on merchants like Uber and Ola"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "12 Free Golf Lessons, 4 Free Rounds of Green Fees, and 50% Off on Golf Services"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Charges Waived on Spend of ₹2 Lakh",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% + GST",
+    "Interest Rates": "3.75% Per Month or 45% Per Annum",
+    "Fuel Surcharge": "N/A",
+    "Cash Advance Charges": "2.5% or ₹500, Whichever is Higher"
+  },
+  "product_details": [
+    "Complimentary 3-Month Swiggy One Membership as a welcome benefit.",
+    "10% Cashback across the Swiggy app.",
+    "5% Cashback on online spends across top brands.",
+    "1% Cashback on other spends."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "₹1,000 + GST",
+  "renewal_fee": "₹1,000 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Cashback"
+  ],
+  "welcome_benefits": "1,000 CashPoints",
+  "benefits": {
+    "Movie & Dining": [
+      "Flat ₹200 Discount on Swiggy Dineout (Minimum Order Value ₹2,000). Valid Twice Each Month"
+    ],
+    "Rewards Rate": [
+      "5% Cashback Up to 1,000 CashPoints at Top Ten Online Merchants in India. 1% Cashback Up to 1,000 CashPoints on Other Eligible Spends"
+    ],
+    "Reward Redemption": [
+      "1 Cash Point = ₹1 When Redeemed Against Credit Card Statement"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Charges Waived on Spends of ₹1 Lakh or More",
+    "Rewards Redemption Fee": "₹50 + GST Per Cash Redemption Request. ₹99 + GST for Other Redemptions",
+    "Foreign Currency Markup": "3.5% + GST",
+    "Interest Rates": "3.75% Per Month (45% Annually)",
+    "Fuel Surcharge": "A 1% Fuel surcharge is waived if you spend between Rs. 400 and Rs. 5,000 on fuel (Max Rs. 250 per statement cycle)",
+    "Cash Advance Charges": "2.5% of the transaction amount, subject to a minimum fee of Rs. 500"
+  },
+  "product_details": [
+    "1,000 CashPoints as a welcome benefit on card setup (subject to realization of the joining fee).",
+    "Gift vouchers worth ₹1000 on spending ₹1 lakh or above in a quarter.",
+    "5% cashback at select partner online merchants, including popular e-commerce websites like Amazon and Flipkart.",
+    "1% cashback on all other spends except fuel, rental, and government spends.",
+    "Up to 20% discount on partner restaurants via Swiggy Dineout.",
+    "Renewal fee waiver on spending ₹1,00,000 in the previous year."
+  ],
+  "status": "ok"
+}

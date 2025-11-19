@@ -1,0 +1,59 @@
+{
+  "variant": "core",
+  "joining_fee": "₹2,500 + GST",
+  "renewal_fee": "₹2,500 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Voucher Worth ₹2,500",
+  "benefits": {
+    "Movie & Dining": [
+      "₹200 Off on Swiggy Dineout (Twice Each Month)"
+    ],
+    "Rewards Rate": [
+      "4 Reward Points/₹150 on All Eligible Retail Spends, Including Utilities, Insurance, and Education (Up to ~1.73%). 20 Reward Points/₹150 for Myntra, Marks and Spencer, Nykaa, and Reliance Digital Spends (Up to ~8.6%)"
+    ],
+    "Reward Redemption": [
+      "Redeem RPs for flight/hotel bookings via the Smartbuy portal at the rate of 1 RP = Rs. 0.50, convert RPs into airmiles through Netbanking at the rate of 1 RP = 0.50 Airmiles, Redeem RPs for products and gift vouchers on the Smartbuy portal at the rate of 1 RP = Rs. 0.35, and Redeem RPs against the Exclusive Gold Catalogue on Smartbuy at the rate of 1 RP = Rs. 0.65"
+    ],
+    "Travel": [
+      "Complimentary Flight Tickets on Reaching Spend Milestones"
+    ],
+    "Domestic Lounge Access": [
+      "3 Complimentary Domestic Airport Lounge Access Every Quarter (12 Each Year)"
+    ],
+    "International Lounge Access": [
+      "6 International Lounge Visits Via Priority Pass (For Both Primary and Add-on Cardholders)"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Air Accident Death Cover Up to ₹1 Crore, Emergency Overseas Hospitalisation Cover Worth ₹15 Lakhs, Credit Liability Cover Up to ₹9 Lakhs"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal Fee Waiver on Spending Rs. 4 Lakh in a Year",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "2% + GST",
+    "Interest Rates": "3.75% (45% Annually)",
+    "Fuel Surcharge": "N/A",
+    "Cash Advance Charges": "2.5% of total amount or Rs. 500, the higher one"
+  },
+  "product_details": [
+    "Complimentary MMT Black Gold and Swiggy One membership on spending over ₹1 lakh within 90 days of getting the card issued.",
+    "1500 worth of vouchers from any one of M&S, Myntra, Reliance Digital, or Marriott on spending ₹1.5 Lakhs each quarter",
+    "5,000 worth of complimentary flight vouchers on spending ₹7.5 Lakhs in the card anniversary year",
+    "4 Reward Points on every retail spend of ₹150 and 5X accelerated Reward Points on every ₹150 spent on purchases at M&S, Nykaa, Myntra, and Reliance Digital",
+    "12 complimentary lounge access in India at both international and domestic terminals every year",
+    "Six complimentary lounge access outside India through the Priority Pass",
+    "Air death cover up to ₹1 Crore and ₹9 Lakh lost card liability cover",
+    "Renewal fee waiver on spending ₹4 Lakhs in the card anniversary year",
+    "Low foreign currency markup fee of 2%"
+  ],
+  "status": "ok"
+}

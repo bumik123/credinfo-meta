@@ -1,0 +1,60 @@
+{
+  "variant": "core",
+  "joining_fee": "₹50,000 + GST",
+  "renewal_fee": "₹50,000 + GST",
+  "best_suited_for": [
+    "Movies",
+    "Travel",
+    "Dining",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "15,000 EDGE Reward Points on Card Activation",
+  "benefits": {
+    "Movie & Dining": [
+      "Complimentary Eazydiner Prime membership offering 25% off at various restaurants, 20% off at participating restaurants with the Dining Delights program, Buy One Get One offer on BookMyShow where you get a maximum of Rs. 500 off on the second ticket, 5 times a month."
+    ],
+    "Rewards Rate": [
+      "15 EDGE Points/₹200 Spent with the Card, 30 EDGE Points on International Spends"
+    ],
+    "Reward Redemption": [
+      "Axis Bank Edge Reward Points can be redeemed for instant vouchers and exclusive products on the bank's Edge Rewards redemption portal. Edge Reward Points can also be redeemed for Edge Miles to international and domestic airline programs at the ratio of 5:2 for Etihad Airways, Qatar Airways, Marriott International, etc."
+    ],
+    "Travel": [
+      "Global travel and medical assistance on international trips"
+    ],
+    "Domestic Lounge Access": [
+      "Unlimited domestic airport lounge access for both primary and add-on card holders"
+    ],
+    "International Lounge Access": [
+      "Unlimited international airport lounge access every year with Priority Pass membership."
+    ],
+    "Golf": [
+      "50 complimentary rounds of golf every year at country's premium golf courses"
+    ],
+    "Insurance Benefits": [
+      "Comprehensive insurance cover including purchase protection up to Rs. 2 Lakhs, 500 USD cover for loss/delay in baggage, and a Rs. 5 Lakhs credit shield"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal fee waived off on a minimum expenditure of Rs. 35 lacs in the preceding 12 months",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "1.5% of the transaction amount",
+    "Interest Rates": "3% per month (or 42.58% annually)",
+    "Fuel Surcharge": "1% fuel surcharge waived off at all filling stations across India for transactions between Rs. 400 and Rs. 4,000 (max waiver capped at Rs. 400 per month)",
+    "Cash Advance Charges": "Nil"
+  },
+  "product_details": [
+    "15,000 bonus Edge Reward Points as a welcome benefit.",
+    "15 Edge Reward Points per ₹200 spent with the card.",
+    "2X Reward Points on all international spends.",
+    "Lower mark-up fee of 1.5% of the transaction amount applicable on all foreign currency transactions.",
+    "Unlimited domestic airport lounge access and international airport lounge access for both primary and add-on cardholders with complimentary Priority Pass membership, with 12 complimentary visits in a year for accompanying guests.",
+    "Complimentary Club ITC Culinaire membership with multiple benefits at ITC hotels.",
+    "Complimentary Accorplus membership with multiple benefits at Accor hotels across India.",
+    "Complimentary Club Marriott Asia Pacific membership with exclusive benefits at participating Marriott hotels in India and Asia Pacific (on weekends only)."
+  ],
+  "status": "ok"
+}

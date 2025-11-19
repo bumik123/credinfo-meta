@@ -1,0 +1,57 @@
+{
+  "variant": "core",
+  "joining_fee": "Lifetime Free (Visa Variant)",
+  "renewal_fee": "Lifetime Free (Visa Variant)",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "12,500 EDGE Reward Points Worth ₹2,500",
+  "benefits": {
+    "Movie & Dining": [
+      "15% Up to ₹500 Off at Partner Restaurants With Axis Bank Dining Delights Program. Buy One Get One on Movie Ticket Bookings via District by Zomato"
+    ],
+    "Rewards Rate": [
+      "10 EDGE Reward Points/₹200 Spent (Reward Rate of 1%)"
+    ],
+    "Reward Redemption": [
+      "Redeem EDGE Points at 1 EDGE Point = ₹0.20 Against a Variety of Products and Vouchers"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "2 Free Visits Each Quarter on Spends of ₹50,000 or More in the Previous Three Months"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Purchase Protection Up to ₹1 Lakh and Travel Insurance"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Waiver of Renewal Fee on Spends of ₹5 Lakh or More",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% + GST",
+    "Interest Rates": "3.75% Per Month (55.55% Per Annum)",
+    "Fuel Surcharge": "1% Waiver for Fuel Transactions Between ₹400 and ₹4,000. Maximum Waiver of ₹400 Each Statement Cycle",
+    "Cash Advance Charges": "₹500 or 2.5% of the Amount Withdrawn (Whichever is Higher)"
+  },
+  "product_details": [
+    "You can earn up to 12,500 Edge Rewards as a welcome benefit.",
+    "You get 10 EDGE Points on every ₹200 you spend.",
+    "Up to a 25% discount on dining through the Axis Bank Dining Delights up to ₹800.",
+    "Complimentary domestic lounge access every year.",
+    "Spend-based renewal fee waiver.",
+    "Insurance benefits are available across several categories.",
+    "A 1% fuel surcharge waiver."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,56 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Shopping",
+    "Food"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "100% Cashback Up to ₹300 on First Utility Bill Payment",
+  "benefits": {
+    "Movie & Dining": [
+      "You get 10% off on booking movie tickets on BookMyShow and 40% off food delivery while ordering with Zomato."
+    ],
+    "Rewards Rate": [
+      "1 EDGE REWARD Point/₹200 on All Eligible Spends (Reward Rate 0.10%)"
+    ],
+    "Reward Redemption": [
+      "The Edge Rewards can be redeemed against an array of categories at the Edge Rewards Website at a rate of 1 Edge RP = Re. 0.20."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% on all foreign currency transactions",
+    "Interest Rates": "3.75% Per Month (55.55% Per Annum)",
+    "Fuel Surcharge": "1% fuel surcharge waived at all petrol pumps across India on transactions between Rs. 400 - Rs. 4000.",
+    "Cash Advance Charges": "2.50% or a minimum of Rs. 500"
+  },
+  "product_details": [
+    "1 EDGE REWARD point on every Rs. 200 spent on this card.",
+    "Reward Points are redeemable against over 500 options.",
+    "Get 40% off on Zomato food delivery with an Axis Bank Neo Credit Card.",
+    "Get 15% off on dining at partner restaurants.",
+    "Get 10% off on Blinkit, Myntra, and BookMyShow.",
+    "1% fuel surcharge waiver at all fuel stations in India."
+  ],
+  "status": "ok"
+}

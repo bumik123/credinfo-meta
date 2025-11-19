@@ -1,0 +1,56 @@
+{
+  "variant": "core",
+  "joining_fee": "₹500 + GST",
+  "renewal_fee": "₹500 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "NA",
+  "benefits": {
+    "Movie & Dining": [
+      "25% cashback on movie ticket bookings & minimum 15% discount on dining."
+    ],
+    "Rewards Rate": [
+      "4 Edge Rewards on every spend of Rs. 200."
+    ],
+    "Reward Redemption": [
+      "The earned Edge Rewards can be redeemed at the Edge Rewards portal at a rate of 1 RP = Re. 0.20."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% of the total transaction amount",
+    "Interest Rates": "3.75% Per Month (55.55% Yearly)",
+    "Fuel Surcharge": "1% fuel surcharge waiver on all fuel transactions between Rs. 400 and Rs. 4,000.",
+    "Cash Advance Charges": "2.5% of the withdrawn amount, subject to a minimum of Rs. 500."
+  },
+  "product_details": [
+    "A secured credit card.",
+    "4 Edge Reward Points on every Rs. 200 spent.",
+    "Up to Rs. 1,000 discount every year on movie tickets.",
+    "Minimum 15% discount on dining.",
+    "1% Fuel surcharge waiver on all fuel transactions.",
+    "Zero liability protection against lost/stolen card.",
+    "Withdraw cash up to your credit limit."
+  ],
+  "status": "ok"
+}

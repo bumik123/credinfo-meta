@@ -1,0 +1,56 @@
+{
+  "variant": "core",
+  "joining_fee": "₹1,000 + GST",
+  "renewal_fee": "₹1,000 + GST",
+  "best_suited_for": [
+    "Movies",
+    "Travel",
+    "Food"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Complimentary Membership of Swiggy One & Times Prime",
+  "benefits": {
+    "Movie & Dining": [
+      "Get 5x (20) reward points per Rs. 150 spent on Swiggy and Zomato. Get a Buy One Get One offer on BookMyShow movie tickets for shows on Friday, Saturday, and Sunday."
+    ],
+    "Rewards Rate": [
+      "4 Reward Points on every Rs 150 spent and up to 10x RPs on Smartbuy spends."
+    ],
+    "Reward Redemption": [
+      "1 reward point = Rs 0.5 redeemable on SmartBuy reward portal for flight & hotels bookings, 1 reward point = 0.5 Air miles."
+    ],
+    "Travel": [
+      "Get 8 complimentary airport lounge access across the world for both primary as well as add-on cardholders."
+    ],
+    "Domestic Lounge Access": [
+      "Up to 8 complimentary domestic lounge access every year"
+    ],
+    "International Lounge Access": [
+      "Up to 8 complimentary international lounge access every year"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Insurance cover worth up to Rs 1 crore in case of an air accident and an emergency cover of Rs 25 lac in case of hospitalization abroad."
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal fee waiver on spending over Rs. 3 lakhs in the previous year.",
+    "Rewards Redemption Fee": "Rs 99 per redemption request (plus applicable taxes)",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Per Month (45% Per Annum)",
+    "Fuel Surcharge": "N/A",
+    "Cash Advance Charges": "2.5 % of the withdrawal amount subject to a minimum charge of Rs 500"
+  },
+  "product_details": [
+    "Get a Complimentary Membership of Swiggy One and Times Prime as a welcome benefit.",
+    "4 Reward Points on every Rs 150 spent, and up to 10x Reward Points on Smartbuy spends, with your HDFC Bank Diners Club Privilege Credit card.",
+    "Accelerated 5x RPs on your Swiggy and Zomato spends.",
+    "8 Complimentary Lounge visits both India and abroad",
+    "Insurance Cover worth up to Rs 1 crore in case of an Air Accident."
+  ],
+  "status": "ok"
+}

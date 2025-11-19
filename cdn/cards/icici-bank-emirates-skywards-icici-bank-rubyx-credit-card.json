@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 1,000 + GST",
+  "renewal_fee": "Rs. 1,000 + GST",
+  "best_suited_for": [
+    "Travel"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "NA",
+  "benefits": {
+    "Movie & Dining": [
+      "25% discount up to Rs. 100 on movie tickets via BookMyShow and exclusive discount offers on dining."
+    ],
+    "Rewards Rate": [
+      "1.5 Skyward Miles on every retail spend of Rs. 100 and 1 Skyward Mile on every spend of Rs. 100 on utility and insurance."
+    ],
+    "Reward Redemption": [
+      "The earned Skyward Miles are automatically credited to the cardholder's Emirates Skywards account."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "1 Free Lounge Visit Each Quarter on Spends of ₹75,000 or More in the Previous Quarter"
+    ],
+    "International Lounge Access": [
+      "NA"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "NA"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "NA",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% on all foreign currency spends",
+    "Interest Rates": "3.4% per month",
+    "Fuel Surcharge": "1% fuel surcharge waiver on all fuel transactions at all fuel stations in India.",
+    "Cash Advance Charges": "2.5% of the withdrawn amount subject to a minimum of Rs. 500."
+  },
+  "product_details": [
+    "Up to 1.5 Skyward Miles on every spend of Rs .100.",
+    "Skyward Miles redeemable against travel-related booking via Emirates.com.",
+    "Complimentary domestic airport lounge access.",
+    "25% discount on movie ticket bookings via BookMyShow.",
+    "Exciting discount offers and deals on dining.",
+    "1% fuel surcharge waiver."
+  ],
+  "status": "ok"
+}

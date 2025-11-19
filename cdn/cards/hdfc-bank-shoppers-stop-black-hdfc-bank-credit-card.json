@@ -1,0 +1,54 @@
+{
+  "variant": "core",
+  "joining_fee": "₹4,500 + GST",
+  "renewal_fee": "₹4,500 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Shoppers Stop Vouchers Worth ₹4,500 and Complimentary Shoppers Stop Black Membership (Worth ₹4,500)",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "7% Reward Points/₹150 on Every SS Spends. 2% Reward Points/₹150 on Non-SS Spends"
+    ],
+    "Reward Redemption": [
+      "The points can be redeemed against the purchases made at the Shoppers Stop Outlet or through their official website."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "16 complimentary lounge access at domestic airports (maximum 4 times in a quarter)."
+    ],
+    "International Lounge Access": [
+      "Complimentary Lounge Access at international airports - 8 times in a calendar year, maximum 2 times in a quarter"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Get accidental air death cover up to Rs. 3 crore, emergency overseas hospitalization for up to Rs. 50 lakh, and credit liability up to Rs. 9 lakh."
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹50 for Cash Redemption and ₹99 for Other Reward Redemptions",
+    "Foreign Currency Markup": "3.5% + GST",
+    "Interest Rates": "3.75% Per Month (or 45% Annually)",
+    "Fuel Surcharge": "Fuel surcharge waiver of 1%, maximum up-to Rs. 500 per statement cycle, at all the petrol pumps across India",
+    "Cash Advance Charges": "2.5% of amount withdrawn or Rs. 500 whichever is higher"
+  },
+  "product_details": [
+    "Complimentary First Citizen BLACK membership.",
+    "Get 7% Reward Points on every SS spends. Maximum cap at 2,000 Reward Points per month",
+    "2% Reward Points on Non-SS spends. Maximum cap at 2,000 Reward Points per month",
+    "Complimentary access to the domestic lounge and international lounge."
+  ],
+  "status": "ok"
+}

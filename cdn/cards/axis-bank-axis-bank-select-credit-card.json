@@ -1,0 +1,58 @@
+{
+  "variant": "core",
+  "joining_fee": "₹3,000 + GST",
+  "renewal_fee": "₹3,000 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "10,000 EDGE Reward Points (Worth ₹2,000) on First Transaction",
+  "benefits": {
+    "Movie & Dining": [
+      "BOGO on Movie Tickets Via District by Zomato App (Up to ₹250, Twice Each Month). ₹200 off on Swiggy Orders (Twice Each Month) and Up to ₹800 Off With EazyDiner on Dining Bills"
+    ],
+    "Rewards Rate": [
+      "20 EDGE Points/₹200 on Retail Spends (Until Spending of ₹20,000 Per Month) (~2%). 10 EDGE Points/₹200 After That for All Spends (~1%)"
+    ],
+    "Reward Redemption": [
+      "EDGE Points are Redeemable for Travel/Shopping Vouchers and More. 1 EDGE Point = ₹0.20"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "2 Free Visits Each Quarter on Spends of ₹50,000 or More in the Previous 3 Months (Maximum 8 Each Year)"
+    ],
+    "International Lounge Access": [
+      "12 Complimentary Visits to International Lounges With Priority Pass"
+    ],
+    "Golf": [
+      "6 Golf Rounds Every Year. 6 Additional Golf Rounds on Annual Spends of ₹3 Lakh"
+    ],
+    "Insurance Benefits": [
+      "Purchase Protection Up to ₹1 Lakh and Travel Insurance"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal Fee Waived on Spends of ₹8 Lakh or More",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.75% Monthly (55.55% Annually)",
+    "Fuel Surcharge": "1% Waiver for Fuel Transactions Between ₹400 and ₹4,000. Maximum Waiver of ₹400 Each Statement Cycle",
+    "Cash Advance Charges": "2.5% or a Minimum of ₹500"
+  },
+  "product_details": [
+    "Earn 20 EDGE Points/₹200 on spends up to ₹20,000 cumulatively per month on the card and then earn 10 EDGE Points/₹200 spent after that.",
+    "Flat ₹500 on a minimum purchase of ₹2,500 on the BigBasket mobile app and website.",
+    "Get a flat discount of ₹200 on your Swiggy orders when you make a minimum transaction of ₹1,000.",
+    "12 complimentary accesses to international airport lounges annually with a Priority Pass membership.",
+    "2 complimentary domestic lounge visits (every quarter).",
+    "Bonus EDGE Points on spending ₹3 lakh in an anniversary year.",
+    "Renewal fee waiver on spending ₹8 lakh in an anniversary year.",
+    "6 complimentary golf rounds every year. Get 6 additional golf rounds on an annual expenditure of ₹3 lakh."
+  ],
+  "status": "ok"
+}
