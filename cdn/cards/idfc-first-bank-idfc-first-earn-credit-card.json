@@ -1,0 +1,53 @@
+{
+  "variant": "core",
+  "joining_fee": "₹499 + GST",
+  "renewal_fee": "₹499 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Cashback"
+  ],
+  "welcome_benefits": "100% Cashback Upto ₹500 (On First UPI Transactions Within 15 Days) - LIMITED TIME OFFER",
+  "benefits": {
+    "Movie & Dining": [
+      "25% Off Upto ₹100 on District by Zomato"
+    ],
+    "Rewards Rate": [
+      "1% Cashback on UPI Spends Via IDFC App and 0.5% Cashback on All Other Spends Including Utilities and Insurance"
+    ],
+    "Reward Redemption": [
+      "N/A"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Lost Card and Personal Accident Cover"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.99% and Annual Rate - 47.88%",
+    "Fuel Surcharge": "N/A",
+    "Cash Advance Charges": "Monthly Rate 0.75% to 3.65%"
+  },
+  "product_details": [
+    "The FIRST EA₹N Credit Card is a Fixed Deposit-backed credit card.",
+    "With this card, customers can earn 1% cashback on all UPI spends made with the IDFC app.",
+    "Earn 0.5% cashback on select categories like insurance, wallet, and utilities.",
+    "Get a 25% discount upto ₹100 while booking movies with District by Zomato."
+  ],
+  "status": "ok"
+}

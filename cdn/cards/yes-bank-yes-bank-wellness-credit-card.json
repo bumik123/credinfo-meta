@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "₹499 + GST",
+  "renewal_fee": "₹499 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "Great offers and discounts on movies, shopping, travel, and wellness at participating locations on YES Privileges."
+    ],
+    "Rewards Rate": [
+      "20 RPs/₹200 Spent on Chemists and ₹4 RPs/₹200 Spent Elsewhere"
+    ],
+    "Reward Redemption": [
+      "Redeem at YES Rewardz Portal"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "You get a Credit Shield coverage in case of accidental death of Primary cardholder"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹100 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "47.88% per annum (3.99% per month)",
+    "Fuel Surcharge": "1% fuel surcharge waiver at all fuel stations in India on transactions between INR 400 to INR 5,000",
+    "Cash Advance Charges": "2.5% of the transaction amount or Rs. 300, higher of the two."
+  },
+  "product_details": [
+    "You get a complimentary preventive health check-up every year.",
+    "6 Complimentary fitness sessions every month (Gym, Zumba, Yoga, etc).",
+    "Get unlimited health benefit offers & Earn Reward Points across multiple categories.",
+    "Earn 20 Reward Points on every Rs 200/- spent on Chemist/ Pharmaceutical stores",
+    "You get Credit Shield coverage in the event of the accidental death of the primary cardholder",
+    "1% fuel surcharge waiver across all fuel stations in India"
+  ],
+  "status": "ok"
+}

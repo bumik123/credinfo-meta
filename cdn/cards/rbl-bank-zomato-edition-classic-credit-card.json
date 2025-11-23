@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 500 + GST",
+  "renewal_fee": "Rs. 500 + GST",
+  "best_suited_for": [
+    "Dining"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "500 Edition Cash",
+  "benefits": {
+    "Movie & Dining": [
+      "Complimentary annual Zomato Pro membership and accelerated reward points on dining."
+    ],
+    "Rewards Rate": [
+      "5 Edition Cash per Rs. 100 spent on Zomato and Blinkit, 1 Edition Cash per Rs. 100 on all other spends."
+    ],
+    "Reward Redemption": [
+      "Edition Cash is redeemable for food purchases on Zomato or against the statement balance. 1 Edition Cash = Re. 1."
+    ],
+    "Travel": [
+      "NA"
+    ],
+    "Domestic Lounge Access": [
+      "NA"
+    ],
+    "International Lounge Access": [
+      "NA"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "NA"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "NA",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "Up to 3.5% (plus applicable taxes)",
+    "Interest Rates": "3.99% per month (or 47.88% annually)",
+    "Fuel Surcharge": "1% fuel surcharge levied on all fuel purchases, subject to a minimum charge of Rs. 10 (fuel surcharge waived for select cardholders for transactions between Rs. 500 & Rs. 4,000)",
+    "Cash Advance Charges": "2.5% of the withdrawn amount (minimum charge of Rs. 500)"
+  },
+  "product_details": [
+    "500 Edition Cash as a welcome benefit.",
+    "Complimentary Annual Zomato Pro membership which renews every time your card membership is renewed.",
+    "Reward Points as Edition Cash redeemable on Zomato app/website or against the card’s statement balance.",
+    "5 Edition Cash per Rs. 100 spent on Zomato app/website and Blinkit.",
+    "1 Edition Cash on all other spends of Rs. 100.",
+    "2,000 bonus Edition Cash annually on achieving the milestone spend."
+  ],
+  "status": "ok"
+}

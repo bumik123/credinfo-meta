@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "₹499 + GST",
+  "renewal_fee": "₹499 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "NA",
+  "benefits": {
+    "Movie & Dining": [
+      "15% Discount at Select Restaurants"
+    ],
+    "Rewards Rate": [
+      "4 RPs/₹200 Spent on Dining and Travel. 2 RPs/₹200 Spent on All Categories Other than Select Categories"
+    ],
+    "Reward Redemption": [
+      "Redeem Your Reward Points at YESREWARDZ"
+    ],
+    "Travel": [
+      "NA"
+    ],
+    "Domestic Lounge Access": [
+      "NA"
+    ],
+    "International Lounge Access": [
+      "NA"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "NA"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Joining Fee Waiver on Spend of ₹10,000 Within the First 30 Days of Card Issuance. On Annual Spends of ₹1 Lakh, Get the Annual Fee Waiver",
+    "Rewards Redemption Fee": "₹100",
+    "Foreign Currency Markup": "3.4%",
+    "Interest Rates": "3.8% per month",
+    "Fuel Surcharge": "1% surcharge waiver on fuel transactions across all fuel stations for transactions between Rs 400 to Rs 5000",
+    "Cash Advance Charges": "2.5% of the transaction amount subject to a minimum charge of Rs 300."
+  },
+  "product_details": [
+    "Annual fee of ₹499 plus applicable taxes",
+    "2 Reward Points for every ₹200 spent on all categories other than select categories",
+    "1 Reward Point for every ₹200 on Select categories",
+    "4 Reward Points for every ₹200 spent on dining and travel",
+    "Annual fee waiver on annual spending of ₹1 lakh",
+    "1% surcharge waiver on fuel transactions across all fuel stations"
+  ],
+  "status": "ok"
+}

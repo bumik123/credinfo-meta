@@ -1,0 +1,58 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "750 Delight Points if the first transaction of minimum Rs. 1,500 is made with 30 days of card issuance or 400 Delight Points if the first transaction of minimum Rs, 1,500 is made between 31 and 90 days of card issuance.",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "3 Delight Points per Rs. 100 spent using the card"
+    ],
+    "Reward Redemption": [
+      "Delight Points redeemable on the IDBI Delights portal for cashback, merchandise, flight tickets, mobile recharges, hotel reservations, gift cards, movie tickets, etc."
+    ],
+    "Travel": [
+      "Delight Points redeemable for flight tickets on the IDBI Delights portal, complimentary domestic airport lounge access, air accident insurance cover worth Rs. 25 lakh."
+    ],
+    "Domestic Lounge Access": [
+      "1 Complimentary domestic airport lounge access every quarter under the Visa domestic lounge program."
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Personal air accident cover worth Rs. 25 lakh"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "Rs. 99 + GST",
+    "Foreign Currency Markup": "3.5% of the transaction amount",
+    "Interest Rates": "2.5% per month",
+    "Fuel Surcharge": "1% fuel surcharge waived off at all fuel stations across India for transactions between Rs. 500 and Rs. 4,000 (max waiver capped at Rs. 500)",
+    "Cash Advance Charges": "2.5% of the transaction amount, subject to a minimum charge of Rs. 500."
+  },
+  "product_details": [
+    "Reward Points are credited as Delight Points to your credit card account.",
+    "750 Delight Points on first usage of the card (min transaction of Rs. 1,500) within 30 days or 400 Delight Points on first usage of the card between 31 and 90 days.",
+    "3 Delight Points for every Rs. 100 spent using the card.",
+    "1% fuel surcharge waiver at all filling stations across India for transactions between Rs. 400 and Rs. 5,000 (max waiver capped at Rs. 500 per month).",
+    "Personal air travel insurance cover worth Rs. 25 lakh.",
+    "Complimentary domestic airport lounge access under the Visa domestic lounge program (max 1 lounge visit per quarter).",
+    "Cardmember not liable for any fraudulent transaction post reporting the loss of card to the bank.",
+    "Up to two add-on credit cards for the cardholder’s family members. Delight Points and credit limit are shared amongst the primary and all add-on cardmembers.",
+    "Exclusive Visa offers on hotel reservations, car rentals, and airport shopping."
+  ],
+  "status": "ok"
+}

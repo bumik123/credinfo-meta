@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 999 + GST",
+  "renewal_fee": "Rs. 999 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "25% discount on movie booking through BookMyShow."
+    ],
+    "Rewards Rate": [
+      "4 reward points per Rs. 200 spent on Select categories utilities, groceries, tax payments, insurance sales, etc.8 reward points per Rs. 200 you spent on every other retail purchase16 reward points per Rs. 200 spent on travel and dining spends"
+    ],
+    "Reward Redemption": [
+      "1 Reward Point = Re. 0.25 for redemption against hotel/flight bookings, and 1 Reward Point = Re. 0.10 for redemption against gift vouchers, product catalogue, etc."
+    ],
+    "Travel": [
+      "4 complimentary international lounge access per year and 2 domestic lounge access per calendar quarter."
+    ],
+    "Domestic Lounge Access": [
+      "2 Free Domestic Lounge Access Every Quarter (8 Each Year)"
+    ],
+    "International Lounge Access": [
+      "You get 4 complimentary international lounge access every year through the Priority Pass."
+    ],
+    "Golf": [
+      "4 complimentary green fee rounds annually."
+    ],
+    "Insurance Benefits": [
+      "Life insurance of up to Rs. 1 crore in the case of death due to flight accidents and medical insurance of Rs. 25 lakhs for emergency hospitalization."
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The renewal fee can be waived off on a spend of more than 4 lakhs in the last year.",
+    "Rewards Redemption Fee": "A reward redemption fee of Rs. 100 on every redemption request.",
+    "Foreign Currency Markup": "1.75% on all foreign currency spends",
+    "Interest Rates": "3.8% per month",
+    "Fuel Surcharge": "1% fuel surcharge waiver applicable at fuel stations all over India on a minimum of Rs. 400 transaction and a maximum of Rs. 5000 transaction.",
+    "Cash Advance Charges": "2.5% of the transaction amount."
+  },
+  "product_details": [
+    "2 complimentary access to domestic lounges every quarter and 4 complimentary access to international lounges in a year.",
+    "4 reward points per Rs. 200 spent on Select categories utilities, groceries, tax payments, insurance sales, etc.",
+    "8 reward points per Rs. 200 you spent on every other retail purchase.",
+    "16 reward points per Rs. 200 spent on travel and dining spends",
+    "Foreign markup fee of 1.75%",
+    "The renewal fee can be waived off if you spend over Rs. 4 lakhs in the preceding year."
+  ],
+  "status": "ok"
+}

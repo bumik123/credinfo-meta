@@ -1,0 +1,59 @@
+{
+  "variant": "core",
+  "joining_fee": "₹75,000 + GST",
+  "renewal_fee": "₹10,000 + GST",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "BOGO on Movie Ticket Booking, Exclusive Dining Benefits With Club ITC Culinaire Membership And Dining Voucher Worth ₹3,000"
+    ],
+    "Rewards Rate": [
+      "2.5 RPs/₹100 Spent Internationally and 1 Reward Points Spent Domestically"
+    ],
+    "Reward Redemption": [
+      "1 RP = ₹0.75 for Redeeming Against Cash Credit and 2 RPs = 1 KrisFlyer Miles"
+    ],
+    "Travel": [
+      "LoungeKey membership with complimentary lounge access per quarter, and complimentary access to domestic lounges under the MasterCard India lounge access program."
+    ],
+    "Domestic Lounge Access": [
+      "2 complimentary domestic lounge visits quarterly under the MasterCard Lounge access program."
+    ],
+    "International Lounge Access": [
+      "2 complimentary international lounge visits every quarter with the LoungeKey membership"
+    ],
+    "Golf": [
+      "3 complimentary golf rounds and golf lessons every month with the exclusive golf program and 12 complimentary golf lessons & golf games every year with the Mastercard Golf program."
+    ],
+    "Insurance Benefits": [
+      "Personal Air Accident Cover Worth ₹2.5 Crores"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual membership fee waived off on spending Rs. 20,00,000 in the previous year",
+    "Rewards Redemption Fee": "Rs. 100",
+    "Foreign Currency Markup": "3.5% + GST",
+    "Interest Rates": "2.99% per month (or 36% annually)",
+    "Fuel Surcharge": "Waived for transactions between Rs. 400 and Rs. 4,000",
+    "Cash Advance Charges": "2.5% of the advanced amount, subject to a minimum amount of Rs. 300"
+  },
+  "product_details": [
+    "Reward Points can be transferred to partner airlines’ AirMiles programs or redeemable against Cash Credit.",
+    "Complimentary access to domestic and international lounges.",
+    "Airport benefits include private check-in, a private (arrival and departure) lounge, a chauffeured car (to and from the aircraft), luggage delivered directly to the private arrival lounge, and more.",
+    "Discount on dining bills with Club ITC Culinaire membership.",
+    "Complimentary golf lessons and golf games every year with the exclusive golf program and MasterCard golf program each.",
+    "Buy One Get One offer on BookMyShow movie tickets (max three free tickets/month). The free ticket price is capped at ₹700, and there is an additional discount of ₹50 on selecting the F&B option.",
+    "Up to ₹3,000 off on dining bills at over 100 partner restaurants.",
+    "Lost card liability covers from up to 48 hours prior to reporting the loss of the card.",
+    "Personal air accident cover (worth ₹2.5 crores)."
+  ],
+  "status": "ok"
+}

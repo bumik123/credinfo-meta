@@ -1,0 +1,59 @@
+{
+  "variant": "core",
+  "joining_fee": "₹1,500 + GST",
+  "renewal_fee": "₹799 + GST",
+  "best_suited_for": [
+    "Movies",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Vouchers Worth ₹1,000 from Any One of the Following Brands - Bata, United Colors of Benetton, Levis, Pantaloons, Pizza Hut",
+  "benefits": {
+    "Movie & Dining": [
+      "But 1 get 1 free offer on movie tickets"
+    ],
+    "Rewards Rate": [
+      "1 Reward Points per spend of Rs. 150"
+    ],
+    "Reward Redemption": [
+      "1 RP = ₹0.50 for Redemption Against Cash Credit"
+    ],
+    "Travel": [
+      "NA"
+    ],
+    "Domestic Lounge Access": [
+      "NA"
+    ],
+    "International Lounge Access": [
+      "NA"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "Lost Card Liability (₹3,00,000)"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "NA",
+    "Rewards Redemption Fee": "Rs. 100",
+    "Foreign Currency Markup": "2% on all foreign currency spends",
+    "Interest Rates": "3.83% per month",
+    "Fuel Surcharge": "1% fuel surcharge is waived off for all transactions between Rs. 400 & Rs. 4,000",
+    "Cash Advance Charges": "2.5% of the cash amount or Rs. 500 (whichever is higher)"
+  },
+  "product_details": [
+    "A credit cum debit card.",
+    "Welcome gift vouchers worth Rs. 1,000.",
+    "Get 1 Reward Points on every Rs. 150 you spend using your IndusInd Bank Duo Plus Credit Card.",
+    "Buy 1 get 1 free offer on movie tickets.",
+    "Exclusive travel insurance benefits.",
+    "Personal accident insurance coverage.",
+    "A 1% fuel surcharge waiver.",
+    "24*7 concierge services.",
+    "Low forex markup fee of 2%"
+  ],
+  "status": "ok"
+}

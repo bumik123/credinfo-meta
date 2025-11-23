@@ -1,0 +1,59 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Vouchers worth ₹500 on spends of ₹5,000 within 30 days of card issuance. Also, get a 5% cashback on EMI transactions (up to Rs. 1,000) within 30 days of card issuance.",
+  "benefits": {
+    "Movie & Dining": [
+      "“Buy One Get One” offer on movie tickets up to ₹125 while booking with the District app & up to 20% discount on dining at over 1500 restaurants."
+    ],
+    "Rewards Rate": [
+      "3 Reward Points/₹150 Upto Spends of ₹20,000 and 10 Reward Points/₹150 on Spends Above ₹20,000"
+    ],
+    "Reward Redemption": [
+      "1 Reward point = ₹0.25 for redemption. These reward points can be redeemed at the Poshvine reward portal or at exclusive merchant stores."
+    ],
+    "Travel": [
+      "Complimentary 4 Railway Lounge Access Per Quarter"
+    ],
+    "Domestic Lounge Access": [
+      "2 Complimentary Domestic Airport Lounge Access Every Quarter (8 Each Year)"
+    ],
+    "International Lounge Access": [
+      "NA"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "You get an air accident cover worth ₹1 crore, personal accident cover worth upto ₹5,00,000 and a travel insurance cover worth up to ₹22,500"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "NA",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "1.99%",
+    "Interest Rates": "Ranges between 0.75% to 3.5% per month based upon the credit history of the individual",
+    "Fuel Surcharge": "1% surcharge waived on all fuel purchases at all petrol pumps across India subject to a maximum amount of Rs. 300.",
+    "Cash Advance Charges": "₹199 Per Transaction"
+  },
+  "product_details": [
+    "Gift vouchers worth ₹500 and 5% cashback on EMI transactions as a welcome benefit.",
+    "10x Rewards for every ₹150 spent on purchases above ₹20,000.",
+    "10x RPs on every ₹150 spent on your birthdays.",
+    "3x Rewards on every ₹150 spent on purchases up to ₹20,000",
+    "Low interest rate (0.75% – 2.99%) and low foreign currency markup (1.5%)",
+    "Complimentary railways and airport lounge access every quarter.",
+    "Air accident cover worth ₹1 crore and Personal Accident Cover worth ₹5,00,000",
+    "Lost card liability covers worth ₹50,000",
+    "1% fuel surcharge waived on all fuel purchases"
+  ],
+  "status": "ok"
+}

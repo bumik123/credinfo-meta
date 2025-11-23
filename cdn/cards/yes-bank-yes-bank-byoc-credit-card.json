@@ -1,0 +1,56 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 49 + GST (Monthly)",
+  "renewal_fee": "Rs. 49 + GST (Monthly)",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "NA",
+  "benefits": {
+    "Movie & Dining": [
+      "NA"
+    ],
+    "Rewards Rate": [
+      "1% cash back or 8 Reward Points on every retail spend of Rs. 200 (choose between rewards/cashback)."
+    ],
+    "Reward Redemption": [
+      "The Reward Points can be redeemed against various options via the YesRewardz portal where 1 Reward Point = up to Re. 0.25."
+    ],
+    "Travel": [
+      "Complimentary airport lounge access every quarter."
+    ],
+    "Domestic Lounge Access": [
+      "1 complimentary domestic lounge access every quarter."
+    ],
+    "International Lounge Access": [
+      "NA"
+    ],
+    "Golf": [
+      "4 complimentary rounds of golf every year."
+    ],
+    "Insurance Benefits": [
+      "NA"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "NA",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5% of the total transaction amount",
+    "Interest Rates": "3.80% per month",
+    "Fuel Surcharge": "1% surcharge waiver on fuel transactions between Rs. 400 and Rs. 5,000",
+    "Cash Advance Charges": "2.5% of the withdrawn amount subject to a minimum of Rs. 300."
+  },
+  "product_details": [
+    "A fully customizable credit card.",
+    "Cardholders have an option to choose either cashback or rewards.",
+    "You get 1% cash back or 8 Reward Points on every spend of Rs. 200.",
+    "You can choose a cashback plan to earn accelerated cash back on the merchants of your choice.",
+    "Complimentary airport lounge access.",
+    "Complimentary rounds of golf every month.",
+    "1% fuel surcharge waiver on all fuel transactions."
+  ],
+  "status": "ok"
+}

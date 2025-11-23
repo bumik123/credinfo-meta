@@ -1,0 +1,54 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "₹1,500 + GST",
+  "renewal_fee": "₹1,500 + GST",
+  "best_suited_for": [
+    "Fuel"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "3,000 Fuel Points",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "15 Fuel Points/₹100 Spent at Indian Oil Stations and 2 Fuel Points/₹100 on Other Eligible Spends"
+    ],
+    "Reward Redemption": [
+      "1 Fuel Point = ₹0.50 When Redeemed at IndianOil Outlets"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Fee Waiver on Spends of ₹2.75 Lakh",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "2.5% to 3.99% Per Month",
+    "Fuel Surcharge": "1% Fuel Surcharge Waiver Upto ₹200 Each Month",
+    "Cash Advance Charges": "2.5% of the Cash Amount or a Minimum of ₹500"
+  },
+  "product_details": [
+    "The IndianOil RBL XTRA is a fuel-oriented credit card.",
+    "Cardmembers can save on fueling expenses made with IndianOil.",
+    "Fuel points are worth up to 250 liters of free petrol annually.",
+    "15 Fuel Points/₹100 spent on fuel purchases with IndianOil.",
+    "Other spends shall get 2 Fuel Points/₹100 spent."
+  ],
+  "status": "ok"
+}

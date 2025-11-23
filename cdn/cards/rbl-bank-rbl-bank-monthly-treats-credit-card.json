@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "Monthly fee of Rs. 50 + GST",
+  "renewal_fee": "Rs 50 + GST (per month)",
+  "best_suited_for": [
+    "Dining"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "NA",
+  "benefits": {
+    "Movie & Dining": [
+      "NA"
+    ],
+    "Rewards Rate": [
+      "You get 2 reward points on every Rs 100 spent on online purchases and 1 reward point on every Rs. 100 spent on offline purchases."
+    ],
+    "Reward Redemption": [
+      "Reward points can be redeemed at rblrewards for exciting rewards and offer on your air travels, hotel bookings, and much more. 1 RP = Re. 0.25."
+    ],
+    "Travel": [
+      "NA"
+    ],
+    "Domestic Lounge Access": [
+      "NA"
+    ],
+    "International Lounge Access": [
+      "NA"
+    ],
+    "Golf": [
+      "NA"
+    ],
+    "Insurance Benefits": [
+      "NA"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "A spend-based waiver on the monthly fee of Rs. 50 on annual spending of Rs. 3,000 or more.",
+    "Rewards Redemption Fee": "Rs. 99 per redemption request.",
+    "Foreign Currency Markup": "3.5% on the conversion amount",
+    "Interest Rates": "3.99% per month  (47.88% per annum)",
+    "Fuel Surcharge": "1% fuel surcharge waiver on transactions between Rs. 500 to Rs. 4,000",
+    "Cash Advance Charges": "2.5% on withdrawal amount subject to a minimum charge of Rs. 300"
+  },
+  "product_details": [
+    "2 reward points on every Rs 100. spent on online purchases.",
+    "1 reward point on every Rs. 100 spent on offline purchases",
+    "10% cashback on groceries every month after achieving a spend of Rs. 3,000 in a month.",
+    "10% cashback on BookMyShow, Bill payments, and Swiggy on spending Rs. 5,000 or more in a month.",
+    "Spend-based waiver of monthly membership fee.",
+    "1% fuel surcharge waiver."
+  ],
+  "status": "ok"
+}

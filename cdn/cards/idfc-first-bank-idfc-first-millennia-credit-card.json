@@ -1,0 +1,59 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Movies",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "5% cashback on first EMI spend up to Rs. 1,000 and additional welcome gift vouchers worth Rs. 500 on spending Rs. 5,000 within 30 days of card generation",
+  "benefits": {
+    "Movie & Dining": [
+      "25% Discount Up to ₹100 on District App. 20% Discount on Popular Restaurants"
+    ],
+    "Rewards Rate": [
+      "3X Reward Points Till Spends of ₹20,000. 10X Reward Points After Incremental Spends of ₹20,000"
+    ],
+    "Reward Redemption": [
+      "N/A"
+    ],
+    "Travel": [
+      "Four Free Railway Lounge Access Each Quarter (Spend ₹20,000 Each Month to Unlock)"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "Personal Accidental Cover Worth ₹2 Lakh and Lost Card Liability Cover of ₹25,000"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Nil",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "3.5% of the total transaction value.",
+    "Interest Rates": "Starting from 0.75% and goes up to 3.5% per month.",
+    "Fuel Surcharge": "1% Waiver on Fuel Transactions Between ₹200 and ₹5,000 (Maximum ₹200 Each Statement Cycle)",
+    "Cash Advance Charges": "Transaction fees of Rs. 199"
+  },
+  "product_details": [
+    "Zero annual fee credit card.",
+    "Comes with never-expiring reward points.",
+    "3X Reward Points on spends until ₹20,000.",
+    "10X Reward Points on spends of ₹20,000 and above.",
+    "Interest rates start at 0.75% per month.",
+    "Complimentary railway lounge access 4 times in a quarter.",
+    "Complimentary roadside assistance worth ₹1399",
+    "Personal Accidental Cover worth ₹2 lakh on all active cards.",
+    "Fuel surcharge waiver on all fuel purchases up to ₹200 per month."
+  ],
+  "status": "ok"
+}

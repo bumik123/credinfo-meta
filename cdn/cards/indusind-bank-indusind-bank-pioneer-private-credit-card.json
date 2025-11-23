@@ -1,0 +1,53 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "₹25,000 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "6,000 Reward Points (On Spends of ₹1 Lakh)",
+  "benefits": {
+    "Movie & Dining": [
+      "2 Free Movie Tickets Each Month. Upto ₹6,000 Discount on Dining Each Year With EazyDiner"
+    ],
+    "Rewards Rate": [
+      "3 RPs for All Eligible Spends and 0.7 RPs on Select Categories (Utilities, Education, Government Transactions)"
+    ],
+    "Reward Redemption": [
+      "Redeem Points at Indus Moments. You Can Redeem at a 1:1 Ratio for Cash Credit, Airmiles, and Gift Vouchers"
+    ],
+    "Travel": [
+      "0% Forex Fees"
+    ],
+    "Domestic Lounge Access": [
+      "Unlimited Domestic Airport Lounge Access"
+    ],
+    "International Lounge Access": [
+      "Unlimited International Airport Lounge Access (Through Priority Pass)"
+    ],
+    "Golf": [
+      "Unlimited Domestic Golf Lessons and Games"
+    ],
+    "Insurance Benefits": [
+      "Overseas Medical Insurance of USD 25,000, Air Accident Cover and Total Protect"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Annual Fee Waiver on Spends of ₹10 Lakh or More in a Year",
+    "Rewards Redemption Fee": "N/A",
+    "Foreign Currency Markup": "Zero Forex Charges",
+    "Interest Rates": "2% Monthly (24% Annually)",
+    "Fuel Surcharge": "1% Fuel Surcharge Waived on Transactions Between ₹500 and ₹10,000",
+    "Cash Advance Charges": "Nil"
+  },
+  "product_details": [
+    "The IndusInd Pioneer Private Credit Card is one of the most luxurious offerings by the bank.",
+    "One can avail of Buy One Get One Free on movie and non-movie ticket bookings.",
+    "One of the exclusive features of this card is the unlimited complimentary domestic and international airport lounge access.",
+    "Cardholders shall also be eligible for unlimited golf lessons across India."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,52 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "N/A",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "2 RPs for Every ₹200 on Non-UPI Spends"
+    ],
+    "Reward Redemption": [
+      "N/A"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Nil",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "3.8% Monthly",
+    "Fuel Surcharge": "1%",
+    "Cash Advance Charges": "Nil"
+  },
+  "product_details": [
+    "The Klick RuPay Credit Card is a 100% virtual card.",
+    "This is a lifetime free credit card.",
+    "Earn 2 Reward Points/₹200 on non-UPI spends."
+  ],
+  "status": "ok"
+}

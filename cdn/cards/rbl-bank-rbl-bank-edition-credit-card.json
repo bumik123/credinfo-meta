@@ -1,0 +1,58 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 2,000 + GST",
+  "renewal_fee": "Rs. 2,000 + GST",
+  "best_suited_for": [
+    "Dining"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "Complimentary Zomato pro membership.",
+  "benefits": {
+    "Movie & Dining": [
+      "Buy One Get One (BOGO) offer on movie tickets through BookMyShow. Accelerated reward rate on Zomato and other food purchases."
+    ],
+    "Rewards Rate": [
+      "10 Edition Cash per Rs. 100 spent on Zomato and Blinkit. 1 Edition Cash per Rs. 100 spent on all other spends."
+    ],
+    "Reward Redemption": [
+      "Edition cash is redeemable on Zomato and can be adjusted against the card's statement balance.1 Edition Cash = Re. 1."
+    ],
+    "Travel": [
+      "Complimentary domestic and international lounge access, low forex mark-up fee of 1.5%."
+    ],
+    "Domestic Lounge Access": [
+      "2 complimentary domestic lounge visits (per quarter)."
+    ],
+    "International Lounge Access": [
+      "2 complimentary international lounge visits (per year) with the Priority Pass."
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Spend Rs. 4,00,000 in the previous year and get a waiver on the annual fee.",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "1.5% + GST",
+    "Interest Rates": "3.99% per month or 47.88% annually",
+    "Fuel Surcharge": "1%. Waived off for select card members for transactions between Rs. 500 and Rs. 4,000 at the sole discretion of the bank.",
+    "Cash Advance Charges": "2.5% , subject to a minimum fee of Rs. 500."
+  },
+  "product_details": [
+    "Complimentary Zomato Pro membership which automatically gets renewed every year.",
+    "Reward Points as Edition Cash (1 Edition Cash = Re. 1).",
+    "10 Edition Cash per Rs. 100 spent on Zomato and Blinkit.",
+    "1 Edition Cash per Rs. 100 spent on all other spends.",
+    "2,000 bonus Edition Cash on spending Rs. 5,00,000 in an anniversary year.",
+    "Annual fee waiver on expenditure of Rs. 4,00,000 in the preceding year.",
+    "Complimentary access to domestic and international lounges.",
+    "Lower international transaction fee of 1.5%.",
+    "Buy one and get one movie ticket free on BookMyShow once every month (max discount of Rs. 200 per transaction)."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,58 @@
+{
+  "variant": "core",
+  "joining_fee": "₹15,000 + GST",
+  "renewal_fee": "Nil",
+  "best_suited_for": [
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Choose any one benefit from, a Luxe gift card, a complimentary night stay at Oberoi hotels, or gift vouchers from brands like Hush Puppies, BATA, Titan, Pantaloons, Raymond, etc.",
+  "benefits": {
+    "Movie & Dining": [
+      "BOGO on Movie Ticket Bookings Up to ₹200 (Thrice Each Month)"
+    ],
+    "Rewards Rate": [
+      "Earn 2.5 reward points per Rs. 100 spent online, 1.5 reward points per Rs. 100 spent on online travel and flight bookings,  1 RP for spends of Rs. 100 on other purchases."
+    ],
+    "Reward Redemption": [
+      "1 RP = ₹0.75 for Redeeming Against Cash Credit. RPs Can Also Be Redeemed for KrisFlyer Miles and Maharaja Club Points"
+    ],
+    "Travel": [
+      "Complimentary Priority Pass Membership"
+    ],
+    "Domestic Lounge Access": [
+      "1 Free Visit Each Quarter"
+    ],
+    "International Lounge Access": [
+      "1 Complimentary International Lounge Visit With Priority Pass"
+    ],
+    "Golf": [
+      "1 Complimentary Golf Lesson and 1 Golf Game Every Month"
+    ],
+    "Insurance Benefits": [
+      "Several Travel Related Insurance Covers are Offered, Such as Air Accident Cover"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Nil",
+    "Rewards Redemption Fee": "For Cash Redemption - ₹149 + GST",
+    "Foreign Currency Markup": "International usage charges of 3.5%",
+    "Interest Rates": "3.83% Per Month (46% Per Annum)",
+    "Fuel Surcharge": "1% fuel surcharge waiver applicable on all fuel transactions",
+    "Cash Advance Charges": "2.5% of Cash Advance (Minimum Charge of ₹300)"
+  },
+  "product_details": [
+    "Exciting gift vouchers from popular brands like Oberoi Hotels, Luxe, Postcard, etc., can be used as a welcome gift.",
+    "Up to 2.5 Reward Points per ₹100 spent.",
+    "Buy 1 Get 1 Free (BOGO) offer on movie tickets via BookMyShow.",
+    "Complimentary Priority Pass membership.",
+    "Complimentary access to domestic & international airport lounges.",
+    "24 complimentary golf rounds annually.",
+    "Air accident cover worth ₹25 lakhs.",
+    "1% fuel surcharge waiver."
+  ],
+  "status": "ok"
+}

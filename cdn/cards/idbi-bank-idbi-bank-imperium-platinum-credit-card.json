@@ -1,0 +1,52 @@
+{
+  "variant": "core",
+  "joining_fee": "Nil",
+  "renewal_fee": "₹499 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Up to 800 Bonus Delight Points",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "2 Delight Points on every Rs 150 spent"
+    ],
+    "Reward Redemption": [
+      "1 Reward Point = ₹0.25 Redeemable on IDBI Delight Reward Portal"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "Renewal fee waiver on spends of Rs. 75,000 in a year",
+    "Rewards Redemption Fee": "Rs 100 per redemption request",
+    "Foreign Currency Markup": "3.5% of the conversion amount",
+    "Interest Rates": "2.9% per month",
+    "Fuel Surcharge": "1% Waiver on Fuel Transactions Between ₹400 and ₹4,000",
+    "Cash Advance Charges": "2.5% on the withdrawal amount subject to a minimum charge of Rs 500"
+  },
+  "product_details": [
+    "500 Welcome bonus Delight points on the spending of Rs 1500 within 30 days of card issuance",
+    "300 Welcome bonus Delight points on the spending of Rs 1500 between 31 to 90 days of card issuance",
+    "2 Delight Points on every Rs 150 spent shopping, movies, and traveling using your IDBI Bank Imperium Platinum credit card"
+  ],
+  "status": "ok"
+}

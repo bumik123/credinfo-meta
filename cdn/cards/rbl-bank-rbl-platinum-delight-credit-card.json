@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 1,000 + GST",
+  "renewal_fee": "Rs. 1,000 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "N/A"
+  ],
+  "welcome_benefits": "4,000 Reward Points",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "2 Reward Points on every Rs. 100 spent on weekdays and 4 Reward Points on every Rs. 100 spent on weekends."
+    ],
+    "Reward Redemption": [
+      "The reward points you earn through your RBL Platinum Delight credit card can be redeemed easily at rblrewards. 1 RP = Rs. 0.25."
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "The renewal fee is waived if you spend Rs. 2 lakh or more in a year.",
+    "Rewards Redemption Fee": "Rs. 99 + GST",
+    "Foreign Currency Markup": "Up to 3.5% on all foreign currency spends",
+    "Interest Rates": "Up to 3.99% per month",
+    "Fuel Surcharge": "1% fuel surcharge waiver on all transactions between Rs. 500 and Rs. 4,000.",
+    "Cash Advance Charges": "2.5% of the amount withdrawn or Rs. 500 (whichever is higher)"
+  },
+  "product_details": [
+    "A welcome gift of 4,000 Reward Points.",
+    "2 Reward Points on every Rs. 100 spent on weekdays.",
+    "2x Reward Points on weekends.",
+    "Spend-based monthly bonus Reward Points.",
+    "1% fuel surcharge waiver.",
+    "Spend-based annual fee waiver."
+  ],
+  "status": "ok"
+}

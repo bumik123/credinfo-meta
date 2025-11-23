@@ -1,0 +1,55 @@
+{
+  "variant": "co-branded",
+  "joining_fee": "₹499 + GST",
+  "renewal_fee": "₹499 + GST",
+  "best_suited_for": [
+    "Fuel"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "₹500 gift voucher on your 1st HPCL fuel transaction above ₹500 and up to 5% cashback (up to ₹1,000 capped) on the transaction value of the first EMI.",
+  "benefits": {
+    "Movie & Dining": [
+      "25% off on movie tickets up to ₹100 once per month."
+    ],
+    "Rewards Rate": [
+      "30X Reward Points on HPCL Fuel up to 2,400 Reward Points. You can save up to 5% as rewards on grocery and utility expenses, up to 5% as a reward on IDFC FIRST FASTag recharges (max ₹1,000 per month), and 3X rewards on all other retail transactions."
+    ],
+    "Reward Redemption": [
+      "1 Reward Point = ₹0.25"
+    ],
+    "Travel": [
+      "Complimentary Roadside Assistance Worth ₹1,399"
+    ],
+    "Domestic Lounge Access": [
+      "1 Complimentary Domestic Lounge Access Every Quarter (4 Each Year)"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "The benefit of a personal accident cover of ₹2 lakh and lost card liability cover of ₹25,000."
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "₹1,50,000 spent in the previous year.",
+    "Rewards Redemption Fee": "₹99 on every redemption request",
+    "Foreign Currency Markup": "3.5% on all international transactions",
+    "Interest Rates": "0.75% to 3.65% Per Month (9% to 43.8% Annually)",
+    "Fuel Surcharge": "N/A",
+    "Cash Advance Charges": "₹199 as a cash advance fee."
+  },
+  "product_details": [
+    "Save up to 6.5% on fuel spends with this credit card.",
+    "Save up to 5% as a reward on utility and grocery bills (max cap. ₹2,000 per month)",
+    "Save up to 5% as rewards on IDFC FIRST FASTag recharge (max cap ₹1,000 per month)",
+    "Get 3X rewards on all other miscellaneous retail transactions.",
+    "Complimentary domestic airport lounge access per quarter (minimum monthly spending of ₹20,000)",
+    "Get up to 25% off on movie tickets (₹100 max cap per month)"
+  ],
+  "status": "ok"
+}

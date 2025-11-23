@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "₹5,999 + GST",
+  "renewal_fee": "₹5,999 + GST",
+  "best_suited_for": [
+    "Movies",
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "Up to 12,000 Reward Points",
+  "benefits": {
+    "Movie & Dining": [
+      "BOGO on Movie Tickets Upto ₹500. This Can Be Availed Twice Each Month"
+    ],
+    "Rewards Rate": [
+      "10X Reward Points/₹150 on Incremental Spends Above ₹20,000 Per Statement Cycle. 5X Reward Points/₹150 on Spends Upto ₹20,000. 3X RPs Are Also Awarded for Rent, Wallet Load, Education, and Government Transactions"
+    ],
+    "Reward Redemption": [
+      "1 RP = ₹0.50 for Travel Bookings Via IDFC Travel & Shop. 1 RP = ₹0.25 Everywhere Else"
+    ],
+    "Travel": [
+      "4 Complimentary Railway Lounge Access Each Quarter"
+    ],
+    "Domestic Lounge Access": [
+      "4 Free Visits Across the Country Each Quarter, 16 in a Year. One Additional Free Guest Visit Each Quarter"
+    ],
+    "International Lounge Access": [
+      "4 Free Visits Each Quarter, 16 in a Year"
+    ],
+    "Golf": [
+      "2 Free Golf Rounds/Golf Lessons Each Month"
+    ],
+    "Insurance Benefits": [
+      "Purchase Protection, Travel Insurance, Free Trip Cancellation, and Personal Accident Cover"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "₹99 + GST",
+    "Foreign Currency Markup": "Zero (0%)",
+    "Interest Rates": "Monthly Rate - 0.75% - 3.65%. Annual Rate - 9% - 43.8%",
+    "Fuel Surcharge": "1% Fuel Surcharge Waiver on Transactions Between ₹200 and ₹5,000 (Maximum ₹300 Per Statement Cycle)",
+    "Cash Advance Charges": "₹199"
+  },
+  "product_details": [
+    "The Mayura Credit Card is a premium credit card that comes at a fee of ₹5,999.",
+    "This card offers 10X Reward Points on incremental spends of ₹20,000 or above.",
+    "Cardholders can access both international and domestic airport lounges with this card.",
+    "Availing this card is relatively easy; one can also apply for this on a card-to-card basis."
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,48 @@
+{
+  "variant": "core",
+  "joining_fee": "₹99 + GST",
+  "renewal_fee": "₹99 + GST",
+  "best_suited_for": [
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "20% Cashback on First Two UPI Transactions Within 15 Days of Card Issuance; Capped at ₹50",
+  "benefits": {
+    "Movie & Dining": [
+      "N/A"
+    ],
+    "Rewards Rate": [
+      "1 RP/₹200 Spent"
+    ],
+    "Reward Redemption": [
+      "₹99 + GST"
+    ],
+    "Travel": [
+      "N/A"
+    ],
+    "Domestic Lounge Access": [
+      "N/A"
+    ],
+    "International Lounge Access": [
+      "N/A"
+    ],
+    "Golf": [
+      "N/A"
+    ],
+    "Insurance Benefits": [
+      "N/A"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "N/A",
+    "Rewards Redemption Fee": "Redeem Rewards at RBL Rewards. 1 RP = ₹0.25.",
+    "Foreign Currency Markup": "3.5%",
+    "Interest Rates": "Up to 3.99% per Month (47.88% per Annum)",
+    "Fuel Surcharge": "1%",
+    "Cash Advance Charges": "2.5% or ₹500 Whichever is Lower"
+  },
+  "product_details": [],
+  "status": "ok"
+}

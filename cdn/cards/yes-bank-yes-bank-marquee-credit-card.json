@@ -1,0 +1,55 @@
+{
+  "variant": "core",
+  "joining_fee": "Rs. 9,999 + GST",
+  "renewal_fee": "Rs. 4,999 + GST",
+  "best_suited_for": [
+    "Movies",
+    "Travel",
+    "Shopping"
+  ],
+  "reward_type": [
+    "Reward Points"
+  ],
+  "welcome_benefits": "40,000 Reward Points",
+  "benefits": {
+    "Movie & Dining": [
+      "15% Discount on Select Restaurants and BOGO on Movies"
+    ],
+    "Rewards Rate": [
+      "36 RPs for Each Spend of Rs. 200 on Online Shopping and 18 RPs for Each Offline Spend of Rs. 200"
+    ],
+    "Reward Redemption": [
+      "Redeem with Yes Rewardz"
+    ],
+    "Travel": [
+      "Lounge Access and Low Foreign Mark-up Fees"
+    ],
+    "Domestic Lounge Access": [
+      "6 Free Visits Each Quarter (24 in a Year)"
+    ],
+    "International Lounge Access": [
+      "Unlimited Lounge Access for Primary & Add-On Cardholders"
+    ],
+    "Golf": [
+      "One Complimentary Golf Lesson Each Month & 4 Green Fee Waivers"
+    ],
+    "Insurance Benefits": [
+      "Credit Shield Cover of Rs. 3 Lakh"
+    ]
+  },
+  "fees_charges": {
+    "Spend-Based Waiver": "On Spending Rs. 10 Lakh in a Year",
+    "Rewards Redemption Fee": "Nil",
+    "Foreign Currency Markup": "1% of the Transaction Amount",
+    "Interest Rates": "2.99% Per Month (35.88% Annually)",
+    "Fuel Surcharge": "1% on Fuel Transactions Between Rs. 400 and Rs. 5,000",
+    "Cash Advance Charges": "2.5% of the Transaction Amount"
+  },
+  "product_details": [
+    "This is a premium card offered by Yes Bank.",
+    "This card carries unlimited lounge access for primary and add-on card holders.",
+    "BOGO on movies.",
+    "34 RPs for online spends of Rs. 200 and 18 RPs for offline spends."
+  ],
+  "status": "ok"
+}
